@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Async VPN config fetcher: downloads subscription files, base64-decodes when needed, saves to output/N.txt"
 license = "MIT"
+default-run = "vc"
 
 [[bin]]
 name = "vc"
