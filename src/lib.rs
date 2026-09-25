@@ -9,6 +9,7 @@
 //! - `error` — единый тип ошибок;
 //! - `settings` — загрузка настроек из переменных среды.
 //! - `splitter` — нарезка файлов больше лимита конфигов на построчные части.
+//! - `urls` — индекс `output/urls.txt` с CDN-ссылками на все файлы.
 
 pub mod config;
 pub mod decoder;
@@ -18,6 +19,7 @@ pub mod saver;
 pub mod service;
 pub mod settings;
 pub mod splitter;
+pub mod urls;
 
 pub use config::{load_sources, Source};
 pub use decoder::decode_if_needed;
@@ -29,3 +31,4 @@ pub use settings::Settings;
 pub use splitter::{
     count_configs, find_large_files, split_content, split_file_if_large, DEFAULT_MAX_PER_FILE,
 };
+pub use urls::{cdn_url_for, collect_output_files, write_urls_file, CDN_BASE, URLS_FILE_NAME};

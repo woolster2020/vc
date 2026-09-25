@@ -11,7 +11,7 @@
 
 use std::process::ExitCode;
 
-use vc::{load_sources, FileSaver, HttpFetcher, Settings, SyncService};
+use vc::{load_sources, write_urls_file, FileSaver, HttpFetcher, Settings, SyncService};
 
 #[tokio::main]
 async fn main() -> ExitCode {
@@ -86,6 +86,16 @@ async fn main() -> ExitCode {
         sources.len(),
         output_dir.display()
     );
+
+    // Индекс CDN-ссылок на все файлы вывода (кроме самого urls.txt).
+    // Пишем всегда, когда хоть один источник успешно синхронизирован,
+    // чтобы подписчики могли забрать список одним запросом.
+    if ok > 0 {
+        match write_urls_file(&output_dir) {
+            Ok(index) => println!("ok   urls: {} (index)", index.display()),
+            Err(e) => eprintln!("fail urls.txt: {e}"),
+        }
+    }
 
     if ok == 0 {
         ExitCode::FAILURE

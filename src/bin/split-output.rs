@@ -13,7 +13,7 @@
 use std::path::PathBuf;
 use std::process::ExitCode;
 
-use vc::{find_large_files, split_file_if_large, DEFAULT_MAX_PER_FILE};
+use vc::{find_large_files, split_file_if_large, write_urls_file, DEFAULT_MAX_PER_FILE};
 
 fn main() -> ExitCode {
     let mut cli = std::env::args().skip(1);
@@ -36,33 +36,42 @@ fn main() -> ExitCode {
 
     if large.is_empty() {
         println!("no files over {max_per_file} configs in {}", dir.display());
-        return ExitCode::SUCCESS;
-    }
-
-    let mut total_parts = 0usize;
-    for path in &large {
-        match split_file_if_large(path, max_per_file) {
-            Ok(parts) => {
-                total_parts += parts.len();
-                println!(
-                    "split {} ({} part(s)): {} .. {}",
-                    path.display(),
-                    parts.len(),
-                    parts
-                        .first()
-                        .map_or("-".into(), |p| p.display().to_string()),
-                    parts.last().map_or("-".into(), |p| p.display().to_string()),
-                );
-            }
-            Err(e) => {
-                eprintln!("fail {}: {e}", path.display());
-                return ExitCode::FAILURE;
+    } else {
+        let mut total_parts = 0usize;
+        for path in &large {
+            match split_file_if_large(path, max_per_file) {
+                Ok(parts) => {
+                    total_parts += parts.len();
+                    println!(
+                        "split {} ({} part(s)): {} .. {}",
+                        path.display(),
+                        parts.len(),
+                        parts
+                            .first()
+                            .map_or("-".into(), |p| p.display().to_string()),
+                        parts.last().map_or("-".into(), |p| p.display().to_string()),
+                    );
+                }
+                Err(e) => {
+                    eprintln!("fail {}: {e}", path.display());
+                    return ExitCode::FAILURE;
+                }
             }
         }
+        println!(
+            "done: {} file(s) -> {total_parts} part(s), sources removed",
+            large.len()
+        );
     }
-    println!(
-        "done: {} file(s) -> {total_parts} part(s), sources removed",
-        large.len()
-    );
-    ExitCode::SUCCESS
+
+    match write_urls_file(&dir) {
+        Ok(index) => {
+            println!("ok   urls: {} (index)", index.display());
+            ExitCode::SUCCESS
+        }
+        Err(e) => {
+            eprintln!("fail urls.txt: {e}");
+            ExitCode::FAILURE
+        }
+    }
 }
