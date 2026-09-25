@@ -19,9 +19,11 @@ use crate::saver::Saver;
 #[derive(Debug)]
 pub enum Outcome {
     /// Успех: что сохранили и был ли контент закодирован.
+    /// `paths` — один файл либо несколько частей `{id}-{n}.txt` для
+    /// больших подписок (см. [`crate::splitter`]).
     Synced {
         id: String,
-        path: PathBuf,
+        paths: Vec<PathBuf>,
         was_encoded: bool,
         bytes: usize,
     },
@@ -91,9 +93,9 @@ where
         };
 
         match self.saver.save(&source.id, &decoded).await {
-            Ok(path) => Outcome::Synced {
+            Ok(paths) => Outcome::Synced {
                 id: source.id.clone(),
-                path,
+                paths,
                 was_encoded,
                 bytes: decoded.len(),
             },
@@ -168,12 +170,12 @@ mod tests {
     }
 
     impl Saver for FakeSaver {
-        async fn save(&self, id: &str, content: &str) -> crate::error::Result<PathBuf> {
+        async fn save(&self, id: &str, content: &str) -> crate::error::Result<Vec<PathBuf>> {
             self.stored
                 .lock()
                 .unwrap()
                 .insert(id.to_string(), content.to_string());
-            Ok(PathBuf::from(format!("output/{id}.txt")))
+            Ok(vec![PathBuf::from(format!("output/{id}.txt"))])
         }
     }
 

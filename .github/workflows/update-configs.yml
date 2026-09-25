@@ -42,7 +42,9 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           
           # Индексируем только изменения в папке с результатами.
-          git add output/
+          # -A: stage-ит и новые части `{id}-{n}.txt`, и удаления
+          # (исходные большие `{id}.txt`, устаревшие хвосты сплита).
+          git add -A output/
           
           # Проверяем, изменилось ли что-то.
           if git diff --cached --quiet; then

@@ -49,14 +49,23 @@ async fn main() -> ExitCode {
         match outcome {
             vc::Outcome::Synced {
                 id,
-                path,
+                paths,
                 was_encoded,
                 bytes,
             } => {
                 ok += 1;
+                let where_saved = if paths.len() == 1 {
+                    paths[0].display().to_string()
+                } else {
+                    format!(
+                        "{} part(s): {} .. {}",
+                        paths.len(),
+                        paths[0].display(),
+                        paths[paths.len() - 1].display()
+                    )
+                };
                 println!(
-                    "ok   {id}: {} ({} bytes{})",
-                    path.display(),
+                    "ok   {id}: {where_saved} ({} bytes{})",
                     bytes,
                     if *was_encoded { ", base64" } else { "" }
                 );
