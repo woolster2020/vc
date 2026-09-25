@@ -4,11 +4,11 @@
 //! - `config` — загрузка `urls.json` (внешний конфиг);
 //! - `fetcher` — порт `Fetcher` + HTTP-адаптер на `reqwest`;
 //! - `decoder` — доменное правило "нет `://` → base64";
-//! - `saver` — порт `Saver` + файловый адаптер (со сплитом >1 МиБ на части);
+//! - `saver` — порт `Saver` + файловый адаптер (со сплитом >500 конфигов на части);
 //! - `service` — use-case: склеивает порты, гоняет всё конкурентно на Tokio;
 //! - `error` — единый тип ошибок;
 //! - `settings` — загрузка настроек из переменных среды.
-//! - `splitter` — нарезка файлов больше 1 МиБ на построчные части.
+//! - `splitter` — нарезка файлов больше лимита конфигов на построчные части.
 
 pub mod config;
 pub mod decoder;
@@ -26,4 +26,6 @@ pub use fetcher::{Fetcher, HttpFetcher};
 pub use saver::{FileSaver, Saver};
 pub use service::{Outcome, SyncService};
 pub use settings::Settings;
-pub use splitter::{find_large_files, split_content, split_file_if_large, MAX_PART_BYTES};
+pub use splitter::{
+    count_configs, find_large_files, split_content, split_file_if_large, DEFAULT_MAX_PER_FILE,
+};

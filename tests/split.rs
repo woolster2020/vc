@@ -1,9 +1,10 @@
-//! Сквозной тест сплита: большой пайплайн режется на части `{id}-{n}.txt`,
-//! исходный `output/{id}.txt` удаляется, сборка частей даёт исходник.
+//! Сквозной тест сплита: большой пайплайн режется на части `{id}-{n}.txt`
+//! по лимиту конфигураций, исходный `output/{id}.txt` удаляется,
+//! сборка частей даёт исходник.
 
 use std::collections::HashMap;
 
-use vc::{FileSaver, Source, SyncService};
+use vc::{count_configs, FileSaver, Source, SyncService};
 
 struct MapFetcher(HashMap<String, String>);
 
@@ -24,15 +25,15 @@ fn numbered_lines(count: usize) -> String {
 
 #[tokio::test]
 async fn pipeline_splits_large_subscription_into_parts() {
-    let plain = numbered_lines(50);
+    let plain = numbered_lines(23);
     let fetcher = MapFetcher(HashMap::from([(
         "https://example.com/big".to_string(),
         plain.clone(),
     )]));
 
     let dir = tempfile::tempdir().unwrap();
-    // Маленький лимит, чтобы не гонять мегабайты в тесте.
-    let service = SyncService::new(fetcher, FileSaver::with_max_bytes(dir.path(), 300));
+    // Маленький лимит, чтобы не гонять сотни конфигов в тесте.
+    let service = SyncService::new(fetcher, FileSaver::with_max_per_file(dir.path(), 10));
     let sources = vec![Source {
         id: "1".into(),
         url: "https://example.com/big".into(),
@@ -50,12 +51,16 @@ async fn pipeline_splits_large_subscription_into_parts() {
         .map(|e| e.unwrap().path())
         .collect();
     parts.sort();
-    assert!(parts.len() > 2);
+    assert_eq!(parts.len(), 3);
     assert_eq!(parts[0], dir.path().join("1-1.txt"));
 
-    for part in &parts {
-        assert!(std::fs::metadata(part).unwrap().len() <= 300);
-    }
+    // 10 + 10 + 3 (последний — сколько останется).
+    let counts: Vec<usize> = parts
+        .iter()
+        .map(|p| count_configs(&std::fs::read_to_string(p).unwrap()))
+        .collect();
+    assert_eq!(counts, vec![10, 10, 3]);
+
     let reassembled: String = parts
         .iter()
         .map(std::fs::read_to_string)
@@ -82,7 +87,7 @@ async fn pipeline_keeps_small_subscription_as_single_file() {
     )]));
 
     let dir = tempfile::tempdir().unwrap();
-    let service = SyncService::new(fetcher, FileSaver::with_max_bytes(dir.path(), 300));
+    let service = SyncService::new(fetcher, FileSaver::with_max_per_file(dir.path(), 10));
     let sources = vec![Source {
         id: "5".into(),
         url: "https://example.com/small".into(),

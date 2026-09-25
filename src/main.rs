@@ -1,10 +1,13 @@
-//! CLI: `vc [urls.json] [output/]`.
+//! CLI: `vc [urls.json] [output/] [max_per_file]`.
 //!
 //! Тонкий слой: настройки (env → CLI-аргументы), сборка сервиса из адаптеров,
 //! печать итога. Вся логика — в `vc` (lib).
 //!
 //! Переменные окружения (приоритет ниже, чем у CLI-аргументов):
-//! - `VC_URLS_PATH`, `VC_OUTPUT_DIR`, `VC_TIMEOUT_SECS`.
+//! - `VC_URLS_PATH`, `VC_OUTPUT_DIR`, `VC_TIMEOUT_SECS`, `VC_MAX_PER_FILE`.
+//!
+//! Пример: `cargo run --release -- urls.json output 300`
+//! (максимум 300 конфигураций в одном файле, по умолчанию 500).
 
 use std::process::ExitCode;
 
@@ -12,12 +15,11 @@ use vc::{load_sources, FileSaver, HttpFetcher, Settings, SyncService};
 
 #[tokio::main]
 async fn main() -> ExitCode {
-    let settings = Settings::from_env();
-
     // CLI-аргументы перекрывают env.
-    let mut args = std::env::args().skip(1);
-    let urls_path = args.next().map_or(settings.urls_path.clone(), Into::into);
-    let output_dir = args.next().map_or(settings.output_dir.clone(), Into::into);
+    let cli: Vec<String> = std::env::args().skip(1).collect();
+    let settings = Settings::from_env().with_cli_args(&cli);
+    let urls_path = settings.urls_path.clone();
+    let output_dir = settings.output_dir.clone();
 
     let sources = match load_sources(&urls_path) {
         Ok(s) => s,
@@ -34,12 +36,16 @@ async fn main() -> ExitCode {
             return ExitCode::FAILURE;
         }
     };
-    let service = SyncService::new(fetcher, FileSaver::new(&output_dir));
+    let service = SyncService::new(
+        fetcher,
+        FileSaver::with_max_per_file(&output_dir, settings.max_per_file),
+    );
 
     println!(
-        "fetching {} source(s) from {} ...",
+        "fetching {} source(s) from {} (max {} per file) ...",
         sources.len(),
-        urls_path.display()
+        urls_path.display(),
+        settings.max_per_file,
     );
     let mut outcomes = service.sync_all(&sources).await;
     outcomes.sort_by(|a, b| a.id().cmp(b.id()));

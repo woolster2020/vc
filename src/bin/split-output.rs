@@ -1,25 +1,32 @@
-//! Разовая миграция: нарезать существующие `output/{id}.txt` больше 1 МиБ
+//! Разовая миграция: нарезать существующие `output/{id}.txt` больше лимита
 //! на построчные части `output/{id}-{n}.txt`, исходники удалить.
 //!
 //! Использование:
 //! ```sh
-//! cargo run --bin split-output -- [output_dir]
+//! cargo run --bin split-output -- [output_dir] [max_per_file]
 //! ```
+//! По умолчанию `output` и 500 конфигураций на файл.
 //!
-//! Трогает только `*.txt` без `-` в имени размером больше лимита;
+//! Трогает только `*.txt` без `-` в имени, где конфигураций больше лимита;
 //! уже нарезанные `{id}-{n}.txt` и маленькие файлы не изменяются.
 
 use std::path::PathBuf;
 use std::process::ExitCode;
 
-use vc::{find_large_files, split_file_if_large, MAX_PART_BYTES};
+use vc::{find_large_files, split_file_if_large, DEFAULT_MAX_PER_FILE};
 
 fn main() -> ExitCode {
-    let dir: PathBuf = std::env::args()
-        .nth(1)
+    let mut cli = std::env::args().skip(1);
+    let dir: PathBuf = cli
+        .next()
         .map_or_else(|| PathBuf::from("output"), PathBuf::from);
+    let max_per_file: usize = cli
+        .next()
+        .and_then(|v| v.trim().parse().ok())
+        .filter(|n| *n > 0)
+        .unwrap_or(DEFAULT_MAX_PER_FILE);
 
-    let large = match find_large_files(&dir, MAX_PART_BYTES as u64) {
+    let large = match find_large_files(&dir, max_per_file) {
         Ok(found) => found,
         Err(e) => {
             eprintln!("error: cannot scan {}: {e}", dir.display());
@@ -28,17 +35,13 @@ fn main() -> ExitCode {
     };
 
     if large.is_empty() {
-        println!(
-            "no files over {} bytes in {}",
-            MAX_PART_BYTES,
-            dir.display()
-        );
+        println!("no files over {max_per_file} configs in {}", dir.display());
         return ExitCode::SUCCESS;
     }
 
     let mut total_parts = 0usize;
     for path in &large {
-        match split_file_if_large(path, MAX_PART_BYTES) {
+        match split_file_if_large(path, max_per_file) {
             Ok(parts) => {
                 total_parts += parts.len();
                 println!(

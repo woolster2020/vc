@@ -1,7 +1,7 @@
 //! Сохранение декодированных конфигов в `output/{id}.txt`.
 //!
-//! Файлы больше [`MAX_PART_BYTES`] построчно нарезаются на части
-//! `output/{id}-{n}.txt` примерно по 1 МиБ (последняя — сколько останется),
+//! Файлы больше `max_per_file` конфигураций построчно нарезаются на части
+//! `output/{id}-{n}.txt` (последняя — сколько останется),
 //! исходный `output/{id}.txt` при этом удаляется.
 //!
 //! `Saver` — порт (трейт), `FileSaver` — файловый адаптер.
@@ -9,7 +9,7 @@
 use std::path::{Path, PathBuf};
 
 use crate::error::{Error, Result};
-use crate::splitter::{part_file_name, split_content, MAX_PART_BYTES};
+use crate::splitter::{count_configs, part_file_name, split_content, DEFAULT_MAX_PER_FILE};
 
 /// Порт сохранения. Возвращает пути записанных файлов
 /// (один элемент для маленьких файлов, несколько для нарезанных).
@@ -26,22 +26,22 @@ pub trait Saver: Send + Sync {
 /// Файловый сейвер. Директория создаётся лениво при первом `save`.
 pub struct FileSaver {
     output_dir: PathBuf,
-    max_bytes: usize,
+    max_per_file: usize,
 }
 
 impl FileSaver {
     pub fn new(output_dir: impl Into<PathBuf>) -> Self {
         Self {
             output_dir: output_dir.into(),
-            max_bytes: MAX_PART_BYTES,
+            max_per_file: DEFAULT_MAX_PER_FILE,
         }
     }
 
-    /// Конструктор с кастомным лимитом части (для тестов).
-    pub fn with_max_bytes(output_dir: impl Into<PathBuf>, max_bytes: usize) -> Self {
+    /// Конструктор с кастомным лимитом конфигураций на файл (для тестов и CLI).
+    pub fn with_max_per_file(output_dir: impl Into<PathBuf>, max_per_file: usize) -> Self {
         Self {
             output_dir: output_dir.into(),
-            max_bytes: max_bytes.max(1),
+            max_per_file: max_per_file.max(1),
         }
     }
 
@@ -78,7 +78,7 @@ impl Saver for FileSaver {
             .await
             .map_err(|e| parent_path_error(&self.output_dir, e))?;
 
-        if content.len() <= self.max_bytes {
+        if count_configs(content) <= self.max_per_file {
             let path = self.path_for(id);
             tokio::fs::write(&path, content)
                 .await
@@ -92,7 +92,7 @@ impl Saver for FileSaver {
         }
 
         let mut written = Vec::new();
-        for (index, chunk) in split_content(content, self.max_bytes).iter().enumerate() {
+        for (index, chunk) in split_content(content, self.max_per_file).iter().enumerate() {
             let part = self.part_path_for(id, index + 1);
             tokio::fs::write(&part, chunk)
                 .await
@@ -156,19 +156,24 @@ mod tests {
     #[tokio::test]
     async fn splits_large_content_into_parts_and_removes_single() {
         let dir = tempfile::tempdir().unwrap();
-        let saver = FileSaver::with_max_bytes(dir.path(), 100);
+        let saver = FileSaver::with_max_per_file(dir.path(), 7);
         // Лежит старый большой `1.txt` — после сплита его быть не должно.
         std::fs::write(dir.path().join("1.txt"), "stale").unwrap();
 
         let content = numbered_lines(20);
         let paths = saver.save("1", &content).await.unwrap();
 
-        assert!(paths.len() > 1);
+        assert_eq!(paths.len(), 3);
         assert_eq!(paths[0], dir.path().join("1-1.txt"));
         assert!(!dir.path().join("1.txt").exists());
-        for path in &paths {
-            assert!(std::fs::metadata(path).unwrap().len() <= 100);
-        }
+        assert_eq!(
+            count_configs(&std::fs::read_to_string(&paths[0]).unwrap()),
+            7
+        );
+        assert_eq!(
+            count_configs(&std::fs::read_to_string(&paths[2]).unwrap()),
+            6
+        );
         let reassembled: String = paths
             .iter()
             .map(std::fs::read_to_string)
@@ -180,11 +185,11 @@ mod tests {
     #[tokio::test]
     async fn shrinking_back_to_single_removes_stale_parts() {
         let dir = tempfile::tempdir().unwrap();
-        let saver = FileSaver::with_max_bytes(dir.path(), 100);
+        let saver = FileSaver::with_max_per_file(dir.path(), 7);
 
         let big = numbered_lines(20);
         let parts = saver.save("2", &big).await.unwrap();
-        assert!(parts.len() > 1);
+        assert_eq!(parts.len(), 3);
 
         let paths = saver.save("2", "vless://tiny\n").await.unwrap();
         assert_eq!(paths, vec![dir.path().join("2.txt")]);
@@ -200,11 +205,12 @@ mod tests {
     #[tokio::test]
     async fn smaller_resplit_removes_tail_parts() {
         let dir = tempfile::tempdir().unwrap();
-        let saver = FileSaver::with_max_bytes(dir.path(), 100);
+        let saver = FileSaver::with_max_per_file(dir.path(), 7);
 
         let first = saver.save("3", &numbered_lines(30)).await.unwrap();
+        assert_eq!(first.len(), 5);
         let second = saver.save("3", &numbered_lines(12)).await.unwrap();
-        assert!(second.len() < first.len());
+        assert_eq!(second.len(), 2);
         for extra in &first[second.len()..] {
             assert!(!extra.exists(), "{} should be removed", extra.display());
         }
