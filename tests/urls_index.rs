@@ -1,9 +1,9 @@
 //! Сквозной тест индекса `urls.txt`: после пайплайна все сохранённые файлы
-//! получают по одной CDN-ссылке в `urls.txt` в естественном порядке.
+//! получают по одной прямой ссылке в `urls.txt` в естественном порядке.
 
 use std::collections::HashMap;
 
-use vc::{write_urls_file, FileSaver, Source, SyncService, CDN_BASE};
+use vc::{write_urls_file, FileSaver, Source, SyncService, RAW_BASE};
 
 struct MapFetcher(HashMap<String, String>);
 
@@ -55,10 +55,10 @@ async fn pipeline_then_index_lists_all_saved_files() {
     let lines: Vec<&str> = content.lines().collect();
     // 1.txt + три части 2-1..2-3.
     let expected = [
-        format!("{CDN_BASE}/1.txt"),
-        format!("{CDN_BASE}/2-1.txt"),
-        format!("{CDN_BASE}/2-2.txt"),
-        format!("{CDN_BASE}/2-3.txt"),
+        format!("{RAW_BASE}/1.txt"),
+        format!("{RAW_BASE}/2-1.txt"),
+        format!("{RAW_BASE}/2-2.txt"),
+        format!("{RAW_BASE}/2-3.txt"),
     ];
     assert_eq!(
         lines,
@@ -71,7 +71,7 @@ async fn pipeline_then_index_lists_all_saved_files() {
 #[tokio::test]
 async fn index_example_line_matches_spec() {
     // Пример из ТЗ: output/1-3.txt ->
-    // https://cdn.jsdelivr.net/gh/woolster2020/vc@main/output/1-3.txt
+    // https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/1-3.txt
     let dir = tempfile::tempdir().unwrap();
     std::fs::write(dir.path().join("1-3.txt"), "vless://a@b:1#x\n").unwrap();
 
@@ -79,6 +79,6 @@ async fn index_example_line_matches_spec() {
     let content = std::fs::read_to_string(dir.path().join("urls.txt")).unwrap();
     assert_eq!(
         content,
-        "https://cdn.jsdelivr.net/gh/woolster2020/vc@main/output/1-3.txt\n"
+        "https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/1-3.txt\n"
     );
 }

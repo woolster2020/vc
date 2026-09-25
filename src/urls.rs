@@ -2,7 +2,8 @@
 //!
 //! Для каждого `*.txt` в каталоге вывода (кроме самого `urls.txt`)
 //! пишется одна строка вида:
-//! `https://cdn.jsdelivr.net/gh/woolster2020/vc@main/output/1-3.txt`.
+//! `https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/1-3.txt`
+//! (прямые ссылки без CDN-кеширования).
 //!
 //! Сортировка — естественная (numeric-aware): `2-2.txt` идёт раньше
 //! `2-10.txt`, а `2-*.txt` — раньше `10-*.txt` (в отличие от чистой
@@ -12,15 +13,16 @@ use std::path::{Path, PathBuf};
 
 use crate::error::{Error, Result};
 
-/// База CDN-ссылок на файлы из `output/`.
-pub const CDN_BASE: &str = "https://cdn.jsdelivr.net/gh/woolster2020/vc@main/output";
+/// База прямых ссылок (`raw.githubusercontent.com`) на файлы из `output/`.
+pub const RAW_BASE: &str =
+    "https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output";
 
 /// Имя файла-индекса внутри каталога вывода.
 pub const URLS_FILE_NAME: &str = "urls.txt";
 
-/// CDN-ссылка для имени файла (без каталога), например `1-3.txt`.
-pub fn cdn_url_for(file_name: &str) -> String {
-    format!("{CDN_BASE}/{file_name}")
+/// Прямая ссылка для имени файла (без каталога), например `1-3.txt`.
+pub fn raw_url_for(file_name: &str) -> String {
+    format!("{RAW_BASE}/{file_name}")
 }
 
 /// Собрать имена `*.txt`-файлов в `dir`, кроме самого `urls.txt`.
@@ -65,7 +67,7 @@ pub fn collect_output_files(dir: &Path) -> Result<Vec<String>> {
     Ok(names)
 }
 
-/// Записать `output/urls.txt`: по одной CDN-ссылке на строку.
+/// Записать `output/urls.txt`: по одной прямой ссылке на строку.
 ///
 /// Возвращает путь записанного индекса. Каталог создаётся при необходимости.
 /// Каждая строка заканчивается `\n` (в конце файла тоже `\n`, если есть строки).
@@ -78,7 +80,7 @@ pub fn write_urls_file(dir: &Path) -> Result<PathBuf> {
     let names = collect_output_files(dir)?;
     let mut content = String::new();
     for name in &names {
-        content.push_str(&cdn_url_for(name));
+        content.push_str(&raw_url_for(name));
         content.push('\n');
     }
 
@@ -180,10 +182,10 @@ mod tests {
     use super::*;
 
     #[test]
-    fn cdn_url_joins_base_and_name() {
+    fn raw_url_joins_base_and_name() {
         assert_eq!(
-            cdn_url_for("1-3.txt"),
-            "https://cdn.jsdelivr.net/gh/woolster2020/vc@main/output/1-3.txt"
+            raw_url_for("1-3.txt"),
+            "https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/1-3.txt"
         );
     }
 
@@ -229,8 +231,8 @@ mod tests {
         let content = std::fs::read_to_string(&path).unwrap();
         assert_eq!(
             content,
-            "https://cdn.jsdelivr.net/gh/woolster2020/vc@main/output/1-3.txt\n\
-             https://cdn.jsdelivr.net/gh/woolster2020/vc@main/output/2.txt\n"
+            "https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/1-3.txt\n\
+             https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/2.txt\n"
         );
     }
 
@@ -251,7 +253,7 @@ mod tests {
         let content = std::fs::read_to_string(dir.path().join("urls.txt")).unwrap();
         assert_eq!(
             content,
-            "https://cdn.jsdelivr.net/gh/woolster2020/vc@main/output/5.txt\n"
+            "https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/5.txt\n"
         );
         assert!(!content.contains("urls.txt\nurls"));
     }
