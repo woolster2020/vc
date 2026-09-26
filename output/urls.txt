@@ -926,8 +926,6 @@ https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/13-3.tx
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/13-4.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/13-5.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/13-6.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/13-7.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/13-8.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/14-1.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/14-2.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/14-3.txt
