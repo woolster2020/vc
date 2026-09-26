@@ -1,5 +1,3 @@
-ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@143.110.161.156:17000#@V2ray_Alpha🧣 4
-trojan://MITIVpN@199.232.78.101:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&amp;security=tls&amp;alpn=http/1.1&amp;insecure=0&amp;host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@V2ray_Alpha🧣 4
 vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@5.157.10.250:443?security=reality&amp;encryption=none&amp;pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=swebz.loozerp.wiki&amp;sid=6aa2d2e950441a9a#@V2ray_Alpha🧣 5
 ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@141.227.134.63:17000#@V2ray_Alpha🧣 6
 vless://1fac5e18-2ca8-4626-c299-1f3f21c6b55e@151.101.56.6:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI?ed=512&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=c12.com&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@V2ray_Alpha🧣 7
@@ -492,9 +490,11 @@ trojan://600421cf-11d7-429f-a65b-c30397f1bc03@23.106.44.14:443?security=tls&amp;
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@103.97.91.17:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=la.freeguard.org#Lagos-1
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@158.247.222.240:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=kr.freeguard.org#Seoul
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@86.106.119.23:443?security=tls&amp;insecure=0&amp;head…
+vless://3258e8fa-dcff-4e38-9974-38ba8d76a0d7@xray1-direct-mci1-fs-ce.freesocks.work:443?security=reality&amp;encryption=none&amp;pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=dl.google.com#S1-reality
+vless://715569e9-ee89-4b7d-b276-e73c8b4e964b@xray2-direct-mci1-fs-ce.freesocks.work:443?security=reality&amp;encryption=none&amp;pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=dl.google.com#S2-reality
+vless://e48c7652-cee6-40e7-b41e-c9b8fa0e329a@xray1-direct-mci1-fs-ce.freesocks.work:443?security=reality&amp;encryption=none&amp;pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=dl.google.com#S3-reality
 vless://035e3dd7-f897-4496-93ae-5b0df5e61c5e@104.25.254.88:8443?security=tls&amp;encryption=none&amp;type=grpc&amp;sni=freedom.freoce.life&amp;fp=chrome&amp;serviceName=@AnGuS_VPN,@AnGuS_VPN,@AnGuS_VPN,@AnGuS_VPN,@AnGuS_VPN,@AnGuS_VPN,@AnGuS_VPN,@AnGuS_VPN&amp;alpn=h2,http/1.1#@AnGuS_VPN-ALL-4
 vless://6065a591-7fe7-4fa4-ebfe-746981379920@yb1p-783.f-sub.site:1113?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#@Anix_V2ray
 vless://9576a7a8-3441-4983-b803-ee18e5711808@9nda-403.f-sub.site:1113?type=tcp&amp;path=/&amp;host=telewebion.com&amp;headerType=http&amp;security=none#@anix_V2ray
 vless://9576a7a8-3441-4983-b803-ee18e5711808@9nda-403.f-sub.site:1113?type=tcp&amp;path=/&amp;host=telewebion.com&amp;headerType=http&amp;security=none#@anix_V2ray
-vless://bf831697-3dd8-4940-a703-14c99f0c28e4@yb1p-783.f-sub.site:1113?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#@Anix_V2ray
 vless://bf831697-3dd8-4940-a703-14c99f0c28e4@yb1p-783.f-sub.site:1113?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#@Anix_V2ray
