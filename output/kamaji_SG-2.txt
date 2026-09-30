@@ -1,0 +1,30 @@
+trojan://8r%253C%255B9%2527l6hAO%25238ZQi@154.26.128.147:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#[1568][SG][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-28][2026-09-28 02:18]
+
+trojan://Aimer@27.50.49.251:2083/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me&allowInsecure=1#[2242][SG][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-28][2026-09-28 02:18]
+
+trojan://oZAugtgF5T@146.190.87.238:443/?type=ws&host=aka.ms&path=%2F&security=tls&sni=aka.ms#[6125][SG][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-28][2026-09-28 02:18]
+
+trojan://08964210-e7b8-11ec-95aa-1239d0255272@w12.udpgw.com:443?security=tls#[136][SG][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-28][2026-09-28 02:18]
+
+trojan://dT6h9HBwQO@139.59.108.29:31313?security=tls&sni=m.linkedin.us&type=tcp#[4620][SG][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-28][2026-09-28 02:18]
+
+trojan://4aeda200-44c9-4168-8f2a-a00a72176d35@13.214.161.88:443?security=tls&sni=data.amazonwebservicess.com&allowInsecure=1&type=tcp#[744][SG][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-28][2026-09-28 02:18]
+
+trojan://114514@168.138.176.18:443?security=tls&allowInsecure=1&type=tcp#[264][SG][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-28][2026-09-28 02:18]
+
+trojan://dc773e17-d94e-4f6e-a3cd-26c972a08b89@v02.gutingting.com:30049?security=tls&sni=v2sg02.fuqiangren.com#[4652][SG][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-28][2026-09-28 02:18]
+
+trojan://ND91608427@54.255.35.23:443/?type=tcp&security=tls&sni=tidy-gelding.rooster465.autos&fp=chrome#[3096][SG][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-28][2026-09-28 02:18]
+
+trojan://Aimer@206.238.236.90:2087/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me#[2195][SG][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-28][2026-09-28 02:18]
+
+trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@13.76.251.170:443/?type=tcp&security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#[1525][SG][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-28][2026-09-28 02:18]
+
+trojan://16132fb0-4945-11f0-a95e-1239d0255272@sg4.6n6.net:443?security=tls&headerType=none&type=tcp#[300][SG][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-28][2026-09-28 02:18]
+
+trojan://Aimer@206.238.236.8:2096/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me&allowInsecure=1#[2194][SG][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-28][2026-09-28 02:18]
+
+trojan://8r%3C%5B9%27l6hAO%238ZQi@178.128.60.89:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#[1631][SG][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-28][2026-09-28 02:18]
+
+trojan://Aimer@27.50.49.41:2096/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#[2244][SG][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-28][2026-09-28 02:18]
+
