@@ -1,6 +1,7 @@
 //! Загрузка списка источников из `urls.json`.
 //!
-//! Формат файла — объект `{ "1": "<url>", ... }`.
+//! Формат файла — объект `{ "<id>": "<url>", ... }`, например
+//! `{ "OpenRay_all": "https://…/all_valid_proxies.txt" }`.
 
 use std::collections::BTreeMap;
 use std::path::Path;
@@ -20,7 +21,8 @@ pub struct Source {
 /// Загрузить и отсортировать источники по `id`.
 ///
 /// Сортировка числовая там, где `id` — число (`"2" < "10"`),
-/// иначе лексикографическая. Пустой файл — [`Error::EmptySources`].
+/// иначе лексикографическая (строковые `id` вроде `"OpenRay_all"`).
+/// Пустой файл — [`Error::EmptySources`].
 pub fn load_sources(path: &Path) -> Result<Vec<Source>> {
     let raw = std::fs::read_to_string(path).map_err(|e| io_err(path, e))?;
     let parsed: BTreeMap<String, String> =
@@ -72,6 +74,19 @@ mod tests {
         let sources = load_sources(&path).unwrap();
         let ids: Vec<_> = sources.iter().map(|s| s.id.as_str()).collect();
         assert_eq!(ids, vec!["1", "2", "10"]);
+    }
+
+    #[test]
+    fn loads_string_ids_sorted_lexically() {
+        let dir = tempfile::tempdir().unwrap();
+        let path = write_tmp(
+            &dir,
+            "urls.json",
+            r#"{"OpenRay_top100":"u1","OpenRay_all":"u2","AutoVPN":"u3"}"#,
+        );
+        let sources = load_sources(&path).unwrap();
+        let ids: Vec<_> = sources.iter().map(|s| s.id.as_str()).collect();
+        assert_eq!(ids, vec!["AutoVPN", "OpenRay_all", "OpenRay_top100"]);
     }
 
     #[test]

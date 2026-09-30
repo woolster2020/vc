@@ -50,6 +50,47 @@ async fn pipeline_decodes_and_saves_numbered_files() {
 }
 
 #[tokio::test]
+async fn pipeline_filters_ss_vmess_and_saves_string_id() {
+    let mixed = "vless://keep@h:443#n\n\
+         ss://drop@h:8388#s\n\
+         vmess://drop2\n\
+         trojan://keep2@h:443#t\n";
+    let fetcher = MapFetcher(HashMap::from([(
+        "https://example.com/mixed".to_string(),
+        mixed.to_string(),
+    )]));
+
+    let dir = tempfile::tempdir().unwrap();
+    let service = SyncService::new(fetcher, FileSaver::new(dir.path()));
+    let sources = vec![Source {
+        id: "OpenRay_all".into(),
+        url: "https://example.com/mixed".into(),
+    }];
+
+    let outcomes = service.sync_all(&sources).await;
+    assert_eq!(outcomes.len(), 1);
+    match &outcomes[0] {
+        vc::Outcome::Synced {
+            skipped,
+            bytes,
+            paths,
+            ..
+        } => {
+            assert_eq!(*skipped, 2);
+            assert_eq!(*paths, vec![dir.path().join("OpenRay_all.txt")]);
+            assert_eq!(
+                *bytes,
+                "vless://keep@h:443#n\ntrojan://keep2@h:443#t\n".len()
+            );
+        }
+        vc::Outcome::Failed { error, .. } => panic!("unexpected failure: {error}"),
+    }
+
+    let content = std::fs::read_to_string(dir.path().join("OpenRay_all.txt")).unwrap();
+    assert_eq!(content, "vless://keep@h:443#n\ntrojan://keep2@h:443#t\n");
+}
+
+#[tokio::test]
 async fn pipeline_reads_real_urls_json_shape() {
     // urls.json — это объект {"id": "url"}; проверяем загрузку такой формы.
     let dir = tempfile::tempdir().unwrap();

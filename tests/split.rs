@@ -79,6 +79,65 @@ async fn pipeline_splits_large_subscription_into_parts() {
 }
 
 #[tokio::test]
+async fn pipeline_splits_string_id_without_skipped_protocols() {
+    // 28 строк: каждая 6-я (i = 5, 11, 17, 23) — ss:// под отсев.
+    let mut mixed = String::new();
+    let mut expected = String::new();
+    for i in 0..28 {
+        if i % 6 == 5 {
+            mixed.push_str(&format!("ss://drop{i}@host:8388#s{i}\n"));
+        } else {
+            let line = format!("vless://user{i}@host:443#node-{i}\n");
+            mixed.push_str(&line);
+            expected.push_str(&line);
+        }
+    }
+
+    let fetcher = MapFetcher(HashMap::from([(
+        "https://example.com/mixed-big".to_string(),
+        mixed,
+    )]));
+
+    let dir = tempfile::tempdir().unwrap();
+    let service = SyncService::new(fetcher, FileSaver::with_max_per_file(dir.path(), 10));
+    let sources = vec![Source {
+        id: "OpenRay_all".into(),
+        url: "https://example.com/mixed-big".into(),
+    }];
+
+    let outcomes = service.sync_all(&sources).await;
+    assert_eq!(outcomes.len(), 1);
+    match &outcomes[0] {
+        vc::Outcome::Synced { skipped, .. } => assert_eq!(*skipped, 4),
+        vc::Outcome::Failed { error, .. } => panic!("unexpected failure: {error}"),
+    }
+
+    // После отсева 24 конфига → части 10 + 10 + 4.
+    let mut parts: Vec<_> = std::fs::read_dir(dir.path())
+        .unwrap()
+        .map(|e| e.unwrap().path())
+        .collect();
+    parts.sort();
+    assert_eq!(parts.len(), 3);
+    assert_eq!(parts[0], dir.path().join("OpenRay_all-1.txt"));
+    assert_eq!(parts[2], dir.path().join("OpenRay_all-3.txt"));
+
+    let counts: Vec<usize> = parts
+        .iter()
+        .map(|p| count_configs(&std::fs::read_to_string(p).unwrap()))
+        .collect();
+    assert_eq!(counts, vec![10, 10, 4]);
+
+    let reassembled: String = parts
+        .iter()
+        .map(std::fs::read_to_string)
+        .collect::<std::io::Result<String>>()
+        .unwrap();
+    assert_eq!(reassembled, expected);
+    assert!(reassembled.lines().all(|l| !l.starts_with("ss://")));
+}
+
+#[tokio::test]
 async fn pipeline_keeps_small_subscription_as_single_file() {
     let plain = "vless://uuid@host:443#one\n";
     let fetcher = MapFetcher(HashMap::from([(

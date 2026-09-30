@@ -3,6 +3,7 @@
 //! Файлы больше `max_per_file` конфигураций построчно нарезаются на части
 //! `output/{id}-{n}.txt` (последняя — сколько останется),
 //! исходный `output/{id}.txt` при этом удаляется.
+//! Работает и со строковыми `id`: `OpenRay_all` → `OpenRay_all-1.txt`, …
 //!
 //! `Saver` — порт (трейт), `FileSaver` — файловый адаптер.
 
@@ -174,6 +175,26 @@ mod tests {
             count_configs(&std::fs::read_to_string(&paths[2]).unwrap()),
             6
         );
+        let reassembled: String = paths
+            .iter()
+            .map(std::fs::read_to_string)
+            .collect::<std::io::Result<String>>()
+            .unwrap();
+        assert_eq!(reassembled, content);
+    }
+
+    #[tokio::test]
+    async fn splits_string_id_into_dashed_parts() {
+        let dir = tempfile::tempdir().unwrap();
+        let saver = FileSaver::with_max_per_file(dir.path(), 7);
+
+        let content = numbered_lines(20);
+        let paths = saver.save("OpenRay_all", &content).await.unwrap();
+
+        assert_eq!(paths.len(), 3);
+        assert_eq!(paths[0], dir.path().join("OpenRay_all-1.txt"));
+        assert_eq!(paths[2], dir.path().join("OpenRay_all-3.txt"));
+        assert!(!dir.path().join("OpenRay_all.txt").exists());
         let reassembled: String = paths
             .iter()
             .map(std::fs::read_to_string)

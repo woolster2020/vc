@@ -13,8 +13,23 @@ use crate::error::{Error, Result};
 pub const DEFAULT_MAX_PER_FILE: usize = 500;
 
 /// Имя файла части: `output/{id}-{index}.txt` (нумерация с 1).
+///
+/// Работает и со строковыми `id`: `part_file_name("OpenRay_all", 1)`
+/// даёт `OpenRay_all-1.txt`.
 pub fn part_file_name(id: &str, index: usize) -> String {
     format!("{id}-{index}.txt")
+}
+
+/// Проверить, похоже ли имя файла (без расширения) на нарезанную часть
+/// `{id}-{n}.txt`: после последнего `-` идёт непустое число.
+///
+/// - `"1-1"` → часть; `"123"` → одиночка (дефиса нет, старый числовой `id`);
+/// - `"v2ray-configs"` → одиночка; `"v2ray-configs-1"` → часть.
+fn is_part_name(stem: &str) -> bool {
+    match stem.rsplit_once('-') {
+        Some((_, suffix)) => !suffix.is_empty() && suffix.bytes().all(|b| b.is_ascii_digit()),
+        None => false,
+    }
 }
 
 /// Конфигурация — это непустая строка (пустые/пробельные строками
@@ -56,10 +71,14 @@ pub fn split_content(content: &str, max_per_file: usize) -> Vec<String> {
     parts
 }
 
-/// Отобрать кандидаты на разделение: `*.txt` без `-` в имени (то есть
-/// исходные `output/{id}.txt`, а не уже нарезанные `{id}-{n}.txt`),
+/// Отобрать кандидаты на разделение: исходные `output/{id}.txt`
+/// (а не уже нарезанные части `{id}-{n}.txt`),
 /// в которых конфигураций больше `max_per_file`.
 /// Возвращает пути, отсортированные по имени.
+///
+/// Часть от одиночки отличаем по числовому суффиксу после последнего `-`
+/// (см. [`is_part_name`]): это важно для строковых `id` с дефисом —
+/// `v2ray-configs.txt` считается одиночкой, а `v2ray-configs-1.txt` — частью.
 pub fn find_large_files(dir: &Path, max_per_file: usize) -> Result<Vec<PathBuf>> {
     let mut large = Vec::new();
     let mut entries = std::fs::read_dir(dir).map_err(|e| Error::Io {
@@ -78,7 +97,9 @@ pub fn find_large_files(dir: &Path, max_per_file: usize) -> Result<Vec<PathBuf>>
             continue;
         };
         // Уже нарезанные части `{id}-{n}.txt` повторно не трогаем.
-        if stem.contains('-') {
+        // Суффикс обязан быть числом: строковые id сами могут содержать `-`
+        // (например, одиночка `v2ray-configs.txt` — не часть).
+        if is_part_name(stem) {
             continue;
         }
         let content = std::fs::read_to_string(&path).map_err(|e| Error::Io {
@@ -206,6 +227,24 @@ mod tests {
     }
 
     #[test]
+    fn part_names_work_with_string_ids() {
+        assert_eq!(part_file_name("OpenRay_all", 1), "OpenRay_all-1.txt");
+        assert_eq!(part_file_name("v2ray-configs", 12), "v2ray-configs-12.txt");
+    }
+
+    #[test]
+    fn part_detection_handles_string_ids_with_dashes() {
+        // Одиночки: нет дефиса, либо суффикс не число.
+        for single in ["123", "OpenRay_all", "v2ray-configs", "foo-"] {
+            assert!(!is_part_name(single), "{single} should be a single");
+        }
+        // Части: после последнего дефиса — число.
+        for part in ["1-1", "OpenRay_all-2", "v2ray-configs-12"] {
+            assert!(is_part_name(part), "{part} should be a part");
+        }
+    }
+
+    #[test]
     fn small_file_is_left_alone() {
         let dir = tempfile::tempdir().unwrap();
         let path = dir.path().join("7.txt");
@@ -245,5 +284,19 @@ mod tests {
 
         let found = find_large_files(dir.path(), 5).unwrap();
         assert_eq!(found, vec![dir.path().join("1.txt")]);
+    }
+
+    #[test]
+    fn find_large_files_supports_string_ids_with_dashes() {
+        let dir = tempfile::tempdir().unwrap();
+        // Одиночка со строковым id с дефисом — кандидат на сплит.
+        std::fs::write(dir.path().join("v2ray-configs.txt"), numbered_lines(10)).unwrap();
+        // Маленький строковый id — не трогаем.
+        std::fs::write(dir.path().join("OpenRay_all.txt"), "vless://a@b:1#x\n").unwrap();
+        // Уже нарезанная часть строкового id — не трогаем.
+        std::fs::write(dir.path().join("v2ray-configs-1.txt"), numbered_lines(50)).unwrap();
+
+        let found = find_large_files(dir.path(), 5).unwrap();
+        assert_eq!(found, vec![dir.path().join("v2ray-configs.txt")]);
     }
 }

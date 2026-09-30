@@ -58,6 +58,7 @@ async fn main() -> ExitCode {
                 paths,
                 was_encoded,
                 bytes,
+                skipped,
             } => {
                 ok += 1;
                 let where_saved = if paths.len() == 1 {
@@ -70,11 +71,14 @@ async fn main() -> ExitCode {
                         paths[paths.len() - 1].display()
                     )
                 };
-                println!(
-                    "ok   {id}: {where_saved} ({} bytes{})",
-                    bytes,
-                    if *was_encoded { ", base64" } else { "" }
-                );
+                let mut meta = format!("{bytes} bytes");
+                if *was_encoded {
+                    meta.push_str(", base64");
+                }
+                if *skipped > 0 {
+                    meta.push_str(&format!(", skipped {skipped}"));
+                }
+                println!("ok   {id}: {where_saved} ({meta})");
             }
             vc::Outcome::Failed { id, url, error } => {
                 eprintln!("fail {id}: {url}: {error}");
