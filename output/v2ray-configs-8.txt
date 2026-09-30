@@ -1,3 +1,7 @@
+vless://94877739-3af6-4fbb-85b6-ca6fe86c7696@84.32.98.254:443?security=reality&encryption=none&pbk=TRaUsnzFf-AhWUuW4RQUQOBYTdM-qJdLDTTkzQNkcRw&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tickets.betust.net&sid=f70764f8#EPODONIOS
+vless://94877739-3af6-4fbb-85b6-ca6fe86c7696@88.216.127.171:443?security=reality&encryption=none&pbk=zZjrHRzULoXKVccVdPqtrtXLEUPJXwqdE1138vu5x3w&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=admin.betust.net&sid=3e137406#EPODONIOS
+vless://94877739-3af6-4fbb-85b6-ca6fe86c7696@book.jarbook.net:443?mode=gun&security=reality&encryption=none&pbk=SiyX5MHMfE_232cYFpidAhU4eBxaoNphSSnNbVc1xnc&fp=chrome&spx=/&type=grpc&serviceName=BookCatalog&sni=reg.jarbook.net&sid=085f6d90#EPODONIOS
+vless://94877739-3af6-4fbb-85b6-ca6fe86c7696@tickets.betust.net:443?security=reality&encryption=none&pbk=TRaUsnzFf-AhWUuW4RQUQOBYTdM-qJdLDTTkzQNkcRw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tickets.betust.net&sid=f70764f8#EPODONIOS
 vless://94877739-3af6-4fbb-85b6-ca6fe86c7696@tickets.betust.net:443?security=reality&encryption=none&pbk=TRaUsnzFf-AhWUuW4RQUQOBYTdM-qJdLDTTkzQNkcRw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tickets.betust.net&sid=f70764f8#EPODONIOS
 vless://949139db-dcd3-4da9-a510-6bf22d1f5cb6@varzesh3.com:2052?path=/&security=&encryption=none&host=sajjad.panivo.ir&type=ws#EPODONIOS
 vless://94977b19-6720-48a6-92fd-00238757ea30@172.67.162.93:8880?type=ws&host=fragrant-credit-c4cf.148-e68.workers.dev#EPODONIOS
@@ -494,7 +498,3 @@ vless://XpnTeam-51@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encrypti
 vless://XpnTeam-51@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 vless://XpnTeam-6@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 vless://XpnTeam-70@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-vless://[V2XNET]@151.101.56.11:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=imcreeprd06.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-vless://_id_telegram_MimiTdi@188.130.207.202:443?path=/?ed=1024&security=none&encryption=none&host=play.google.com&type=ws#EPODONIOS
-vless://a0178cd2-6435-4beb-a5a6-8e50aa797068@78.47.197.126:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
-vless://a038b2f5-e826-4c6f-04d0-16faf5d1c5d9@aliopnop-production.up.railway.app:443?path=/ws/a038b2f5-e826-4c6f-04d0-16faf5d1c5d9&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=aliopnop-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=aliopnop-production.up.railway.app#EPODONIOS
