@@ -10,7 +10,8 @@
 //! - `error` — единый тип ошибок;
 //! - `settings` — загрузка настроек из переменных среды.
 //! - `splitter` — нарезка файлов больше лимита конфигов на построчные части.
-//! - `urls` — индекс `output/urls.txt` с прямыми ссылками на все файлы.
+//! - `urls` — индексы зеркал (`github_/gitlab_/codeberg_/gitea_urls.txt`)
+//!   с прямыми ссылками на все файлы вывода.
 
 pub mod config;
 pub mod decoder;
@@ -34,4 +35,7 @@ pub use settings::Settings;
 pub use splitter::{
     count_configs, find_large_files, split_content, split_file_if_large, DEFAULT_MAX_PER_FILE,
 };
-pub use urls::{collect_output_files, raw_url_for, write_urls_file, RAW_BASE, URLS_FILE_NAME};
+pub use urls::{
+    collect_output_files, mirror_url_for, write_mirror_indexes, CODEBERG_MIRROR, GITEA_MIRROR,
+    GITHUB_MIRROR, GITLAB_MIRROR, INDEX_FILE_NAMES, LEGACY_URLS_FILE_NAME, MIRRORS,
+};

@@ -24,6 +24,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          # Полная история: пуш в зеркала из shallow-клона ненадёжен.
+          fetch-depth: 0
 
       - name: Install Rust toolchain
         uses: dtolnay/rust-toolchain@stable
@@ -42,7 +45,8 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           
           # Индексируем только изменения в папке с результатами.
-          # -A: stage-ит и новые части `{id}-{n}.txt`, и удаления
+          # -A: stage-ит и новые части `{id}-{n}.txt`, индексы
+          # `github_/gitlab_/codeberg_/gitea_urls.txt`, и удаления
           # (исходные большие `{id}.txt`, устаревшие хвосты сплита).
           git add -A output/
           
@@ -56,4 +60,40 @@ jobs:
             # Актуализируем ветку перед push на случай параллельных изменений.
             git pull --rebase origin ${GITHUB_REF##*/}
             git push
+          fi
+
+      # Зеркала получают ту же ветку целиком (вместе с output/ и *_urls.txt).
+      # Шаг идемпотентен: без изменений push — no-op, ранее упавший пуш — долечится.
+      - name: Push output to mirrors
+        env:
+          GITLAB_TOKEN: ${{ secrets.GITLAB_TOKEN }}
+          CODEBERG_TOKEN: ${{ secrets.CODEBERG_TOKEN }}
+          GITEA_TOKEN: ${{ secrets.GITEA_TOKEN }}
+        run: |
+          BRANCH="${GITHUB_REF##*/}"
+
+          # Пустой токен — пропуск зеркала, чтобы ручные запуски
+          # без секретов не падали. Токены в логах маскируются GitHub.
+          if [ -n "$GITLAB_TOKEN" ]; then
+            git remote remove gitlab 2>/dev/null || true
+            git remote add gitlab "https://oauth2:${GITLAB_TOKEN}@gitlab.com/woolster2020/vc.git"
+            git push gitlab "HEAD:${BRANCH}"
+          else
+            echo "Skipping GitLab mirror: GITLAB_TOKEN is empty."
+          fi
+
+          if [ -n "$CODEBERG_TOKEN" ]; then
+            git remote remove codeberg 2>/dev/null || true
+            git remote add codeberg "https://woolster2020:${CODEBERG_TOKEN}@codeberg.org/woolster2020/vc.git"
+            git push codeberg "HEAD:${BRANCH}"
+          else
+            echo "Skipping Codeberg mirror: CODEBERG_TOKEN is empty."
+          fi
+
+          if [ -n "$GITEA_TOKEN" ]; then
+            git remote remove gitea 2>/dev/null || true
+            git remote add gitea "https://woolster2020:${GITEA_TOKEN}@gitea.com/woolster2020/vc.git"
+            git push gitea "HEAD:${BRANCH}"
+          else
+            echo "Skipping Gitea mirror: GITEA_TOKEN is empty."
           fi

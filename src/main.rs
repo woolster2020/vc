@@ -11,7 +11,7 @@
 
 use std::process::ExitCode;
 
-use vc::{load_sources, write_urls_file, FileSaver, HttpFetcher, Settings, SyncService};
+use vc::{load_sources, write_mirror_indexes, FileSaver, HttpFetcher, Settings, SyncService};
 
 #[tokio::main]
 async fn main() -> ExitCode {
@@ -91,13 +91,17 @@ async fn main() -> ExitCode {
         output_dir.display()
     );
 
-    // Индекс прямых ссылок на все файлы вывода (кроме самого urls.txt).
-    // Пишем всегда, когда хоть один источник успешно синхронизирован,
-    // чтобы подписчики могли забрать список одним запросом.
+    // Индексы прямых ссылок зеркал на все файлы вывода
+    // (кроме самих `*_urls.txt`). Пишем всегда, когда хоть один источник
+    // успешно синхронизирован, чтобы подписчики могли забрать список одним запросом.
     if ok > 0 {
-        match write_urls_file(&output_dir) {
-            Ok(index) => println!("ok   urls: {} (index)", index.display()),
-            Err(e) => eprintln!("fail urls.txt: {e}"),
+        match write_mirror_indexes(&output_dir) {
+            Ok(indexes) => {
+                for index in &indexes {
+                    println!("ok   urls: {} (index)", index.display());
+                }
+            }
+            Err(e) => eprintln!("fail *_urls.txt: {e}"),
         }
     }
 

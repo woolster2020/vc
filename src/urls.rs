@@ -1,6 +1,7 @@
-//! Индекс ссылок `output/urls.txt`.
+//! Индексы ссылок на файлы вывода — по одному на зеркало:
+//! `github_urls.txt`, `gitlab_urls.txt`, `codeberg_urls.txt`, `gitea_urls.txt`.
 //!
-//! Для каждого `*.txt` в каталоге вывода (кроме самого `urls.txt`)
+//! Для каждого `*.txt` в каталоге вывода (кроме самих индексов)
 //! пишется одна строка вида:
 //! `https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/1-3.txt`
 //! (прямые ссылки без CDN-кеширования).
@@ -13,23 +14,67 @@ use std::path::{Path, PathBuf};
 
 use crate::error::{Error, Result};
 
-/// База прямых ссылок (`raw.githubusercontent.com`) на файлы из `output/`.
-pub const RAW_BASE: &str =
-    "https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output";
-
-/// Имя файла-индекса внутри каталога вывода.
-pub const URLS_FILE_NAME: &str = "urls.txt";
-
-/// Прямая ссылка для имени файла (без каталога), например `1-3.txt`.
-pub fn raw_url_for(file_name: &str) -> String {
-    format!("{RAW_BASE}/{file_name}")
+/// Зеркало: имя файла-индекса и база прямых ссылок на `output/`.
+#[derive(Debug, Clone, Copy, PartialEq, Eq)]
+pub struct Mirror {
+    /// Имя файла индекса внутри каталога вывода.
+    pub file_name: &'static str,
+    /// База прямых ссылок на файлы из `output/`.
+    pub base: &'static str,
 }
 
-/// Собрать имена `*.txt`-файлов в `dir`, кроме самого `urls.txt`.
+/// GitHub: `https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/<файл>`.
+pub const GITHUB_MIRROR: Mirror = Mirror {
+    file_name: "github_urls.txt",
+    base: "https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output",
+};
+
+/// GitLab: `https://gitlab.com/woolster2020/vc/-/raw/main/output/<файл>`.
+pub const GITLAB_MIRROR: Mirror = Mirror {
+    file_name: "gitlab_urls.txt",
+    base: "https://gitlab.com/woolster2020/vc/-/raw/main/output",
+};
+
+/// Codeberg: `https://codeberg.org/woolster2020/vc/raw/branch/main/output/<файл>`.
+pub const CODEBERG_MIRROR: Mirror = Mirror {
+    file_name: "codeberg_urls.txt",
+    base: "https://codeberg.org/woolster2020/vc/raw/branch/main/output",
+};
+
+/// Gitea: `https://gitea.com/woolster2020/vc/raw/branch/main/output/<файл>`.
+pub const GITEA_MIRROR: Mirror = Mirror {
+    file_name: "gitea_urls.txt",
+    base: "https://gitea.com/woolster2020/vc/raw/branch/main/output",
+};
+
+/// Все зеркала, для которых пишутся индексы.
+pub const MIRRORS: &[Mirror] = &[GITHUB_MIRROR, GITLAB_MIRROR, CODEBERG_MIRROR, GITEA_MIRROR];
+
+/// Имена файлов, которые не являются конфигами и в индексы не попадают:
+/// актуальные индексы зеркал плюс legacy `urls.txt` (до разделения по зеркалам).
+pub const INDEX_FILE_NAMES: &[&str] = &[
+    "github_urls.txt",
+    "gitlab_urls.txt",
+    "codeberg_urls.txt",
+    "gitea_urls.txt",
+    "urls.txt",
+];
+
+/// Legacy-имя единого индекса (до разделения по зеркалам).
+/// При записи новых индексов этот файл удаляется, если ещё лежит на диске.
+pub const LEGACY_URLS_FILE_NAME: &str = "urls.txt";
+
+/// Прямая ссылка зеркала для имени файла (без каталога), например `1-3.txt`.
+pub fn mirror_url_for(mirror: &Mirror, file_name: &str) -> String {
+    format!("{}/{file_name}", mirror.base)
+}
+
+/// Собрать имена `*.txt`-файлов в `dir`, кроме файлов-индексов
+/// (см. [`INDEX_FILE_NAMES`]).
 ///
 /// Возвращает имена файлов (не пути), отсортированные естественным порядком.
 /// Не-`.txt` файлы и подкаталоги игнорируются. Отсутствующий каталог —
-/// пустой список (индекс будет пустым, а не ошибкой).
+/// пустой список (индексы будут пустыми, а не ошибкой).
 pub fn collect_output_files(dir: &Path) -> Result<Vec<String>> {
     let entries = match std::fs::read_dir(dir) {
         Ok(entries) => entries,
@@ -58,7 +103,7 @@ pub fn collect_output_files(dir: &Path) -> Result<Vec<String>> {
         let Some(name) = path.file_name().and_then(|s| s.to_str()) else {
             continue;
         };
-        if name == URLS_FILE_NAME {
+        if INDEX_FILE_NAMES.contains(&name) {
             continue;
         }
         names.push(name.to_string());
@@ -67,29 +112,43 @@ pub fn collect_output_files(dir: &Path) -> Result<Vec<String>> {
     Ok(names)
 }
 
-/// Записать `output/urls.txt`: по одной прямой ссылке на строку.
+/// Записать индексы всех зеркал (см. [`MIRRORS`]): по одной прямой ссылке
+/// на строку в каждом файле.
 ///
-/// Возвращает путь записанного индекса. Каталог создаётся при необходимости.
-/// Каждая строка заканчивается `\n` (в конце файла тоже `\n`, если есть строки).
-pub fn write_urls_file(dir: &Path) -> Result<PathBuf> {
+/// Возвращает пути записанных индексов (в порядке [`MIRRORS`]).
+/// Каталог создаётся при необходимости. Каждая строка заканчивается `\n`
+/// (в конце файла тоже `\n`, если есть строки).
+/// Legacy-файл `urls.txt` при этом удаляется с диска, если он ещё есть.
+pub fn write_mirror_indexes(dir: &Path) -> Result<Vec<PathBuf>> {
     std::fs::create_dir_all(dir).map_err(|e| Error::Save {
         path: dir.display().to_string(),
         source: e,
     })?;
 
     let names = collect_output_files(dir)?;
-    let mut content = String::new();
-    for name in &names {
-        content.push_str(&raw_url_for(name));
-        content.push('\n');
+
+    let mut written = Vec::with_capacity(MIRRORS.len());
+    for mirror in MIRRORS {
+        let mut content = String::new();
+        for name in &names {
+            content.push_str(&mirror_url_for(mirror, name));
+            content.push('\n');
+        }
+
+        let path = dir.join(mirror.file_name);
+        std::fs::write(&path, content).map_err(|e| Error::Save {
+            path: path.display().to_string(),
+            source: e,
+        })?;
+        written.push(path);
     }
 
-    let path = dir.join(URLS_FILE_NAME);
-    std::fs::write(&path, content).map_err(|e| Error::Save {
-        path: path.display().to_string(),
-        source: e,
-    })?;
-    Ok(path)
+    // Остаток эпохи единого индекса: best-effort, отсутствие — не ошибка.
+    let legacy = dir.join(LEGACY_URLS_FILE_NAME);
+    if legacy.is_file() {
+        let _ = std::fs::remove_file(&legacy);
+    }
+    Ok(written)
 }
 
 /// Естественное сравнение: последовательности цифр сравниваются как числа,
@@ -182,10 +241,22 @@ mod tests {
     use super::*;
 
     #[test]
-    fn raw_url_joins_base_and_name() {
+    fn mirror_urls_join_base_and_name() {
         assert_eq!(
-            raw_url_for("1-3.txt"),
-            "https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/1-3.txt"
+            mirror_url_for(&GITHUB_MIRROR, ".proxy-1.txt"),
+            "https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/.proxy-1.txt"
+        );
+        assert_eq!(
+            mirror_url_for(&GITLAB_MIRROR, ".proxy-1.txt"),
+            "https://gitlab.com/woolster2020/vc/-/raw/main/output/.proxy-1.txt"
+        );
+        assert_eq!(
+            mirror_url_for(&CODEBERG_MIRROR, ".proxy-1.txt"),
+            "https://codeberg.org/woolster2020/vc/raw/branch/main/output/.proxy-1.txt"
+        );
+        assert_eq!(
+            mirror_url_for(&GITEA_MIRROR, ".proxy-1.txt"),
+            "https://gitea.com/woolster2020/vc/raw/branch/main/output/.proxy-1.txt"
         );
     }
 
@@ -200,11 +271,14 @@ mod tests {
     }
 
     #[test]
-    fn collect_skips_urls_txt_non_txt_and_dirs() {
+    fn collect_skips_index_files_non_txt_and_dirs() {
         let dir = tempfile::tempdir().unwrap();
         std::fs::write(dir.path().join("2-10.txt"), "b").unwrap();
         std::fs::write(dir.path().join("2-2.txt"), "a").unwrap();
-        std::fs::write(dir.path().join("urls.txt"), "stale").unwrap();
+        // Все индексы зеркал плюс legacy — не конфиги.
+        for index in INDEX_FILE_NAMES {
+            std::fs::write(dir.path().join(index), "stale").unwrap();
+        }
         std::fs::write(dir.path().join("notes.md"), "doc").unwrap();
         std::fs::create_dir(dir.path().join("1-1.txt")).unwrap();
 
@@ -225,36 +299,64 @@ mod tests {
         std::fs::write(dir.path().join("1-3.txt"), "x").unwrap();
         std::fs::write(dir.path().join("2.txt"), "y").unwrap();
 
-        let path = write_urls_file(dir.path()).unwrap();
-        assert_eq!(path, dir.path().join("urls.txt"));
+        let paths = write_mirror_indexes(dir.path()).unwrap();
+        assert_eq!(paths.len(), MIRRORS.len());
+        assert_eq!(paths[0], dir.path().join("github_urls.txt"));
 
-        let content = std::fs::read_to_string(&path).unwrap();
+        let content = std::fs::read_to_string(&paths[0]).unwrap();
         assert_eq!(
             content,
             "https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/1-3.txt\n\
              https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/2.txt\n"
         );
+
+        // Остальные зеркала — те же файлы, свои базы.
+        let gitlab = std::fs::read_to_string(&paths[1]).unwrap();
+        assert_eq!(
+            gitlab,
+            "https://gitlab.com/woolster2020/vc/-/raw/main/output/1-3.txt\n\
+             https://gitlab.com/woolster2020/vc/-/raw/main/output/2.txt\n"
+        );
+        let codeberg = std::fs::read_to_string(&paths[2]).unwrap();
+        assert!(codeberg
+            .contains("https://codeberg.org/woolster2020/vc/raw/branch/main/output/1-3.txt\n"));
+        let gitea = std::fs::read_to_string(&paths[3]).unwrap();
+        assert!(gitea.contains("https://gitea.com/woolster2020/vc/raw/branch/main/output/2.txt\n"));
     }
 
     #[test]
-    fn write_empty_dir_produces_empty_index() {
+    fn write_empty_dir_produces_empty_indexes() {
         let dir = tempfile::tempdir().unwrap();
-        let path = write_urls_file(dir.path()).unwrap();
-        assert_eq!(std::fs::read_to_string(&path).unwrap(), "");
+        let paths = write_mirror_indexes(dir.path()).unwrap();
+        assert_eq!(paths.len(), MIRRORS.len());
+        for path in &paths {
+            assert_eq!(std::fs::read_to_string(path).unwrap(), "");
+        }
     }
 
     #[test]
-    fn write_overwrites_stale_index_and_excludes_itself() {
+    fn write_overwrites_stale_indexes_and_removes_legacy() {
         let dir = tempfile::tempdir().unwrap();
         std::fs::write(dir.path().join("urls.txt"), "stale\n").unwrap();
+        std::fs::write(dir.path().join("github_urls.txt"), "stale\n").unwrap();
         std::fs::write(dir.path().join("5.txt"), "x").unwrap();
 
-        write_urls_file(dir.path()).unwrap();
-        let content = std::fs::read_to_string(dir.path().join("urls.txt")).unwrap();
+        write_mirror_indexes(dir.path()).unwrap();
+
+        // Legacy-индекс удалён с диска.
+        assert!(!dir.path().join("urls.txt").exists());
+
+        let content = std::fs::read_to_string(dir.path().join("github_urls.txt")).unwrap();
         assert_eq!(
             content,
             "https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/5.txt\n"
         );
-        assert!(!content.contains("urls.txt\nurls"));
+        for index in INDEX_FILE_NAMES {
+            let body = std::fs::read_to_string(dir.path().join(index)).unwrap_or_default();
+            assert!(
+                !body.contains("urls.txt\nurls"),
+                "{index} must not list itself"
+            );
+        }
     }
 }

@@ -13,7 +13,7 @@
 use std::path::PathBuf;
 use std::process::ExitCode;
 
-use vc::{find_large_files, split_file_if_large, write_urls_file, DEFAULT_MAX_PER_FILE};
+use vc::{find_large_files, split_file_if_large, write_mirror_indexes, DEFAULT_MAX_PER_FILE};
 
 fn main() -> ExitCode {
     let mut cli = std::env::args().skip(1);
@@ -64,13 +64,15 @@ fn main() -> ExitCode {
         );
     }
 
-    match write_urls_file(&dir) {
-        Ok(index) => {
-            println!("ok   urls: {} (index)", index.display());
+    match write_mirror_indexes(&dir) {
+        Ok(indexes) => {
+            for index in &indexes {
+                println!("ok   urls: {} (index)", index.display());
+            }
             ExitCode::SUCCESS
         }
         Err(e) => {
-            eprintln!("fail urls.txt: {e}");
+            eprintln!("fail *_urls.txt: {e}");
             ExitCode::FAILURE
         }
     }
