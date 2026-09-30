@@ -148,6 +148,7 @@ https://gitlab.com/woolster2020/vc/-/raw/main/output/.proxy-19.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/.proxy-20.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/.proxy-21.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/.proxy-22.txt
+https://gitlab.com/woolster2020/vc/-/raw/main/output/.proxy-23.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/AutoVPN.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/Config-Collector.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/ConfigForge-V2Ray.txt
@@ -221,6 +222,7 @@ https://gitlab.com/woolster2020/vc/-/raw/main/output/V.O.I.D-VPN_Bypass-4.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/V.O.I.D-VPN_Bypass-5.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/daily_free_vpn-1.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/daily_free_vpn-2.txt
+https://gitlab.com/woolster2020/vc/-/raw/main/output/daily_free_vpn-3.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/kamaji_AE.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/kamaji_BG.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/kamaji_CH.txt
