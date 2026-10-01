@@ -315,5 +315,4 @@ https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/vify-2.
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/vpn-configs-for-russia_black_all.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/vpn-configs-for-russia_black_vless.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/vpn-configs-for-russia_black_vless_mobile.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/xray-config-toolkit-1.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/xray-config-toolkit-2.txt
+https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/xray-config-toolkit.txt
