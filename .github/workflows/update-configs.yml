@@ -64,6 +64,8 @@ jobs:
 
       # Зеркала получают ту же ветку целиком (вместе с output/ и *_urls.txt).
       # Шаг идемпотентен: без изменений push — no-op, ранее упавший пуш — долечится.
+      # Падение одного зеркала (например, 503 от Codeberg) не прерывает остальные:
+      # ошибки копятся и роняют шаг только в самом конце.
       - name: Push output to mirrors
         env:
           GITLAB_TOKEN: ${{ secrets.GITLAB_TOKEN }}
@@ -71,29 +73,49 @@ jobs:
           GITEA_TOKEN: ${{ secrets.GITEA_TOKEN }}
         run: |
           BRANCH="${GITHUB_REF##*/}"
+          FAILED=""
+
+          # Пуш в одно зеркало с ретраями против транзиентных 5xx.
+          # $1 — имя remote, $2 — URL remote (токен уже подставлен).
+          # Всегда возвращает 0, неуспех дописывает имя в $FAILED.
+          mirror_push() {
+            local name="$1" url="$2" attempt=0
+            while [ "$attempt" -lt 3 ]; do
+              attempt=$((attempt + 1))
+              git remote remove "$name" 2>/dev/null || true
+              git remote add "$name" "$url"
+              if git push "$name" "HEAD:${BRANCH}"; then
+                return 0
+              fi
+              echo "Push to $name failed (attempt $attempt/3)."
+              sleep $((attempt * 30))
+            done
+            FAILED="${FAILED} ${name}"
+            return 0
+          }
 
           # Пустой токен — пропуск зеркала, чтобы ручные запуски
           # без секретов не падали. Токены в логах маскируются GitHub.
           if [ -n "$GITLAB_TOKEN" ]; then
-            git remote remove gitlab 2>/dev/null || true
-            git remote add gitlab "https://oauth2:${GITLAB_TOKEN}@gitlab.com/woolster2020/vc.git"
-            git push gitlab "HEAD:${BRANCH}"
+            mirror_push gitlab "https://oauth2:${GITLAB_TOKEN}@gitlab.com/woolster2020/vc.git"
           else
             echo "Skipping GitLab mirror: GITLAB_TOKEN is empty."
           fi
 
           if [ -n "$CODEBERG_TOKEN" ]; then
-            git remote remove codeberg 2>/dev/null || true
-            git remote add codeberg "https://woolster2020:${CODEBERG_TOKEN}@codeberg.org/woolster2020/vc.git"
-            git push codeberg "HEAD:${BRANCH}"
+            mirror_push codeberg "https://woolster2020:${CODEBERG_TOKEN}@codeberg.org/woolster2020/vc.git"
           else
             echo "Skipping Codeberg mirror: CODEBERG_TOKEN is empty."
           fi
 
           if [ -n "$GITEA_TOKEN" ]; then
-            git remote remove gitea 2>/dev/null || true
-            git remote add gitea "https://woolster2020:${GITEA_TOKEN}@gitea.com/woolster2020/vc.git"
-            git push gitea "HEAD:${BRANCH}"
+            mirror_push gitea "https://woolster2020:${GITEA_TOKEN}@gitea.com/woolster2020/vc.git"
           else
             echo "Skipping Gitea mirror: GITEA_TOKEN is empty."
           fi
+
+          if [ -n "$FAILED" ]; then
+            echo "Mirror push failed for:$FAILED"
+            exit 1
+          fi
+          echo "All mirrors pushed."
