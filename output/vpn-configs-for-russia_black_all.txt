@@ -1,7 +1,7 @@
 # profile-title: 🏴 ЧЕРНЫЕ СПИСКИ 🏴 BLACK LISTS | Полная • Full | SS, Hy2, Vmess, Trojan
 # profile-update-interval: 1
-# Date/Time: 2026-10-01 / 17:01 (Moscow)
-# Количество: 24
+# Date/Time: 2026-10-01 / 18:59 (Moscow)
+# Количество: 51
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 # RU: Эта подписка может содержать Trojan/Hysteria2/Hy2 с legacy-параметрами insecure=1 или allowInsecure=1.
@@ -12,17 +12,16 @@
 # EN: Such configs may cause Xray-core startup errors with Xray-core v26.2.6 and newer in clients that use the Xray-core engine.
 # EN: For compatibility, use Mihomo/Sing-box for Trojan/Hysteria2/Hy2 or Xray-core v26.1.23, the last confirmed working version for such configs.
 
-hysteria2://06e88dd6-e264-4981-8c26-d7ab17348ab2@2.27.29.120:443?sni=de01.clgate.network#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://45bc25b2-1a10-11ed-91c0-f23c91cfbbc9@8f3c6c53-tmkao0-u4zl7f-1jk6u.nw4.hyhuawei.com:443?insecure=1&sni=8f3c6c53-tmkao0-u4zl7f-1jk6u.nw4.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
-hysteria2://45bc25b2-1a10-11ed-91c0-f23c91cfbbc9@acf1b599-tmeqo0-u4zl7f-1jk6u.nw4.hyhuawei.com:443?sni=acf1b599-tmeqo0-u4zl7f-1jk6u.nw4.hyhuawei.com&insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
+hysteria2://989aa406-ea9b-11ef-97da-f23c91cfbbc9@251c04d2-tm96o0-0-1rnrp.nw4.hyhuawei.com:443?sni=251c04d2-tm96o0-0-1rnrp.nw4.hyhuawei.com&insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
 hysteria2://0a11d3b4-682c-4bfb-afb0-820b8285cb4b@mix.pantera-radio.ru:443?fp=firefox&insecure=1&sni=mix.pantera-radio.ru#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-hk-004.fastervpn.world:443?insecure=1&sni=vpn-hk-004.fastervpn.world#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%5BBL%5D
 hysteria2://c2f5e996-9fe3-4c98-8d42-69cdef945d72@nl6.meshbeat.online:10808?sni=nl6.meshbeat.online&alpn=h3#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Oude%20Meer%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?security=tls&sni=msk.frkn.org&alpn=h3&insecure=0#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%7C%20%5BBL%5D
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?sni=msk.frkn.org&upmbps=0#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%7C%20%5BBL%5D
+hysteria2://3437f34e-1b77-11eb-8684-f23c913c8d2b@25188aad-tm3mo0-unh4sc-xm0q.los.hyhuawei.com:443?insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://4eedcde6-d16a-11ef-973a-f23c913c8d2b@4cbb5b88-tm96o0-tnhquc-1j0a4.los.hyhuawei.com:443?insecure=1&sni=4cbb5b88-tm96o0-tnhquc-1j0a4.los.hyhuawei.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://5f091cbe-fb34-11ea-9777-f23c9164ca5d@9df552ab-tmkao0-u1vxv2-v3c2.los.hyhuawei.com:443?insecure=1&sni=9df552ab-tmkao0-u1vxv2-v3c2.los.hyhuawei.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20San%20Jose%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru.xiaoliyu.cyou:18333?insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru.xiaoliyu.cyou:18333?insecure=1&sni=ru.xiaoliyu.cyou#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?upmbps=0#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%7C%20%5BBL%5D
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=1&alpn=h3#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-trojan://9efd3f19-c7cb-4fa9-8d66-0598043597dc@zhilegelian1.bpca2026.top:443?security=tls&sni=zhilegelian1.bpca2026.top&type=ws&path=%2Fimages&Host=zhilegelian1.bpca2026.top&fp=android#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-trojan://9efd3f19-c7cb-4fa9-8d66-0598043597dc@zhilegelian1.bpca2026.top:443?security=tls&sni=zhilegelian1.bpca2026.top&type=ws&path=%2Fimages&Host=zhilegelian1.bpca2026.top&fp=edge#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-trojan://9efd3f19-c7cb-4fa9-8d66-0598043597dc@zhilegelian1.bpca2026.top:443?security=tls&sni=zhilegelian1.bpca2026.top&type=ws&path=%2Fimages&Host=zhilegelian1.bpca2026.top&fp=qq#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-trojan://9efd3f19-c7cb-4fa9-8d66-0598043597dc@zhilegelian1.bpca2026.top:443?security=tls&sni=zhilegelian1.bpca2026.top&type=ws&path=%2Fimages&Host=zhilegelian1.bpca2026.top&fp=safari#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?security=tls&sni=msk.frkn.org&alpn=h3&insecure=0#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?sni=msk.frkn.org&upmbps=0#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://9efd3f19-c7cb-4fa9-8d66-0598043597dc@zhilegelian1.bpca2026.top:443?security=tls&sni=zhilegelian1.bpca2026.top&type=ws&path=/images&Host=zhilegelian1.bpca2026.top#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
