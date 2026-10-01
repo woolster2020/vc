@@ -1,7 +1,7 @@
 # profile-title: 🏴 ЧЕРНЫЕ СПИСКИ 🏴 BLACK LISTS | Полная • Full | SS, Hy2, Vmess, Trojan
 # profile-update-interval: 1
-# Date/Time: 2026-10-01 / 10:33 (Moscow)
-# Количество: 46
+# Date/Time: 2026-10-01 / 13:02 (Moscow)
+# Количество: 48
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 # RU: Эта подписка может содержать Trojan/Hysteria2/Hy2 с legacy-параметрами insecure=1 или allowInsecure=1.
@@ -12,27 +12,31 @@
 # EN: Such configs may cause Xray-core startup errors with Xray-core v26.2.6 and newer in clients that use the Xray-core engine.
 # EN: For compatibility, use Mihomo/Sing-box for Trojan/Hysteria2/Hy2 or Xray-core v26.1.23, the last confirmed working version for such configs.
 
-hysteria2://06e88dd6-e264-4981-8c26-d7ab17348ab2@2.27.29.120:443?sni=de01.clgate.network#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.127.145:8443?sni=hop-germany-september.dynuddns.com#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%2C%20Prague%20%7C%20%5BBL%5D
 hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@xg1.mangshe.xyz:2060?insecure=1&sni=xg1.mangshe.xyz#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://40fb1315-191a-11ed-b0ca-f23c91cfbbc9@fa86aac8-tmeqo0-0-1imi4.nw4.hyhuawei.com:443?insecure=1&sni=fa86aac8-tmeqo0-0-1imi4.nw4.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
+hysteria2://45bc25b2-1a10-11ed-91c0-f23c91cfbbc9@8f3c6c53-tmkao0-u4zl7f-1jk6u.nw4.hyhuawei.com:443?insecure=1&sni=8f3c6c53-tmkao0-u4zl7f-1jk6u.nw4.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
+hysteria2://989aa406-ea9b-11ef-97da-f23c91cfbbc9@251c04d2-tm96o0-0-1rnrp.nw4.hyhuawei.com:443?sni=251c04d2-tm96o0-0-1rnrp.nw4.hyhuawei.com&insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
+hysteria2://f93486ce-cc84-11ed-9e98-f23c913c8d2b@cb5bf3d8-tmeqo0-0-1jcwu.nw4.hyhuawei.com:443?sni=cb5bf3d8-tmeqo0-0-1jcwu.nw4.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-hk-004.fastervpn.world:443?insecure=1&sni=vpn-hk-004.fastervpn.world#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%5BBL%5D
 hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@rb.mangshe.xyz:2060?insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@rb.mangshe.xyz:2060?insecure=1&sni=rb.mangshe.xyz#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 hysteria2://0a11d3b4-682c-4bfb-afb0-820b8285cb4b@mix.pantera-radio.ru:443?fp=firefox&insecure=1&sni=mix.pantera-radio.ru#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-hk-004.fastervpn.world:443?insecure=1&sni=vpn-hk-004.fastervpn.world#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%5BBL%5D
 hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@xby.mangshe.xyz:2060?insecure=1&sni=xby.mangshe.xyz#%F0%9F%87%AA%F0%9F%87%B8%20Spain%2C%20Madrid%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://refR_aiEa1x_d9d899e6:d9d899e6-3e08-4b0b-8684-07a1d216a167@62.182.198.204:8472?security=tls&sni=svoboda8.bystriynet.online&fp=chrome&alpn=h3#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D
+hysteria2://a56619e2bed91121eabb97d20be207c3@85.237.207.49:50160?insecure=1&sni=85-237-207-49.liao.kdns.fr#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://94d40708-8273-11ea-8fc9-f23c913c8d2b@db09351f-tlsio0-0-mv7m.los.hyhuawei.com:443?sni=db09351f-tlsio0-0-mv7m.los.hyhuawei.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://989aa406-ea9b-11ef-97da-f23c91cfbbc9@8b327214-tm3mo0-tlvsde-1rnrp.los.hyhuawei.com:443?sni=8b327214-tm3mo0-tlvsde-1rnrp.los.hyhuawei.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://989aa406-ea9b-11ef-97da-f23c91cfbbc9@d84e799d-tm96o0-0-1rnrp.los.hyhuawei.com:443?sni=d84e799d-tm96o0-0-1rnrp.los.hyhuawei.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://c12f73f6-e8c7-11ed-9246-f23c9164ca5d@42fab11a-tm96o0-tnggms-6gn6.los.hyhuawei.com:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://f93486ce-cc84-11ed-9e98-f23c913c8d2b@d758db8f-tmeqo0-0-1jcwu.los.hyhuawei.com:443?sni=d758db8f-tmeqo0-0-1jcwu.los.hyhuawei.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20San%20Jose%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@mg.mangshe.xyz:2060?insecure=1&sni=mg.mangshe.xyz#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Seattle%20%7C%20%5BBL%5D
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru.xiaoliyu.cyou:18333?insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%7C%20%5BBL%5D
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=1&alpn=h3#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%7C%20%5BBL%5D
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?security=tls&sni=msk.frkn.org&alpn=h3&insecure=0#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%7C%20%5BBL%5D
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=1&alpn=h3#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?sni=msk.frkn.org&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://e4fa7b90-b8ee-45bb-b3be-cb3bfdc551e3@156.229.160.253:55000?sni=www.bing.com&insecure=1#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
-hysteria2://fe552e75-4ffd-4e1a-984c-44e71c746c15@156.229.160.253:55000?sni=www.bing.com&insecure=1#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
-trojan://M7v%25w11Se%2A@34.101.126.150:443?allowInsecure=1&security=tls&sni=qfdfsg.wsone.icu&fp=chrome#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2C%20Jakarta%20%7C%20%5BBL%5D
-trojan://M7v%25w11Se%2A@34.101.126.150:443?allowInsecure=1&security=tls&sni=qfdfsg.wsone.icu&fp=edge#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2C%20Jakarta%20%7C%20%5BBL%5D
-trojan://M7v%25w11Se%2A@34.101.126.150:443?allowInsecure=1&security=tls&sni=qfdfsg.wsone.icu&fp=qq#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2C%20Jakarta%20%7C%20%5BBL%5D
-trojan://M7v%25w11Se%2A@qfdfsg.wsone.icu:443?allowInsecure=1&type=tcp&security=tls&sni=qfdfsg.wsone.icu&fp=android#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2C%20Jakarta%20%7C%20%5BBL%5D
-trojan://M7v%25w11Se%2A@qfdfsg.wsone.icu:443?allowInsecure=1&type=tcp&security=tls&sni=qfdfsg.wsone.icu&fp=firefox#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2C%20Jakarta%20%7C%20%5BBL%5D
-trojan://M7v%25w11Se%2A@qfdfsg.wsone.icu:443?allowInsecure=1&type=tcp&security=tls&sni=qfdfsg.wsone.icu&fp=ios#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2C%20Jakarta%20%7C%20%5BBL%5D
+hysteria2://e4fa7b90-b8ee-45bb-b3be-cb3bfdc551e3@156.229.160.253:55000?insecure=1&sni=www.bing.com#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
+hysteria2://fe552e75-4ffd-4e1a-984c-44e71c746c15@156.229.160.253:55000?sni=www.bing.com&insecure=1#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
 trojan://Trojan%4082164024@th1.zestapp778.com:443?type=tcp&security=tls&sni=th1.zestapp778.com&fp=chrome#%F0%9F%87%B9%F0%9F%87%AD%20Thailand%2C%20Samut%20Songkhram%20%7C%20%5BBL%5D
 trojan://Trojan%4082164024@th1.zestapp778.com:443?type=tcp&security=tls&sni=th1.zestapp778.com&fp=firefox#%F0%9F%87%B9%F0%9F%87%AD%20Thailand%2C%20Samut%20Songkhram%20%7C%20%5BBL%5D
 trojan://Trojan%4082164024@th1.zestapp778.com:443?type=tcp&security=tls&sni=th1.zestapp778.com&fp=safari#%F0%9F%87%B9%F0%9F%87%AD%20Thailand%2C%20Samut%20Songkhram%20%7C%20%5BBL%5D
@@ -43,7 +47,4 @@ trojan://8GXLP3dEzm7T8wP5Jx0Ufg@199.107.164.105:443?security=tls&sni=quictest.bu
 trojan://8GXLP3dEzm7T8wP5Jx0Ufg@199.107.164.105:443?security=tls&sni=quictest.burncommunity.ru&alpn=http%2F1.1&allowInsecure=1&insecure=1&type=ws&path=%2F&host=quictest.burncommunity.ru&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 trojan://8GXLP3dEzm7T8wP5Jx0Ufg@199.107.164.105:443?security=tls&sni=quictest.burncommunity.ru&alpn=http%2F1.1&allowInsecure=1&insecure=1&type=ws&path=%2F&host=quictest.burncommunity.ru&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 trojan://8GXLP3dEzm7T8wP5Jx0Ufg@199.107.164.105:443?security=tls&sni=quictest.burncommunity.ru&alpn=http%2F1.1&allowInsecure=1&insecure=1&type=ws&path=%2F&host=quictest.burncommunity.ru&fp=random#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-trojan://8GXLP3dEzm7T8wP5Jx0Ufg@199.107.164.105:443?security=tls&sni=quictest.burncommunity.ru&alpn=http%2F1.1&allowInsecure=1&insecure=1&type=ws&path=%2F&host=quictest.burncommunity.ru&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-trojan://Trojan%4082164024@us3.zestapp778.com:443?security=tls&sni=us3.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Denver%20%28North%20Capitol%20Hill%29%20%7C%20%5BBL%5D
-trojan://Trojan%4082164024@us3.zestapp778.com:443?security=tls&sni=us3.zestapp778.com&type=tcp&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Denver%20%28North%20Capitol%20Hill%29%20%7C%20%5BBL%5D
-trojan://Trojan%4082164024@us3.zestapp778.com:443?security=tls&sni=us3.zestapp778.com&type=tcp&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Denver%20%28North%20Capitol%20Hill%29%20%7C%20%5BBL%5D
+trojan://Sj_JilPV15BRqsAnQPVsWA@66.23.207.70:443?security=none&type=ws&path=%2F&host=telegram.org#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Chicago%20%7C%20%5BBL%5D
