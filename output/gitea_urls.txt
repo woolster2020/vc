@@ -219,10 +219,7 @@ https://gitea.com/woolster2020/vc/raw/branch/main/output/V.O.I.D-VPN_Bypass-2.tx
 https://gitea.com/woolster2020/vc/raw/branch/main/output/V.O.I.D-VPN_Bypass-3.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/V.O.I.D-VPN_Bypass-4.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/V.O.I.D-VPN_Bypass-5.txt
-https://gitea.com/woolster2020/vc/raw/branch/main/output/daily_free_vpn-1.txt
-https://gitea.com/woolster2020/vc/raw/branch/main/output/daily_free_vpn-2.txt
-https://gitea.com/woolster2020/vc/raw/branch/main/output/daily_free_vpn-3.txt
-https://gitea.com/woolster2020/vc/raw/branch/main/output/daily_free_vpn-4.txt
+https://gitea.com/woolster2020/vc/raw/branch/main/output/daily_free_vpn.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/kamaji_AE.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/kamaji_BG.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/kamaji_CH.txt
