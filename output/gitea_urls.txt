@@ -222,6 +222,10 @@ https://gitea.com/woolster2020/vc/raw/branch/main/output/V.O.I.D-VPN_Bypass-5.tx
 https://gitea.com/woolster2020/vc/raw/branch/main/output/daily_free_vpn-1.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/daily_free_vpn-2.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/daily_free_vpn-3.txt
+https://gitea.com/woolster2020/vc/raw/branch/main/output/daily_free_vpn-4.txt
+https://gitea.com/woolster2020/vc/raw/branch/main/output/daily_free_vpn-5.txt
+https://gitea.com/woolster2020/vc/raw/branch/main/output/daily_free_vpn-6.txt
+https://gitea.com/woolster2020/vc/raw/branch/main/output/daily_free_vpn-7.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/kamaji_AE.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/kamaji_BG.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/kamaji_CH.txt
@@ -314,4 +318,5 @@ https://gitea.com/woolster2020/vc/raw/branch/main/output/vify-2.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/vpn-configs-for-russia_black_all.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/vpn-configs-for-russia_black_vless.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/vpn-configs-for-russia_black_vless_mobile.txt
-https://gitea.com/woolster2020/vc/raw/branch/main/output/xray-config-toolkit.txt
+https://gitea.com/woolster2020/vc/raw/branch/main/output/xray-config-toolkit-1.txt
+https://gitea.com/woolster2020/vc/raw/branch/main/output/xray-config-toolkit-2.txt
