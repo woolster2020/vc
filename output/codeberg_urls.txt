@@ -198,8 +198,7 @@ https://codeberg.org/woolster2020/vc/raw/branch/main/output/OpenRay_all-12.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/OpenRay_all-13.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/OpenRay_all-14.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/OpenRay_top100.txt
-https://codeberg.org/woolster2020/vc/raw/branch/main/output/Proxy-List_hysteria2-1.txt
-https://codeberg.org/woolster2020/vc/raw/branch/main/output/Proxy-List_hysteria2-2.txt
+https://codeberg.org/woolster2020/vc/raw/branch/main/output/Proxy-List_hysteria2.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/Proxy-List_trojan-1.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/Proxy-List_trojan-2.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/Proxy-List_trojan-3.txt
@@ -314,4 +313,5 @@ https://codeberg.org/woolster2020/vc/raw/branch/main/output/vify-2.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/vpn-configs-for-russia_black_all.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/vpn-configs-for-russia_black_vless.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/vpn-configs-for-russia_black_vless_mobile.txt
-https://codeberg.org/woolster2020/vc/raw/branch/main/output/xray-config-toolkit.txt
+https://codeberg.org/woolster2020/vc/raw/branch/main/output/xray-config-toolkit-1.txt
+https://codeberg.org/woolster2020/vc/raw/branch/main/output/xray-config-toolkit-2.txt
