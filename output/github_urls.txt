@@ -218,10 +218,7 @@ https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/V.O.I.D
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/V.O.I.D-VPN_Bypass-2.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/V.O.I.D-VPN_Bypass-3.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/V.O.I.D-VPN_Bypass-4.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/daily_free_vpn-1.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/daily_free_vpn-2.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/daily_free_vpn-3.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/daily_free_vpn-4.txt
+https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/daily_free_vpn.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/kamaji_AE.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/kamaji_BG.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/kamaji_CH.txt
@@ -314,5 +311,4 @@ https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/vify-2.
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/vpn-configs-for-russia_black_all.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/vpn-configs-for-russia_black_vless.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/vpn-configs-for-russia_black_vless_mobile.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/xray-config-toolkit-1.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/xray-config-toolkit-2.txt
+https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/xray-config-toolkit.txt
