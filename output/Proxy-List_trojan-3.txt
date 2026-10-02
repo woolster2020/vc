@@ -1,3 +1,8 @@
+trojan://061a01f1-704b-4712-8e12-6d3fc95a127d@61.130.144.150:21109?sni=gmarket.phantasy.life#
+trojan://061a01f1-704b-4712-8e12-6d3fc95a127d@61.130.144.150:21122?sni=gmarket.phantasy.life#
+trojan://061a01f1-704b-4712-8e12-6d3fc95a127d@61.130.144.150:21126?sni=gmarket.phantasy.life#
+trojan://061a01f1-704b-4712-8e12-6d3fc95a127d@61.130.144.150:58249?sni=gmarket.phantasy.life#
+trojan://061a036a-f3c3-33ce-a2b4-c582cc2abdbb@35.75.8.137:443#
 trojan://061ec9d5-ba40-428a-8be0-1947b10b5cfc@104.21.22.211:443/?type=ws&path=%2FDmby2AKiZKvMo1YauoQwY5&security=tls&sni=T.taipEi108.Dpdns.Org#
 trojan://061ec9d5-ba40-428a-8be0-1947b10b5cfc@104.21.57.88:443?allowInsecure=0&sni=ddFrt.irAN.Pp.Ua&alpn=http/1.1&type=ws&path=/Dmby2AKiZKvMo1YauoQwY5#
 trojan://061ec9d5-ba40-428a-8be0-1947b10b5cfc@172.67.162.74:443?security=tls&sni=16gG.irAN.pP.UA&type=ws&host=16gg.iran.pp.ua&path=%2FDmby2AKiZKvMo1YauoQwY5&fp=chrome&alpn=http%2F1.1#

@@ -1,3 +1,8 @@
+trojan://%7C%3F%3Fi_JKOEo%21rcur2@104.18.135.255:443?security=tls&sni=Flat-WOod-1B6a.mahdIhesINE3.worKErs.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=flat-wood-1b6a.mahdihesine3.workers.dev&path=%2FeyJqdW5rIjoiQjJ4ZVlETFIiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#
+trojan://%7C%3F%3Fi_JKOEo%21rcur2@104.18.19.1:443?security=tls&sni=Flat-WOod-1B6a.mahdIhesINE3.worKErs.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=flat-wood-1b6a.mahdihesine3.workers.dev&path=%2FeyJqdW5rIjoiQjJ4ZVlETFIiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#
+trojan://%7C%3F%3Fi_JKOEo%21rcur2@104.19.21.133:443?security=tls&sni=Flat-WOod-1B6a.mahdIhesINE3.worKErs.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=flat-wood-1b6a.mahdihesine3.workers.dev&path=%2FeyJqdW5rIjoiQjJ4ZVlETFIiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#
+trojan://%7C%3F%3Fi_JKOEo%21rcur2@104.21.76.238:443?security=tls&sni=Flat-WOod-1B6a.mahdIhesINE3.worKErs.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=flat-wood-1b6a.mahdihesine3.workers.dev&path=%2FeyJqdW5rIjoiQjJ4ZVlETFIiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#
+trojan://%7C%3F%3Fi_JKOEo%21rcur2@104.25.138.173:443?security=tls&sni=Flat-WOod-1B6a.mahdIhesINE3.worKErs.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=flat-wood-1b6a.mahdihesine3.workers.dev&path=%2FeyJqdW5rIjoiQjJ4ZVlETFIiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#
 trojan://%7C%3F%3Fi_JKOEo%21rcur2@188.114.96.38:443?security=tls&sni=Flat-WOod-1B6a.mahdIhesINE3.worKErs.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=flat-wood-1b6a.mahdihesine3.workers.dev&path=%2FeyJqdW5rIjoiQjJ4ZVlETFIiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#
 trojan://%7C%3F%3Fi_JKOEo%21rcur2@188.114.96.40:443?security=tls&sni=Flat-WOod-1B6a.mahdIhesINE3.worKErs.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=flat-wood-1b6a.mahdihesine3.workers.dev&path=%2FeyJqdW5rIjoiQjJ4ZVlETFIiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#
 trojan://%7C%3F%3Fi_JKOEo%21rcur2@188.114.97.114:443?security=tls&sni=Flat-WOod-1B6a.mahdIhesINE3.worKErs.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=flat-wood-1b6a.mahdihesine3.workers.dev&path=%2FeyJqdW5rIjoiQjJ4ZVlETFIiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#
@@ -493,8 +498,3 @@ trojan://061a01f1-704b-4712-8e12-6d3fc95a127d@193.122.110.220:21109?sni=sale.ali
 trojan://061a01f1-704b-4712-8e12-6d3fc95a127d@193.122.110.220:21114?sni=sale.alibaba.com#
 trojan://061a01f1-704b-4712-8e12-6d3fc95a127d@193.123.226.114:21114?sni=sale.alibaba.com#
 trojan://061a01f1-704b-4712-8e12-6d3fc95a127d@193.123.226.114:21115?sni=sale.alibaba.com#
-trojan://061a01f1-704b-4712-8e12-6d3fc95a127d@61.130.144.150:21109?sni=gmarket.phantasy.life#
-trojan://061a01f1-704b-4712-8e12-6d3fc95a127d@61.130.144.150:21122?sni=gmarket.phantasy.life#
-trojan://061a01f1-704b-4712-8e12-6d3fc95a127d@61.130.144.150:21126?sni=gmarket.phantasy.life#
-trojan://061a01f1-704b-4712-8e12-6d3fc95a127d@61.130.144.150:58249?sni=gmarket.phantasy.life#
-trojan://061a036a-f3c3-33ce-a2b4-c582cc2abdbb@35.75.8.137:443#
