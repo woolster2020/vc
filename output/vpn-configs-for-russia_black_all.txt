@@ -1,7 +1,7 @@
 # profile-title: 🏴 ЧЕРНЫЕ СПИСКИ 🏴 BLACK LISTS | Полная • Full | SS, Hy2, Vmess, Trojan
 # profile-update-interval: 1
-# Date/Time: 2026-10-02 / 08:40 (Moscow)
-# Количество: 38
+# Date/Time: 2026-10-02 / 11:05 (Moscow)
+# Количество: 28
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 # RU: Эта подписка может содержать Trojan/Hysteria2/Hy2 с legacy-параметрами insecure=1 или allowInsecure=1.
@@ -12,31 +12,25 @@
 # EN: Such configs may cause Xray-core startup errors with Xray-core v26.2.6 and newer in clients that use the Xray-core engine.
 # EN: For compatibility, use Mihomo/Sing-box for Trojan/Hysteria2/Hy2 or Xray-core v26.1.23, the last confirmed working version for such configs.
 
-hysteria2://06e88dd6-e264-4981-8c26-d7ab17348ab2@2.27.29.120:443?sni=de01.clgate.network#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://e19b5aa3-16c9-435a-8bc9-76f2f6ddff43@64.188.119.177:28015?sni=api-test-udp-trf.kaneki.cfd#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+hysteria2://3bd247a8-993e-11ec-a8bf-f23c91cfbbc9@0d6ed79d-tlsio0-u4ai7k-z7a1.nw4.hyhuawei.com:443?sni=0d6ed79d-tlsio0-u4ai7k-z7a1.nw4.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
 hysteria2://6ddb6a68-d5f5-ca30-3943-cf0c9876d50c@0499fc3f-tmkao0-tnnrly-g43g.nw4.hyhuawei.com:443?insecure=1&sni=0499fc3f-tmkao0-tnnrly-g43g.nw4.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
-hysteria2://71e75cc1-d625-4be2-b3e4-ea2b197abf25@hkt03ddns.poke-mon.xyz:20000?insecure=1&sni=www.bing.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%5BBL%5D
+hysteria2://8fa4bea0-8703-11ef-83cc-f23c913c8d2b@db1b2f3b-tly2o0-tn3jhp-1qthu.nw4.hyhuawei.com:443?sni=db1b2f3b-tly2o0-tn3jhp-1qthu.nw4.hyhuawei.com&insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
+hysteria2://94d40708-8273-11ea-8fc9-f23c913c8d2b@6d889de6-tly2o0-tn28ki-mv7m.nw4.hyhuawei.com:443?sni=6d889de6-tly2o0-tn28ki-mv7m.nw4.hyhuawei.com&insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
+hysteria2://989aa406-ea9b-11ef-97da-f23c91cfbbc9@251c04d2-tm96o0-0-1rnrp.nw4.hyhuawei.com:443?sni=251c04d2-tm96o0-0-1rnrp.nw4.hyhuawei.com&insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Central%20%7C%20%5BBL%5D
 hysteria2://ee872217-9c78-402c-a002-6a2af50b0227@160.16.71.52:8843?sni=updates.cdn-apple.com&insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-hk-004.fastervpn.world:443?insecure=1&sni=vpn-hk-004.fastervpn.world#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%5BBL%5D
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.104:8443?sni=grape-test-italy.dynuddns.net#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
-hysteria2://c2f5e996-9fe3-4c98-8d42-69cdef945d72@nl6.meshbeat.online:10808?sni=nl6.meshbeat.online#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Oude%20Meer%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://c2f5e996-9fe3-4c98-8d42-69cdef945d72@nl6.meshbeat.online:10808?sni=nl6.meshbeat.online&alpn=h3#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Oude%20Meer%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://4eedcde6-d16a-11ef-973a-f23c913c8d2b@4cbb5b88-tm96o0-tnhquc-1j0a4.los.hyhuawei.com:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://6d56436c-150d-11f0-b0c8-f23c913c8d2b@26f21f9e-tmcw00-tpkh0c-1r7od.los.hyhuawei.com:443?insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://6ddb6a68-d5f5-ca30-3943-cf0c9876d50c@35b28de6-tmkao0-tnnrly-g43g.los.hyhuawei.com:443?sni=35b28de6-tmkao0-tnnrly-g43g.los.hyhuawei.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://8fa4bea0-8703-11ef-83cc-f23c913c8d2b@402cf505-tly2o0-tn3jhp-1qthu.los.hyhuawei.com:443?sni=402cf505-tly2o0-tn3jhp-1qthu.los.hyhuawei.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://94d40708-8273-11ea-8fc9-f23c913c8d2b@db09351f-tlsio0-0-mv7m.los.hyhuawei.com:443?sni=db09351f-tlsio0-0-mv7m.los.hyhuawei.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 hysteria2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Ashburn%20%7C%20%5BBL%5D
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru.xiaoliyu.cyou:18333?insecure=1&sni=ru.xiaoliyu.cyou#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?sni=msk.frkn.org&insecure=1&alpn=h3#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?sni=msk.frkn.org&upmbps=0#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?upmbps=0#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=1&alpn=h3#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%7C%20%5BBL%5D
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?sni=msk.frkn.org&upmbps=0#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%7C%20%5BBL%5D
 hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@els.mangshe.xyz:2060?insecure=1&sni=els.mangshe.xyz#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Zelenograd%20%28Zelenogradskiy%20administrativnyy%20okrug%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://e19b5aa3-16c9-435a-8bc9-76f2f6ddff43@222.167.245.240:28015?sni=api-test-udp-traffic.kaneki.cfd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D
+hysteria2://e4fa7b90-b8ee-45bb-b3be-cb3bfdc551e3@156.229.160.253:55000?insecure=1&sni=www.bing.com#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
 hysteria2://fe552e75-4ffd-4e1a-984c-44e71c746c15@156.229.160.253:55000?sni=www.bing.com&insecure=1#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
-trojan://M7v%25w11Se%2A@34.101.126.150:443?allowInsecure=1&security=tls&sni=qfdfsg.wsone.icu&fp=chrome#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2C%20Jakarta%20%7C%20%5BBL%5D
-trojan://M7v%25w11Se%2A@34.101.126.150:443?allowInsecure=1&security=tls&sni=qfdfsg.wsone.icu&fp=edge#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2C%20Jakarta%20%7C%20%5BBL%5D
-trojan://M7v%25w11Se%2A@34.101.126.150:443?allowInsecure=1&security=tls&sni=qfdfsg.wsone.icu&fp=qq#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2C%20Jakarta%20%7C%20%5BBL%5D
-trojan://M7v%25w11Se%2A@34.101.126.150:443?allowInsecure=1&security=tls&sni=qfdfsg.wsone.icu&fp=safari#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2C%20Jakarta%20%7C%20%5BBL%5D
-trojan://M7v%25w11Se%2A@qfdfsg.wsone.icu:443?allowInsecure=1&type=tcp&security=tls&sni=qfdfsg.wsone.icu&fp=firefox#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2C%20Jakarta%20%7C%20%5BBL%5D
-trojan://M7v%25w11Se%2A@qfdfsg.wsone.icu:443?allowInsecure=1&type=tcp&security=tls&sni=qfdfsg.wsone.icu&fp=ios#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2C%20Jakarta%20%7C%20%5BBL%5D
-trojan://M7v%25w11Se%2A@qfdfsg.wsone.icu:443?allowInsecure=1&type=tcp&security=tls&sni=qfdfsg.wsone.icu&fp=qq#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2C%20Jakarta%20%7C%20%5BBL%5D
-trojan://M7v%25w11Se%2A@qfdfsg.wsone.icu:443?allowInsecure=1&type=tcp&security=tls&sni=qfdfsg.wsone.icu&fp=safari#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2C%20Jakarta%20%7C%20%5BBL%5D
+trojan://600421cf-11d7-429f-a65b-c30397f1bc03@23.106.44.14:443?sni=sj6.freeguard.org&peer=sj6.freeguard.org&security=tls&fp=android#%F0%9F%87%B1%F0%9F%87%B7%20Liberia%2C%20Monrovia%20%7C%20%5BBL%5D
+trojan://600421cf-11d7-429f-a65b-c30397f1bc03@23.106.44.14:443?sni=sj6.freeguard.org&peer=sj6.freeguard.org&security=tls&fp=chrome#%F0%9F%87%B1%F0%9F%87%B7%20Liberia%2C%20Monrovia%20%7C%20%5BBL%5D
+trojan://600421cf-11d7-429f-a65b-c30397f1bc03@23.106.44.14:443?sni=sj6.freeguard.org&peer=sj6.freeguard.org&security=tls&fp=firefox#%F0%9F%87%B1%F0%9F%87%B7%20Liberia%2C%20Monrovia%20%7C%20%5BBL%5D
+trojan://600421cf-11d7-429f-a65b-c30397f1bc03@23.106.44.14:443?sni=sj6.freeguard.org&peer=sj6.freeguard.org&security=tls&fp=qq#%F0%9F%87%B1%F0%9F%87%B7%20Liberia%2C%20Monrovia%20%7C%20%5BBL%5D
+trojan://8604561c-f683-4d56-b1e4-3165e254cf4f@45.205.27.78:10443?security=tls&sni=45.205.27.78&allowInsecure=1&insecure=1&type=tcp&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
+trojan://8604561c-f683-4d56-b1e4-3165e254cf4f@45.205.27.78:10443?security=tls&sni=45.205.27.78&allowInsecure=1&insecure=1&type=tcp&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
+trojan://8604561c-f683-4d56-b1e4-3165e254cf4f@45.205.27.78:10443?security=tls&sni=45.205.27.78&allowInsecure=1&insecure=1&type=tcp&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
+trojan://8604561c-f683-4d56-b1e4-3165e254cf4f@45.205.27.78:10443?security=tls&sni=45.205.27.78&allowInsecure=1&insecure=1&type=tcp&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
