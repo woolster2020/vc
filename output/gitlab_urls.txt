@@ -225,7 +225,6 @@ https://gitlab.com/woolster2020/vc/-/raw/main/output/daily_free_vpn-4.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/daily_free_vpn-5.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/daily_free_vpn-6.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/daily_free_vpn-7.txt
-https://gitlab.com/woolster2020/vc/-/raw/main/output/daily_free_vpn-8.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/kamaji_AE.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/kamaji_BG.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/kamaji_CH.txt
