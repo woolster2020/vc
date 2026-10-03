@@ -224,7 +224,6 @@ https://gitea.com/woolster2020/vc/raw/branch/main/output/daily_free_vpn-3.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/daily_free_vpn-4.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/daily_free_vpn-5.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/daily_free_vpn-6.txt
-https://gitea.com/woolster2020/vc/raw/branch/main/output/daily_free_vpn-7.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/kamaji_AE.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/kamaji_BG.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/kamaji_CH.txt
