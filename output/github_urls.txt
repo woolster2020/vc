@@ -221,6 +221,8 @@ https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/V.O.I.D
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/daily_free_vpn-1.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/daily_free_vpn-2.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/daily_free_vpn-3.txt
+https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/daily_free_vpn-4.txt
+https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/daily_free_vpn-5.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/kamaji_AE.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/kamaji_BG.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/kamaji_CH.txt
@@ -292,7 +294,6 @@ https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/proxy-m
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/proxy-minging-19.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/proxy-minging-20.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/proxy-minging-21.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/proxy-minging-22.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/telegram-v2ray-configs-collector.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/v2ray-configs-1.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/v2ray-configs-2.txt
