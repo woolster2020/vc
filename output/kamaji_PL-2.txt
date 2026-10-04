@@ -1,66 +1,232 @@
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.3:443?encryption=none&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=tls&amp;fp=chrome&amp;sni=pl4.moritech.net&amp;alpn=h2#[25606][PL][0][VLESS][None][VmessProtocol][2026-09-26][2026-10-01 02:49]
+vless://d23cb516-40db-4aa4-8142-6b45ff882f90@94.183.209.59:443?path=%2F&security=none&encryption=none&type=ws#[26681][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
 
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@80.47.6.12:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=polkakurvich.hohoterz.beer&fp=chrome&pbk=X6gBZNZSv_k1pyvLmQaDD4LsYk7jIA1SObRR5r-4Ynk&sid=fcfd621a2f36e3b6&type=tcp&headerType=none#[9546][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
+vless://318c935d-c195-41d3-99ad-9bbcfdab3386@144.31.4.193:444?mode=gun&security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&fp=chrome&type=grpc&sni=pl.srv.vbuste-bot.com&sid=4be4110078ebed4a#[6194][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
 
-vless://8e6104da-f178-49ea-b559-1fd69562baae@pl-35111f2d5f.sishka.network:443?flow=xtls-rprx-vision&encryption=none&sid=0ececd9b2731357d&sni=pl-35111f2d5f.sishka.network&fm=AhmadV2ray&type=tcp&spx=%2FAhmadV2ray&pbk=uYiZWRgbowvS9uOhVZTe0FBS1pLzA3QMyQ_NfDh4_h8&security=reality&fp=edge&headerType=none#[17351][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
+vless://48eccebc-1e36-4c60-b088-55fb793f6688@185.238.74.193:443/?type=ws&encryption=none&host=acedo.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=acedo.ambercc.filegear-sg.me#[9109][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@217.12.206.160:81?path=/members/playlist?ed=2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#[26765][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl4.moritech.net:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;allowInsecure=0&amp;flow=xtls-rprx-vision&amp;sni=pl4.moritech.net#[25930][PL][0][VLESS][None][free1_vpn][2026-09-29][2026-10-04 03:10]
 
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@80.47.6.12:443?encryption=none&amp;flow=xtls-rprx-vision&amp;type=raw&amp;security=reality&amp;sni=polkakurvich.hohoterz.beer&amp;fp=chrome&amp;pbk=X6gBZNZSv_k1pyvLmQaDD4LsYk7jIA1SObRR5r-4Ynk&amp;sid=fcfd621a2f36e3b6&amp;headertype=none#[9545][PL][0][VLESS][None][DeamNet_Proxy][2026-09-30][2026-10-01 02:48]
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&amp;encryption=none&amp;pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&amp;host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=ads.x5.ru&amp;sid=2f49bccf11150ef2#[20955][PL][0][VLESS][None][Outline_Vpn][2026-09-11][2026-10-04 03:10]
 
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&amp;alpn=http%2F1.1&amp;encryption=none&amp;pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&amp;host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=ads.x5.ru&amp;sid=2f49bccf11150ef2#[20794][PL][0][VLESS][None][marambashi][2026-09-13][2026-10-01 02:49]
+vless://3d730013-2c01-42bd-9034-7aaf56da37bb@pl6.bexait.ir:2434?security=reality&encryption=none&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=9de041877612a718#[7360][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
 
-vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.115:2087?encryption=none&security=none&type=ws&path=/4bc027a44532#[24045][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
+vless://3d730013-2c01-42bd-9034-7aaf56da37bb@pl9.bexait.ir:2434?security=reality&encryption=none&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=9de041877612a718#[7366][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
 
-vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.98:2087?path=%2F4bc027a44532&amp;security=none&amp;encryption=none&amp;type=ws#[24063][PL][0][VLESS][None][vpn_ioss][2026-09-10][2026-10-01 02:49]
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl3.moritech.net:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl3.moritech.net#[25918][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
 
-vless://9f19123a-1450-49f9-8ca4-3cc5f92f600b@plkrep.tgflow.me:443?security=reality&encryption=none&pbk=5SNuJakUsFk3udLSxuAhlzrdC6Xr2snwTIHvHwT5UiI&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=plkrep.tgflow.me&sid=fe8950f135674cfc#[19573][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
+vless://8033102198@144.31.171.233:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;allowInsecure=0&amp;flow=xtls-rprx-vision&amp;sni=pl6.fast-connect-service.site#[15694][PL][0][VLESS][None][prrofile_purple][2026-08-11][2026-10-04 03:10]
 
-vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.115:2087?encryption=none&security=none&type=ws&path=/4bc027a44532#[24046][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
+vless://11296c5f-93b7-5655-8704-f6d82e33d9f3@194.147.34.72:443/?type=ws&encryption=none&host=194.147.34.72&path=%2Fvless&security=tls&sni=zula.ir&fp=chrome#[2291][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
 
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@185.223.57.16:33743?mode=gun&security=reality&encryption=none&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&fp=chrome&type=grpc&serviceName=TunService&sni=www.google.com#[22876][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
+vless://35dab1a4-512d-42f7-8d03-36a3d7593687@185.241.208.241:8443?security=reality&amp;encryption=none&amp;pbk=9kVLF7EpBuo8J4j8IAdescF0pGQXfWljq3XdC4J8Okk&amp;fp=firefox&amp;type=grpc&amp;serviceName=edge&amp;sni=m1.vk.ru&amp;sid=a2b223d4#[6627][PL][0][VLESS][None][v2ray1_ng][2026-09-26][2026-10-04 03:10]
 
-vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.98:2087?path=%2F4bc027a44532&amp;security=none&amp;encryption=none&amp;type=ws#[24064][PL][0][VLESS][None][Outline_Vpn][2026-09-07][2026-10-01 02:49]
+vless://4cbefb4d-328c-411d-bf76-780df1082df8@31.76.251.123:8443?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&amp;host=wikihow.com&amp;fp=firefox&amp;type=xhttp&amp;sni=wikihow.com#[9758][PL][0][VLESS][None][v2ray1_ng][2026-09-22][2026-10-04 03:10]
 
-trojan://pkj3BBnG2NE4wD-72SwgzNcfaHSes-dr@191.44.113.95:443?security=reality&amp;pbk=yAJlHrab9FWfz9f6Ya4xsBaBjnPytEQFqpVgs1aPHB0&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=16.img.avito.st&amp;sid=43dcff53849b81e6#[5943][PL][0][TROJAN][None][shh_proxy][2026-09-23][2026-10-01 02:49]
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.103:4443/?type=grpc&encryption=none#[32207][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
 
-trojan://pkj3BBnG2NE4wD-72SwgzNcfaHSes-dr@191.44.113.95:443?security=reality&amp;pbk=yAJlHrab9FWfz9f6Ya4xsBaBjnPytEQFqpVgs1aPHB0&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=16.img.avito.st&amp;sid=43dcff53849b81e6#[5940][PL][0][TROJAN][None][free1_vpn][2026-09-23][2026-10-01 02:49]
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#[20958][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
 
-trojan://pkj3BBnG2NE4wD-72SwgzNcfaHSes-dr@191.44.113.95:443?security=reality&pbk=yAJlHrab9FWfz9f6Ya4xsBaBjnPytEQFqpVgs1aPHB0&headerType=none&fp=chrome&type=tcp&sni=16.img.avito.st&sid=43dcff53849b81e6#[5945][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl6.moritech.net:443?type=tcp&headerType=none&security=tls&encryption=none&sni=pl6.moritech.net&alpn=h2&flow=xtls-rprx-vision&fp=chrome#[25943][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
 
-trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80/?type=tcp&security=tls&sni=pl1.trojanvh.xyz#[849][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
+vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@95.85.227.241:443?security=reality&encryption=none&pbk=dlX12huNd8CRSGgKGCwi1GiCLFtmRxY9b7ywKCIyWXo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=proxy3d.h1guro.ovh&sid=25934afbedc65791#[32649][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
 
-trojan://nsKBtW4V7LPHG5.iSySU8_pNM88Gkxz7eE@64.176.75.215:443/?type=tcp&security=tls#[5902][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
+vless://318c935d-c195-41d3-99ad-9bbcfdab3386@144.31.4.193:444?mode=gun&security=reality&encryption=none&authority=/?telegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&fp=chrome&type=grpc&sni=pl.srv.vbuste-bot.com&sid=4be4110078ebed4a#[6185][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
 
-trojan://UX82473651@cheerful-swan.rooster465.autos:443?mux=1&allowInsecure=1&sni=cheerful-swan.rooster465.autos#[3455][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
+vless://7e083480-e6f2-44ef-bc3b-c254a7f8bb83@slice.medic-ml.ru:443?mode=auto&amp;path=%2Fapi%2Fv2%2Ftelemetry&amp;security=reality&amp;encryption=none&amp;pbk=660bDah5b-PtCfAbQ3g2tJySO41zsfaXCPb7L3nQCQc&amp;fp=chrome&amp;type=xhttp&amp;sni=slice.medic-ml.ru&amp;sid=e1ac2faf5e5f309e#[15433][PL][0][VLESS][None][proxy_mtm][2026-09-13][2026-10-04 03:10]
 
-trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443/?type=tcp&security=tls&sni=pl1.trojanvh.xyz#[847][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
+vless://d23cb516-40db-4aa4-8142-6b45ff882f90@94.183.209.59:443?path=%2F&security=none&encryption=none&type=ws#[26680][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
 
-trojan://nsKBtW4V7LPHG5.iSySU8_pNM88Gkxz7eE@64.176.75.134:443/?type=tcp&security=tls#[5901][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl3.moritech.net:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=pl3.moritech.net&alpn=h2&fp=chrome&type=tcp&headerType=none#[25902][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
 
-trojan://nsKBtW4V7LPHG5.iSySU8_pNM88Gkxz7eE@64.176.74.241:443/?type=tcp&security=tls#[5900][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl6.moritech.net:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl6.moritech.net#[25935][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
 
-trojan://blue2024@172.64.201.25:443?allowInsecure=1&amp;sni=tb.promote.icu&amp;ws=1&amp;wspath=%2F%3Fed%3D2560#[4014][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
+vless://454431fc-71e2-42b1-b375-5b55dd06666a@77.83.246.202:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&host=/?telegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=example.org#[8525][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.133.0.159:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#[1670][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
+vless://318c935d-c195-41d3-99ad-9bbcfdab3386@144.31.4.193:444?mode=gun&security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&fp=chrome&type=grpc&sni=pl.srv.vbuste-bot.com&sid=4be4110078ebed4a#[6197][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
 
-trojan://i8YdP0ivWoz5KEgN@151.115.62.113:444?security=tls&sni=pl-25a97ea5.xeovo.net&allowInsecure=1&type=tcp#[5616][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
+vless://454431fc-71e2-42b1-b375-5b55dd06666a@pl.monkora.org:443?encryption=none&security=reality&sni=example.org&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&type=tcp&headerType=none#[8557][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.133.0.49:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#[1671][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.3:443?encryption=none&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=tls&amp;fp=chrome&amp;sni=pl4.moritech.net&amp;alpn=h2#[25790][PL][0][VLESS][None][VmessProtocol][2026-09-26][2026-10-04 03:10]
 
-trojan://pkj3BBnG2NE4wD-72SwgzNcfaHSes-dr@191.44.113.95:443?security=reality&pbk=yAJlHrab9FWfz9f6Ya4xsBaBjnPytEQFqpVgs1aPHB0&headerType=none&fp=chrome&type=tcp&sni=16.img.avito.st&sid=43dcff53849b81e6#[5944][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
+vless://3d730013-2c01-42bd-9034-7aaf56da37bb@pl8.bexait.ir:2434?security=reality&encryption=none&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=9de041877612a718#[7364][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
 
-trojan://pkj3BBnG2NE4wD-72SwgzNcfaHSes-dr@191.44.113.95:443?security=reality&amp;pbk=yAJlHrab9FWfz9f6Ya4xsBaBjnPytEQFqpVgs1aPHB0&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=16.img.avito.st&amp;sid=43dcff53849b81e6#[5941][PL][0][TROJAN][None][v2ray1_ng][2026-09-23][2026-10-01 02:49]
+vless://072baf2f-574e-4939-8b20-ccd89c17fefb@95.85.229.185:8443/?type=tcp&encryption=none&flow=&sni=eh.vk.com&fp=chrome&security=reality&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&sid=b3a1cc510a2001c6#[1252][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
 
-trojan://UX82473651@cheerful-swan.rooster465.autos:443?sni=cheerful-swan.rooster465.autos&peer=cheerful-swan.rooster465.autos&security=tls#[3456][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
+vless://454431fc-71e2-42b1-b375-5b55dd06666a@77.83.246.202:443?encryption=none&security=reality&sni=example.org&fp=chrome&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&type=tcp&headerType=none#[8510][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
 
-trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#[848][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@polkadotnewone.failspace.top:443?type=tcp&security=tls&sni=polkadotnewone.failspace.top&fp=chrome&alpn=h2&encryption=none&flow=xtls-rprx-vision#[25952][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
 
-trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#[850][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
+vless://702c098f-a29a-415d-af86-cf72a437c200@64.176.68.18:443?security=reality&flow=xtls-rprx-vision&sni=cenl.org&type=tcp&fp=chrome&pbk=jwdDqazbeRaR7gxqjBTFaC566Nv10tJewF9tlKrp-Wk&sid=e520d0583ca8295d#[13838][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
 
-trojan://pkj3BBnG2NE4wD-72SwgzNcfaHSes-dr@191.44.113.95:443?security=reality&amp;pbk=yAJlHrab9FWfz9f6Ya4xsBaBjnPytEQFqpVgs1aPHB0&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=16.img.avito.st&amp;sid=43dcff53849b81e6#[5942][PL][0][TROJAN][None][shh_proxy][2026-09-23][2026-10-01 02:49]
+vless://b1813cbd-831f-4cb3-baf8-5bc0cc8298bc@83.168.107.220:443?security=reality&encryption=none&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=c56d4f1c#[22770][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
 
-trojan://pkj3BBnG2NE4wD-72SwgzNcfaHSes-dr@191.44.113.95:443?security=reality&pbk=yAJlHrab9FWfz9f6Ya4xsBaBjnPytEQFqpVgs1aPHB0&headerType=none&fp=chrome&type=tcp&sni=16.img.avito.st&sid=43dcff53849b81e6#[5946][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-01][2026-10-01 02:49]
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.109.199:13868?security=reality&encryption=none&pbk=YxGdcVKnOjKUtaG-E68lzI_rd9DI5RvsbLY0qyMFX2w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wp.pl&sid=e852dc#[1100][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
 
-trojan://pkj3BBnG2NE4wD-72SwgzNcfaHSes-dr@191.44.113.150:443?security=reality&amp;pbk=yAJlHrab9FWfz9f6Ya4xsBaBjnPytEQFqpVgs1aPHB0&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=16.img.avito.st&amp;sid=43dcff53849b81e6#[5939][PL][0][TROJAN][None][proxy_mtm][2026-09-23][2026-10-01 02:49]
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.104:4443/?type=grpc&encryption=none#[32208][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://becd3b04-62a8-4b74-be67-be746008b4c2@144.31.2.58:443?mode=auto&amp;path=%2Fapi&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=mesh-8012.spliceflowtech.com&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=0&amp;sni=mesh-8012.spliceflowtech.com#[24205][PL][0][VLESS][None][proxy_mtm][2026-09-13][2026-10-04 03:10]
+
+vless://5acc494e-665a-4cdd-9c30-45079b983e80@31.56.188.91:7443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mi.com&fp=firefox&security=reality&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047#[11690][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://b1813cbd-831f-4cb3-baf8-5bc0cc8298bc@83.168.107.220:443?security=reality&encryption=none&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=c56d4f1c#[22774][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://d72f05b0-b182-4783-a6f2-21cecc7d841a@179.198.49.43:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SibLV5WBGdljTiUCmKx77KhHQfErCwjDMD_ZLoha3js&sid=a1b2c3d4e5f67890&sni=dzen.ru#[27882][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;allowInsecure=0&amp;flow=xtls-rprx-vision&amp;sni=pl6.moritech.net#[25812][PL][0][VLESS][None][vpn_tehran][2026-09-16][2026-10-04 03:10]
+
+vless://48cb335c-2210-4f81-bde9-e9c8d454ed7b@pl154.slovovpn.com:26417?security=reality&encryption=none&pbk=UIW5K60pwiph20ht5dLF22CmD68KphGRiYTBK0wBXXw&headerType=none&fp=chrome&type=tcp&sni=github.com&sid=deff65#[9100][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://b229d38c-35ec-4a0b-9c86-8fceba243d6c@201.7.25.126:24446?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&amp;pbk=esOi15BFVX7pHyci7GQp8_FVlY2EmjSF2-0pPu4lIlk&amp;fp=random&amp;type=grpc&amp;serviceName=telegram-bridge&amp;sni=spry-jolt.cdn.cachefleet.com&amp;sid=defeaa98406c7bdf#[22889][PL][0][VLESS][None][Outline_Vpn][2026-09-27][2026-10-04 03:10]
+
+vless://454431fc-71e2-42b1-b375-5b55dd06666a@31.56.188.171:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=chrome&type=tcp&sni=example.org#[8484][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://3d730013-2c01-42bd-9034-7aaf56da37bb@pl7.bexait.ir:2434?security=reality&encryption=none&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=9de041877612a718#[7363][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl6.moritech.net:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl6.moritech.net#[25936][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@polka.stopingiphatered.shop:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&path=%2F&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&security=reality&sid=ff776ff77be48b88&sni=polka.stopingiphatered.shop&spx=%2F&type=tcp#[9636][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://318c935d-c195-41d3-99ad-9bbcfdab3386@pl.srv.vbuste-bot.com:444?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&fp=firefox&type=grpc&sni=&sid=4be4110078ebed4a#[6200][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.115:2087?path=%2F4bc027a44532&amp;security=none&amp;encryption=none&amp;type=ws#[24250][PL][0][VLESS][None][vpn_ioss][2026-09-14][2026-10-04 03:10]
+
+vless://318c935d-c195-41d3-99ad-9bbcfdab3386@144.31.4.193:444?security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&fp=chrome&type=grpc&sni=pl.srv.vbuste-bot.com&sid=4be4110078ebed4a#[6198][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl4.moritech.net:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;allowInsecure=0&amp;flow=xtls-rprx-vision&amp;sni=pl4.moritech.net#[25931][PL][0][VLESS][None][free1_vpn][2026-10-02][2026-10-04 03:10]
+
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.64.200.78:80?encryption=none&security=none&type=ws&host=white-sun-1317-ppal03.hofix12166.workers.dev&path=/?ed=2560#[16808][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;allowInsecure=0&amp;flow=xtls-rprx-vision&amp;sni=pl6.moritech.net#[25807][PL][0][VLESS][None][vpn_tehran][2026-09-20][2026-10-04 03:10]
+
+vless://4cbefb4d-328c-411d-bf76-780df1082df8@31.76.251.123:8443?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&amp;host=wikihow.com&amp;fp=firefox&amp;type=xhttp&amp;sni=wikihow.com#[9759][PL][0][VLESS][None][mehrosaboran][2026-09-22][2026-10-04 03:10]
+
+vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.98:2087?path=%2F4bc027a44532&amp;security=none&amp;encryption=none&amp;type=ws#[24266][PL][0][VLESS][None][Outline_Vpn][2026-09-11][2026-10-04 03:10]
+
+vless://82f37352-85e5-49bb-9edc-a80997065659@83.168.95.145:443?security=reality&amp;encryption=none&amp;pbk=AcuvO982QLzf76fVydfSuJIiF5520rmj7AxpaxyRwUg&amp;host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;sid=d345ad4657adeef9#[16010][PL][0][VLESS][None][V2rayng_Fast][2026-09-30][2026-10-04 03:10]
+
+vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@144.31.5.171:753?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=b91a73752053b039#[23709][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://65f903c0-efcd-4b5e-96e3-97dda261f98a@sv10.iranphlox.ir:8880?security=reality&type=tcp&headerType=&path=&host=play.google.com&sni=play.google.com&fp=qq&pbk=G7o2NSbTOqcf04gqbS7oPN3swuurnHJuAJJCFE2GH2A&sid=77909568a27fbf65#[12931][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@82.26.91.244:443/?type=grpc&encryption=none&sni=vk.ru&security=reality&pbk=g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU&sid=b5#[13781][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://5e7ecc47-e424-4653-876e-c7515a2c82b4@94.183.209.43:443?path=/&security=none&encryption=none&type=ws#[12225][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443/?type=tcp&encryption=none&flow=&sni=ads.x5.ru&alpn=channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn%E2%95%A8%E2%8C%90%E2%95%A5%C3%BB&fp=chrome&security=reality&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#[20963][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://3d730013-2c01-42bd-9034-7aaf56da37bb@pl1.bexait.ir:2434?security=reality&encryption=none&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=9de041877612a718#[7349][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.109.126:13868?security=reality&encryption=none&pbk=YxGdcVKnOjKUtaG-E68lzI_rd9DI5RvsbLY0qyMFX2w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wp.pl&sid=e852dc#[1098][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://318c935d-c195-41d3-99ad-9bbcfdab3386@144.31.4.193:444?mode=gun&security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&fp=chrome&type=grpc&sni=pl.srv.vbuste-bot.com&sid=4be4110078ebed4a#[6192][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@83.168.111.58:443?security=reality&encryption=none&pbk=4h74KXbkBMYOhJkZabJNsf85cI91ytap_gkl56mzjTU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=soulful.host#[28306][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://318c935d-c195-41d3-99ad-9bbcfdab3386@144.31.4.193:444?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&amp;pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&amp;fp=firefox&amp;type=grpc&amp;sni=pl.srv.vbuste-bot.com&amp;sid=4be4110078ebed4a#[6181][PL][0][VLESS][None][marambashi][2026-10-03][2026-10-04 03:10]
+
+vless://3d730013-2c01-42bd-9034-7aaf56da37bb@pl5.bexait.ir:2434?security=reality&encryption=none&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=9de041877612a718#[7359][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;allowInsecure=0&amp;flow=xtls-rprx-vision&amp;sni=pl6.moritech.net#[25810][PL][0][VLESS][None][vpn_tehran][2026-09-07][2026-10-04 03:10]
+
+vless://454431fc-71e2-42b1-b375-5b55dd06666a@77.83.246.202:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&host=/?telegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=example.org#[8529][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@217.12.206.160:81?path=/members/playlist?ed=2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#[26886][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://1251856f-1e0a-4c5f-99d3-c2d123edc755@144.31.2.58:443?path=%2Fapi&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=mesh-8012.spliceflowtech.com&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=0&amp;sni=mesh-8012.spliceflowtech.com#[2414][PL][0][VLESS][None][proxy_mtm][2026-09-13][2026-10-04 03:10]
+
+vless://0f4081e7-612b-425f-8def-eebf144aedba@149.86.227.200:443?security=reality&encryption=none&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=waypoint.connectserverix.com&sid=9e15546f267baa64#[1980][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://5bfc6650-8b56-0012-b0e9-b98fc6367c0d@82.40.62.229:443?security=reality&amp;encryption=none&amp;pbk=NBjOloEUgyAHoLqvcGo_t3jTY8Jya77j5dsNB1VJ8Bo&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=auto.api-yandex.net&amp;sid=0f4dacffd272e65f#[11785][PL][0][VLESS][None][prrofile_purple][2026-08-29][2026-10-04 03:10]
+
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;allowInsecure=0&amp;flow=xtls-rprx-vision&amp;sni=pl6.moritech.net#[25805][PL][0][VLESS][None][vpn_tehran][2026-09-18][2026-10-04 03:10]
+
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl4.moritech.net:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl4.moritech.net#[25924][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://6db6b948-655f-4f68-a9e7-865050e05b31@201.10.90.203:443?security=reality&encryption=none&pbk=jOOQIxM4PRxWaZDfTj_63smCGJX_inthmmb8WG-SIHI&headerType=none&fp=chrome&type=tcp&sni=lineartronic-iii.subaru-volga.com&sid=6fda#[13563][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&amp;encryption=none&amp;pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=ads.x5.ru&amp;sid=2f49bccf11150ef2#[20950][PL][0][VLESS][None][Outline_Vpn][2026-09-09][2026-10-04 03:10]
+
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.105:4443/?type=grpc&encryption=none#[32209][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://318c935d-c195-41d3-99ad-9bbcfdab3386@pl.srv.vbuste-bot.com:444?mode=gun&security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&fp=chrome&type=grpc&sni=pl.srv.vbuste-bot.com&sid=4be4110078ebed4a#[6203][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://5821b1f3-52c6-480c-85a2-2355b753df68@pol.norevia-online-solutions.ir:2087?encryption=none&security=tls&sni=po.tavrin-technology-services.ir&fp=chrome&insecure=0&allowInsecure=0&type=httpupgrade&host=po.tavrin-technology-services.ir&path=/#[11240][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;allowInsecure=0&amp;flow=xtls-rprx-vision&amp;sni=pl6.moritech.net#[25813][PL][0][VLESS][None][vpn_tehran][2026-09-22][2026-10-04 03:10]
+
+vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.115:2087?path=%2F4bc027a44532&amp;security=none&amp;encryption=none&amp;type=ws#[24248][PL][0][VLESS][None][vpn_tehran][2026-09-15][2026-10-04 03:10]
+
+vless://8e6104da-f178-49ea-b559-1fd69562baae@pl-35111f2d5f.sishka.network:443?security=reality&encryption=none&pbk=uYiZWRgbowvS9uOhVZTe0FBS1pLzA3QMyQ_NfDh4_h8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl-35111f2d5f.sishka.network&sid=0ececd9b2731357d#[17469][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://Telegramjoin:TurboConfigs @82.22.40.73:2091?encryption=none&headerType=http&host=amp-api-edge.apps.apple.com&path=/&security=none&type=tcp#[20455][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://b229d38c-35ec-4a0b-9c86-8fceba243d6c@201.7.25.126:24446?security=reality&amp;encryption=none&amp;authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&amp;pbk=esOi15BFVX7pHyci7GQp8_FVlY2EmjSF2-0pPu4lIlk&amp;fp=random&amp;type=grpc&amp;serviceName=telegram-bridge&amp;sni=spry-jolt.cdn.cachefleet.com&amp;sid=defeaa98406c7bdf#[22894][PL][0][VLESS][None][V2rayng_Fast][2026-09-25][2026-10-04 03:10]
+
+vless://454431fc-71e2-42b1-b375-5b55dd06666a@77.83.246.202:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&host=/?telegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=example.org#[8530][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@proxy3.h1guro.ovh:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=dlX12huNd8CRSGgKGCwi1GiCLFtmRxY9b7ywKCIyWXo&security=reality&sid=25934afbedc65791&sni=proxy3d.h1guro.ovh&spx=%2FHSvGUTQLN4qnlb5&type=tcp&fp=qq#[32663][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@polka.stopingiphatered.shop:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=polka.stopingiphatered.shop&fp=chrome&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=%2F&type=tcp&headerType=none#[9637][PL][0][VLESS][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+vless://9a85fe34-213a-43ef-acbd-bb84552302f3@168.222.49.215:16089?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#[18921][PL][0][VLESS][None][azadi_az_inja_migzare][2026-08-18][2026-10-04 03:10]
+
+trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#[856][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+trojan://pkj3BBnG2NE4wD-72SwgzNcfaHSes-dr@191.44.113.95:443?security=reality&pbk=yAJlHrab9FWfz9f6Ya4xsBaBjnPytEQFqpVgs1aPHB0&headerType=none&fp=chrome&type=tcp&sni=16.img.avito.st&sid=43dcff53849b81e6#[6141][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443/?type=tcp&security=tls&sni=pl1.trojanvh.xyz#[853][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+trojan://AE62539071@game-firefly.rooster465.autos:443?security=tls#[1946][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+trojan://pkj3BBnG2NE4wD-72SwgzNcfaHSes-dr@191.44.113.95:443?security=reality&pbk=yAJlHrab9FWfz9f6Ya4xsBaBjnPytEQFqpVgs1aPHB0&headerType=none&fp=chrome&type=tcp&sni=16.img.avito.st&sid=43dcff53849b81e6#[6143][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+trojan://nsKBtW4V7LPHG5.iSySU8_pNM88Gkxz7eE@64.176.75.215:443/?type=tcp&security=tls#[6102][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+trojan://Trojan@82164024@pl.tronsg.com:443?security=tls&sni=pl.tronsg.com#[3564][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+trojan://blue2024@172.64.201.25:443?allowInsecure=1&amp;sni=tb.promote.icu&amp;ws=1&amp;wspath=%2F%3Fed%3D2560#[4280][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+trojan://pkj3BBnG2NE4wD-72SwgzNcfaHSes-dr@191.44.113.150:443?security=reality&amp;pbk=yAJlHrab9FWfz9f6Ya4xsBaBjnPytEQFqpVgs1aPHB0&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=16.img.avito.st&amp;sid=43dcff53849b81e6#[6136][PL][0][TROJAN][None][proxy_mtm][2026-09-23][2026-10-04 03:10]
+
+trojan://nsKBtW4V7LPHG5.iSySU8_pNM88Gkxz7eE@64.176.75.134:443/?type=tcp&security=tls#[6101][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+trojan://pkj3BBnG2NE4wD-72SwgzNcfaHSes-dr@191.44.113.95:443?security=reality&amp;pbk=yAJlHrab9FWfz9f6Ya4xsBaBjnPytEQFqpVgs1aPHB0&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=16.img.avito.st&amp;sid=43dcff53849b81e6#[6137][PL][0][TROJAN][None][free1_vpn][2026-09-23][2026-10-04 03:10]
+
+trojan://Trojan@82164024@pl.tronsg.com:443?security=tls&sni=pl.tronsg.com#[3563][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+trojan://8r%3C%5B9%27l6hAO%238ZQi@31.133.0.49:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#[1679][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+trojan://UX82473651@202.78.163.237:443?security=tls&sni=cheerful-swan.rooster465.autos&path=/#[3580][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+trojan://WF42809561@top-goshawk.rooster465.autos:443?security=tls#[3705][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+trojan://i8YdP0ivWoz5KEgN@151.115.62.113:444?security=tls&sni=pl-25a97ea5.xeovo.net&allowInsecure=1&type=tcp#[5837][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+trojan://UX82473651@cheerful-swan.rooster465.autos:443?security=tls&sni=cheerful-swan.rooster465.autos&path=/#[3622][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+trojan://UX82473651@cheerful-swan.rooster465.autos:443?mux=1&allowInsecure=1&sni=cheerful-swan.rooster465.autos#[3620][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80/?type=tcp&security=tls&sni=pl1.trojanvh.xyz#[855][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+trojan://AE62539071@game-firefly.rooster465.autos:443?security=tls#[1947][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+trojan://pkj3BBnG2NE4wD-72SwgzNcfaHSes-dr@191.44.113.95:443?security=reality&pbk=yAJlHrab9FWfz9f6Ya4xsBaBjnPytEQFqpVgs1aPHB0&headerType=none&fp=chrome&type=tcp&sni=16.img.avito.st&sid=43dcff53849b81e6#[6142][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+trojan://UX82473651@cheerful-swan.rooster465.autos:443?sni=cheerful-swan.rooster465.autos&peer=cheerful-swan.rooster465.autos&security=tls#[3623][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+trojan://WF42809561@top-goshawk.rooster465.autos:443?security=tls#[3706][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+trojan://8r%3C%5B9%27l6hAO%238ZQi@31.133.0.159:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#[1678][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+trojan://nsKBtW4V7LPHG5.iSySU8_pNM88Gkxz7eE@64.176.74.241:443/?type=tcp&security=tls#[6100][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+trojan://pkj3BBnG2NE4wD-72SwgzNcfaHSes-dr@191.44.113.95:443?security=reality&amp;pbk=yAJlHrab9FWfz9f6Ya4xsBaBjnPytEQFqpVgs1aPHB0&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=16.img.avito.st&amp;sid=43dcff53849b81e6#[6138][PL][0][TROJAN][None][v2ray1_ng][2026-09-23][2026-10-04 03:10]
+
+trojan://pkj3BBnG2NE4wD-72SwgzNcfaHSes-dr@191.44.113.95:443?security=reality&amp;pbk=yAJlHrab9FWfz9f6Ya4xsBaBjnPytEQFqpVgs1aPHB0&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=16.img.avito.st&amp;sid=43dcff53849b81e6#[6139][PL][0][TROJAN][None][shh_proxy][2026-09-23][2026-10-04 03:10]
+
+trojan://UX82473651@cheerful-swan.rooster465.autos:443?security=tls&sni=cheerful-swan.rooster465.autos&path=%2f#[3621][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#[854][PL][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-04][2026-10-04 03:10]
+
+trojan://pkj3BBnG2NE4wD-72SwgzNcfaHSes-dr@191.44.113.95:443?security=reality&amp;pbk=yAJlHrab9FWfz9f6Ya4xsBaBjnPytEQFqpVgs1aPHB0&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=16.img.avito.st&amp;sid=43dcff53849b81e6#[6140][PL][0][TROJAN][None][shh_proxy][2026-09-23][2026-10-04 03:10]
 

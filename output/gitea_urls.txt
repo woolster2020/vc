@@ -223,6 +223,9 @@ https://gitea.com/woolster2020/vc/raw/branch/main/output/daily_free_vpn-2.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/daily_free_vpn-3.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/daily_free_vpn-4.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/daily_free_vpn-5.txt
+https://gitea.com/woolster2020/vc/raw/branch/main/output/daily_free_vpn-6.txt
+https://gitea.com/woolster2020/vc/raw/branch/main/output/daily_free_vpn-7.txt
+https://gitea.com/woolster2020/vc/raw/branch/main/output/daily_free_vpn-8.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/kamaji_AE.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/kamaji_BG.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/kamaji_CH.txt
@@ -236,6 +239,7 @@ https://gitea.com/woolster2020/vc/raw/branch/main/output/kamaji_DE-5.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/kamaji_DE-6.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/kamaji_DE-7.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/kamaji_DE-8.txt
+https://gitea.com/woolster2020/vc/raw/branch/main/output/kamaji_DE-9.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/kamaji_EE.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/kamaji_ES.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/kamaji_FI-1.txt
