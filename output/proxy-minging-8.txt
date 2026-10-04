@@ -1,18 +1,3 @@
-    "maxConcurrency" : "16-32",
-    "cMaxReuseTimes" : 0,
-    "maxConnections" : 0,
-    "hMaxRequestTimes" : "600-900",
-    "hKeepAlivePeriod" : 0
-  },
-  "scStreamUpServerSecs" : "20-80",
-  "scMaxEachPostBytes" : 1000000,
-  "headers" : {
-
-  },
-  "xPaddingBytes" : "100-1000",
-  "scMinPostsIntervalMs" : 30
-}&amp;insecure=0&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=de-3.85858569.xyz#@KAFING_2
-vless://8038f7de-9bba-4ebd-8352-556bc7316c11@sky2.hupcloud.com:1001?security=none&amp;encryption=none&amp;host=reata.ir&amp;headerType=http&amp;type=tcp#@KAFING_2
 vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@www.tgju.org:443?mode=stream-up&amp;path=/&amp;security=tls&amp;alpn=h3,h2&amp;encryption=none&amp;insecure=0&amp;host=APP-FI-2.85858569.XYZ&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=1Z6i1nhm.85858569.Xyz#@KAFING_2
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=0&amp;sni=api.kermanshahi.org#@KAFING_2
 vless://0525f54a-568b-4f0b-89e5-c2666e800d83@188.114.99.160:8443?path=/downloader&amp;security=tls&amp;alpn=h2,http/1.1&amp;encryption=none&amp;insecure=0&amp;host=matoride.adaspoloandco.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=matoride.adaspoloandco.com#@KAFING_2
@@ -228,11 +213,6 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&a
 vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@31.77.227.10:52006?security=tls&amp;alpn=h2,http/1.1&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;flow=xtls-rprx-vision&amp;sni=fr.setlisting.ru#Free x623 @filterking1
 vless://0f4081e7-612b-425f-8def-eebf144aedba@2.27.249.133:443?security=reality&amp;encryption=none&amp;pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&amp;headerType=none&amp;fp=safari&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=vault.connectiux.com&amp;sid=9e15546f267baa64#Free x620 @filterking1
 vless://0f4081e7-612b-425f-8def-eebf144aedba@2.27.249.130:443?security=reality&amp;encryption=none&amp;pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=n11.clouderiux.com&amp;sid=9e15546f267baa64#Free x624 @filterking1
-vless://5860b202-143f-4111-a6f6-ab94c5ef61c2@varzesh3.com:2095?path=/pgcfws-r4&amp;security=none&amp;encryption=mlkem768x25519plus.native.0rtt.rK2aQSz2wOAaLoJe61rb_TmbQxnF87VEAxGzd3TVmlY&amp;host=dox.safari-df.ir&amp;type=ws#@kingofilter
-vless://86f62b39-e8d4-4095-8e0e-e1bc60b4b2ce@num3-ge.specialteam2.com:2626?security=reality&amp;encryption=none&amp;pbk=PWQTEqDK7DXsRxV0w74VoF0p7dNKbkbIcLt0o4_QaHU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.goo.gl&amp;sid=29e8472db54c86dc#@kingofilter
-vless://9e3132b8-b595-444a-833a-2de44789f9d7@188.114.97.6:443?path=/&amp;security=tls&amp;alpn=http/1.1&amp;encryption=none&amp;fm=&amp;insecure=0&amp;host=shephe.dpdns.org&amp;type=ws&amp;allowInsecure=0&amp;sni=shephe.dpdns.org#@kingofilter
-vless://fdc48be3-a615-41ac-8bd1-ed844c931048@188.114.97.6:443?security=tls&amp;alpn=http/1.1&amp;encryption=none&amp;fm=%&amp;insecure=0&amp;host=edgetunnel-4uw.pages.dev&amp;type=ws&amp;allowInsecure=0&amp;sni=edgetunnel-4uw.pages.dev#@
-vless://fdc48be3-a615-41ac-8bd1-ed844c931048@188.114.97.6:443?path=/fp=chrome&amp;security=tls&amp;alpn=http/1.1&amp;encryption=none&amp;fm=%&amp;insecure=0&amp;host=edgetunnel-4uw.pages.dev&amp;type=ws&amp;allowInsecure=0&amp;sni=edgetunnel-4uw.pages.dev#@
 vless://TeL_VPNCUSTOMIZE@VPNCUSTOMIZE.Elmahstyle.ir:8080?type=ws&amp;host=VPNCUSTOMIZE.V2ray.Community.&amp;path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&amp;security=none#All+@kurd_v2ray@kurd_v2ray+¹
 vless://TeL_VPNCUSTOMIZE@zula.ir:8080?type=ws&amp;host=VPNCUSTOMIZE.V2ray.Community.&amp;path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&amp;security=none#All+@kurd_v2ray@kurd_v2ray+²
 vless://TeL_VPNCUSTOMIZE@188.114.98.224:8080?type=ws&amp;host=VPNCUSTOMIZE.V2ray.Community.&amp;path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&amp;security=none#MKH+@kurd_v2ray@kurd_v2ray
@@ -468,8 +448,6 @@ vless://bf155a74-0560-46ff-ba40-9c8d34917f0e@tr.xelnivo.ir:5589?security=reality
 vless://a4b8d677-ecfe-4357-9b68-981c201f3701@p2tun0.greewebservices.ir:28820?security=reality&amp;encryption=none&amp;pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&amp;headerType=none&amp;fp=ios&amp;type=tcp&amp;sni=play.google.com&amp;sid=e3085d4fc679ba12#💎@MDvpnSEC
 vless://36e8e5e8-8010-45a1-9fb7-9fa21f7e4c66@199.232.78.159:443?path=/&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=pannn1.global.ssl.fastly.net&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#💎@MDvpnSEC
 vless://8453bdb7-dd58-419d-b002-9456dd2e73d7@199.232.78.159:443?security=tls&amp;encryption=none&amp;insecure=0&amp;host=pan2e.global.ssl.fastly.net&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#💎@MDvpnSEC
-vless://XpnTeam-32@199.232.78.170:443?path=/&amp;security=tls&amp;alpn=http/1.1&amp;encryption=none&amp;insecure=0&amp;host=Appxdn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@mehrosaboran
-vless://XpnTeam-31@199.232.78.160:443?path=/&amp;security=tls&amp;alpn=http/1.1&amp;encryption=none&amp;insecure=0&amp;host=Appxdn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@mehrosaboran
 vless://XpnTeam-33@199.232.78.170:443?path=/&amp;security=tls&amp;alpn=http/1.1&amp;encryption=none&amp;insecure=0&amp;host=Appxdn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@mehrosaboran
 trojan://humanity@188.114.97.7:443?path=/assignment#Telegram---mehrosaboran&amp;security=tls&amp;insecure=0&amp;ech=ip.gs+udp://8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#@mehrosaboran
 vless://XpnTeam-34@199.232.78.160:443?path=/&amp;security=tls&amp;alpn=http/1.1&amp;encryption=none&amp;insecure=0&amp;host=Appxdn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@mehrosaboran
@@ -499,3 +477,24 @@ vless://XpnTeam-48@199.232.78.159:443?path=/&amp;security=tls&amp;alpn=http/1.1&
 vless://XpnTeam-48@199.232.78.170:443?path=/&amp;security=tls&amp;alpn=http/1.1&amp;encryption=none&amp;insecure=0&amp;host=Appxdn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@mehrosaboran
 vless://XpnTeam-49@199.232.78.160:443?path=/&amp;security=tls&amp;alpn=http/1.1&amp;encryption=none&amp;insecure=0&amp;host=Appxdn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@mehrosaboran
 vless://fdc48be3-a615-41ac-8bd1-ed844c931048@188.114.97.6:443?path=/&amp;security=tls&amp;alpn=http/1.1&amp;encryption=none&amp;fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&amp;insecure=0&amp;host=edgetunnel-4uw.pages.dev&amp;type=ws&amp;allowInsecure=0&amp;sni=edgetunnel-4uw.pages.dev#@mehrosaboran
+vless://XpnTeam-51@199.232.78.160:443?path=/&amp;security=tls&amp;alpn=http/1.1&amp;encryption=none&amp;insecure=0&amp;host=Appxdn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@mehrosaboran
+vless://XpnTeam-50@199.232.78.170:443?path=/&amp;security=tls&amp;alpn=http/1.1&amp;encryption=none&amp;insecure=0&amp;host=Appxdn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@mehrosaboran
+vless://XpnTeam-52@199.232.78.170:443?path=/&amp;security=tls&amp;alpn=http/1.1&amp;encryption=none&amp;insecure=0&amp;host=Appxdn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@mehrosaboran
+vless://XpnTeam-53@199.232.78.160:443?path=/&amp;security=tls&amp;alpn=http/1.1&amp;encryption=none&amp;insecure=0&amp;host=Appxdn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@mehrosaboran
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.111.154:9881?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=@mehrosaboran&amp;pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&amp;fp=chrome&amp;type=grpc&amp;serviceName=grpc-tunnel&amp;sni=dl.google.com&amp;sid=aabbccdd#@mehrosaboran
+trojan://mitivpn@199.232.78.101:443?path=@mehrosaboran&amp;security=tls&amp;alpn=http/1.1&amp;insecure=0&amp;host=mitivpn---de--s---mitivpn-11.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@mehrosaboran
+vless://XpnTeam-54@199.232.78.170:443?path=/&amp;security=tls&amp;alpn=http/1.1&amp;encryption=none&amp;insecure=0&amp;host=Appxdn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@mehrosaboran
+vless://XpnTeam-55@199.232.78.160:443?path=/&amp;security=tls&amp;alpn=http/1.1&amp;encryption=none&amp;insecure=0&amp;host=Appxdn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@mehrosaboran
+vless://XpnTeam-56@199.232.78.170:443?path=/&amp;security=tls&amp;alpn=http/1.1&amp;encryption=none&amp;insecure=0&amp;host=Appxdn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@mehrosaboran
+vless://XpnTeam-57@199.232.78.160:443?path=/&amp;security=tls&amp;alpn=http/1.1&amp;encryption=none&amp;insecure=0&amp;host=Appxdn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@mehrosaboran
+vless://f8aba8c3-6ab6-4fa0-8815-17e15f4721b1@199.232.246.236:443?security=tls&amp;encryption=none&amp;insecure=0&amp;host=Nonetrap.global.ssl.fastly.net&amp;fp=safari&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@mehrosaboran
+vless://f8aba8c3-6ab6-4fa0-8815-17e15f4721b1@199.232.78.159:443?security=tls&amp;encryption=none&amp;insecure=0&amp;host=kayko.global.ssl.fastly.net&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=global.fastly.com#@mehrosaboran
+vless://f8aba8c3-6ab6-4fa0-8815-17e15f4721b1@199.232.78.159:443?security=tls&amp;encryption=none&amp;insecure=0&amp;host=skyfarst.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=global.fastly.com#@mehrosaboran
+vless://f8aba8c3-6ab6-4fa0-8815-17e15f4721b1@199.232.246.236:443?security=tls&amp;encryption=none&amp;insecure=0&amp;host=teranko.global.ssl.fastly.net&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=global.fastly.com#@mehrosaboran
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.104.103:9881?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&amp;fp=firefox&amp;type=grpc&amp;serviceName=grpc-tunnel&amp;sni=dl.google.com#@mehrosaboran
+vless://XpnTeam-58@199.232.78.170:443?path=/&amp;security=tls&amp;alpn=http/1.1&amp;encryption=none&amp;insecure=0&amp;host=Appxdn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@mehrosaboran
+vless://XpnTeam-59@199.232.78.160:443?path=/&amp;security=tls&amp;alpn=http/1.1&amp;encryption=none&amp;insecure=0&amp;host=Appxdn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@mehrosaboran
+vless://36e8e5e8-8010-45a1-9fb7-9fa21f7e4c66@199.232.78.159:443?security=tls&amp;encryption=none&amp;insecure=0&amp;host=pannn1.global.ssl.fastly.net&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@mehrosaboran
+vless://7fa9cb5f-532a-4fc7-b903-381a125bbb8a@fast.jkerm.com:443?path=/&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=italyji.global.ssl.fastly.net.&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@mehrosaboran
+vless://XpnTeam-63@151.101.215.97:443?path=/&amp;security=tls&amp;alpn=http/1.1&amp;encryption=none&amp;insecure=0&amp;host=Appxdn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@mehrosaboran
+vless://XpnTeam-63@199.232.78.170:443?path=/&amp;security=tls&amp;alpn=http/1.1&amp;encryption=none&amp;insecure=0&amp;host=Appxdn.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#@mehrosaboran
