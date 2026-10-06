@@ -66,4 +66,5 @@ https://codeberg.org/woolster2020/vc/raw/branch/main/output/vify-1.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/vify-2.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/vpn-configs-for-russia_black_all.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/vpn-configs-for-russia_black_vless.txt
+https://codeberg.org/woolster2020/vc/raw/branch/main/output/vpn-configs-for-russia_black_vless_mobile.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/xray-config-toolkit.txt
