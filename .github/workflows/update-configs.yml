@@ -2,8 +2,8 @@ name: Update VPN configs
 
 on:
   schedule:
-    # Запуск примерно через каждые 2 часа.
-    - cron: "0 */2 * * *"
+    # Запуск примерно через каждый час.
+    - cron: "0 */1 * * *"
   
   push:
     branches: [ main, master ]
@@ -20,7 +20,7 @@ permissions:
 
 jobs:
   update:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
