@@ -59,6 +59,8 @@ async fn main() -> ExitCode {
                 was_encoded,
                 bytes,
                 skipped,
+                duplicates,
+                invalid,
             } => {
                 ok += 1;
                 let where_saved = if paths.len() == 1 {
@@ -77,6 +79,12 @@ async fn main() -> ExitCode {
                 }
                 if *skipped > 0 {
                     meta.push_str(&format!(", skipped {skipped}"));
+                }
+                if *duplicates > 0 {
+                    meta.push_str(&format!(", duplicates {duplicates}"));
+                }
+                if *invalid > 0 {
+                    meta.push_str(&format!(", invalid {invalid}"));
                 }
                 println!("ok   {id}: {where_saved} ({meta})");
             }

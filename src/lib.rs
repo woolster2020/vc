@@ -28,7 +28,7 @@ pub use config::{load_sources, Source};
 pub use decoder::decode_if_needed;
 pub use error::{Error, Result};
 pub use fetcher::{Fetcher, HttpFetcher};
-pub use filter::{filter_skipped, is_skipped_line, SKIPPED_PROTOCOLS};
+pub use filter::{filter_content, filter_skipped, is_skipped_line, FilterStats, SKIPPED_PROTOCOLS};
 pub use saver::{FileSaver, Saver};
 pub use service::{Outcome, SyncService};
 pub use settings::Settings;

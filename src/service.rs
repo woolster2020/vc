@@ -17,7 +17,7 @@ use crate::config::Source;
 use crate::decoder::{decode_if_needed, is_encoded};
 use crate::error::Error;
 use crate::fetcher::Fetcher;
-use crate::filter::filter_skipped;
+use crate::filter::filter_content;
 use crate::saver::Saver;
 
 /// Результат обработки одного источника.
@@ -26,7 +26,9 @@ pub enum Outcome {
     /// Успех: что сохранили и был ли контент закодирован.
     /// `paths` — один файл либо несколько частей `{id}-{n}.txt` для
     /// больших подписок (см. [`crate::splitter`]).
-    /// `skipped` — сколько строк `ss://`/`vmess://` выброшено фильтром
+    /// `skipped` — сколько строк `ss://`/`vmess://` выброшено,
+    /// `duplicates` — сколько точных дублей схлопнуто,
+    /// `invalid` — сколько строк без `://` отброшено
     /// (см. [`crate::filter`]).
     Synced {
         id: String,
@@ -34,6 +36,8 @@ pub enum Outcome {
         was_encoded: bool,
         bytes: usize,
         skipped: usize,
+        duplicates: usize,
+        invalid: usize,
     },
     /// Ошибка: какой источник и что случилось.
     Failed {
@@ -76,7 +80,7 @@ where
     }
 
     /// Обработать один источник: скачать, декодировать при необходимости,
-    /// выбросить `ss://`/`vmess://`, сохранить.
+    /// выбросить `ss://`/`vmess://`, дубли и мусор без `://`, сохранить.
     pub async fn sync_one(&self, source: &Source) -> Outcome {
         let raw = match self.fetcher.fetch(&source.url).await {
             Ok(raw) => raw,
@@ -101,7 +105,7 @@ where
             }
         };
 
-        let (filtered, skipped) = filter_skipped(&decoded);
+        let (filtered, stats) = filter_content(&decoded);
 
         match self.saver.save(&source.id, &filtered).await {
             Ok(paths) => Outcome::Synced {
@@ -109,7 +113,9 @@ where
                 paths,
                 was_encoded,
                 bytes: filtered.len(),
-                skipped,
+                skipped: stats.skipped,
+                duplicates: stats.duplicates,
+                invalid: stats.invalid,
             },
             Err(error) => Outcome::Failed {
                 id: source.id.clone(),
@@ -260,6 +266,45 @@ mod tests {
         let stored = svc.saver.stored.lock().unwrap();
         assert_eq!(
             stored.get("OpenRay_all").unwrap(),
+            "vless://keep@h:443#n\ntrojan://keep2@h:443#t\n"
+        );
+    }
+
+    #[tokio::test]
+    async fn dedupes_exact_lines_and_drops_invalid_before_save() {
+        let messy = "vless://keep@h:443#n\n\
+             vless://keep@h:443#n\n\
+             just-a-remark-without-scheme\n\
+             trojan://keep2@h:443#t\n";
+        let fetcher = FakeFetcher {
+            bodies: HashMap::from([("https://x/9".to_string(), messy.to_string())]),
+        };
+        let svc = SyncService::new(fetcher, FakeSaver::new());
+        let outcomes = svc
+            .sync_all(&[Source {
+                id: "dupes".into(),
+                url: "https://x/9".into(),
+            }])
+            .await;
+        assert_eq!(outcomes.len(), 1);
+
+        match &outcomes[0] {
+            Outcome::Synced {
+                skipped,
+                duplicates,
+                invalid,
+                ..
+            } => {
+                assert_eq!(*skipped, 0);
+                assert_eq!(*duplicates, 1);
+                assert_eq!(*invalid, 1);
+            }
+            Outcome::Failed { error, .. } => panic!("unexpected failure: {error}"),
+        }
+
+        let stored = svc.saver.stored.lock().unwrap();
+        assert_eq!(
+            stored.get("dupes").unwrap(),
             "vless://keep@h:443#n\ntrojan://keep2@h:443#t\n"
         );
     }

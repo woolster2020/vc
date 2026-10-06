@@ -142,8 +142,8 @@ async fn pipeline_fills_parts_to_limit_despite_heavy_filtering() {
     // Регрессия на жалобу «OpenRay_all-1.txt короче 500»:
     // фильтр по протоколу обязан идти ДО нарезки по количеству,
     // иначе первые части недобираются. 1200 строк, каждая 3-я —
-    // ss:// или vmess:// под отсев (400 шт), лимит 500.
-    // После отсева 800 конфигов → части ровно 500 + 300.
+    // ss:// или vmess:// под отсев (400 шт), плюс 100 точных дублей.
+    // После чистки 800 конфигов → части ровно 500 + 300.
     let mut mixed = String::new();
     let mut expected = String::new();
     for i in 0..1200 {
@@ -158,6 +158,12 @@ async fn pipeline_fills_parts_to_limit_despite_heavy_filtering() {
             mixed.push_str(&line);
             expected.push_str(&line);
         }
+    }
+
+    // 100 точных дублей первой строки: схлопываются, части добираются до полных.
+    let dupe = "vless://user0@host:443#node-0\n";
+    for _ in 0..100 {
+        mixed.push_str(dupe);
     }
 
     let fetcher = MapFetcher(HashMap::from([(
@@ -175,7 +181,16 @@ async fn pipeline_fills_parts_to_limit_despite_heavy_filtering() {
     let outcomes = service.sync_all(&sources).await;
     assert_eq!(outcomes.len(), 1);
     match &outcomes[0] {
-        vc::Outcome::Synced { skipped, .. } => assert_eq!(*skipped, 400),
+        vc::Outcome::Synced {
+            skipped,
+            duplicates,
+            invalid,
+            ..
+        } => {
+            assert_eq!(*skipped, 400);
+            assert_eq!(*duplicates, 100);
+            assert_eq!(*invalid, 0);
+        }
         vc::Outcome::Failed { error, .. } => panic!("unexpected failure: {error}"),
     }
 
@@ -188,7 +203,7 @@ async fn pipeline_fills_parts_to_limit_despite_heavy_filtering() {
     assert_eq!(parts[0], dir.path().join("OpenRay_all-1.txt"));
     assert_eq!(parts[1], dir.path().join("OpenRay_all-2.txt"));
 
-    // Первая часть — ровно 500, несмотря на 400 выброшенных строк.
+    // Первая часть — ровно 500, несмотря на 400 отсеянных и 100 дублей.
     let counts: Vec<usize> = parts
         .iter()
         .map(|p| count_configs(&std::fs::read_to_string(p).unwrap()))
