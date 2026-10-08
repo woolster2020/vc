@@ -71,7 +71,10 @@ https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/v2ray-c
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/vify-1.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/vify-2.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/vpn-configs-for-russia_black_all.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/vpn-configs-for-russia_black_vless.txt
+https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/vpn-configs-for-russia_black_vless-1.txt
+https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/vpn-configs-for-russia_black_vless-2.txt
+https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/vpn-configs-for-russia_black_vless-3.txt
+https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/vpn-configs-for-russia_black_vless-4.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/vpn-configs-for-russia_black_vless_mobile.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/xray-config-toolkit-1.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/xray-config-toolkit-2.txt
