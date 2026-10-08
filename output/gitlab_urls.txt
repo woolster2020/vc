@@ -70,7 +70,6 @@ https://gitlab.com/woolster2020/vc/-/raw/main/output/vpn-configs-for-russia_blac
 https://gitlab.com/woolster2020/vc/-/raw/main/output/vpn-configs-for-russia_black_vless-1.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/vpn-configs-for-russia_black_vless-2.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/vpn-configs-for-russia_black_vless-3.txt
-https://gitlab.com/woolster2020/vc/-/raw/main/output/vpn-configs-for-russia_black_vless-4.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/vpn-configs-for-russia_black_vless_mobile.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/xray-config-toolkit-1.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/xray-config-toolkit-2.txt
