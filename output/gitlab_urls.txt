@@ -51,8 +51,7 @@ https://gitlab.com/woolster2020/vc/-/raw/main/output/Proxy-List_trojan-1.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/Proxy-List_trojan-2.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/Proxy-List_trojan-3.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/V2RayCFGDumper.txt
-https://gitlab.com/woolster2020/vc/-/raw/main/output/daily_free_vpn-1.txt
-https://gitlab.com/woolster2020/vc/-/raw/main/output/daily_free_vpn-2.txt
+https://gitlab.com/woolster2020/vc/-/raw/main/output/daily_free_vpn.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/openproxylist.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/telegram-v2ray-configs-collector.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/v2ray-configs-1.txt
@@ -68,8 +67,6 @@ https://gitlab.com/woolster2020/vc/-/raw/main/output/v2ray-configs-10.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/vify-1.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/vify-2.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/vpn-configs-for-russia_black_all.txt
-https://gitlab.com/woolster2020/vc/-/raw/main/output/vpn-configs-for-russia_black_vless-1.txt
-https://gitlab.com/woolster2020/vc/-/raw/main/output/vpn-configs-for-russia_black_vless-2.txt
+https://gitlab.com/woolster2020/vc/-/raw/main/output/vpn-configs-for-russia_black_vless.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/vpn-configs-for-russia_black_vless_mobile.txt
-https://gitlab.com/woolster2020/vc/-/raw/main/output/xray-config-toolkit-1.txt
-https://gitlab.com/woolster2020/vc/-/raw/main/output/xray-config-toolkit-2.txt
+https://gitlab.com/woolster2020/vc/-/raw/main/output/xray-config-toolkit.txt

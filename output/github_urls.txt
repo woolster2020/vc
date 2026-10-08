@@ -51,8 +51,7 @@ https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/Proxy-L
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/Proxy-List_trojan-2.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/Proxy-List_trojan-3.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/V2RayCFGDumper.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/daily_free_vpn-1.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/daily_free_vpn-2.txt
+https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/daily_free_vpn.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/openproxylist.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/telegram-v2ray-configs-collector.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/v2ray-configs-1.txt
@@ -68,8 +67,6 @@ https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/v2ray-c
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/vify-1.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/vify-2.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/vpn-configs-for-russia_black_all.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/vpn-configs-for-russia_black_vless-1.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/vpn-configs-for-russia_black_vless-2.txt
+https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/vpn-configs-for-russia_black_vless.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/vpn-configs-for-russia_black_vless_mobile.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/xray-config-toolkit-1.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/xray-config-toolkit-2.txt
+https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/xray-config-toolkit.txt

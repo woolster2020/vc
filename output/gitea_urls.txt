@@ -51,8 +51,7 @@ https://gitea.com/woolster2020/vc/raw/branch/main/output/Proxy-List_trojan-1.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/Proxy-List_trojan-2.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/Proxy-List_trojan-3.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/V2RayCFGDumper.txt
-https://gitea.com/woolster2020/vc/raw/branch/main/output/daily_free_vpn-1.txt
-https://gitea.com/woolster2020/vc/raw/branch/main/output/daily_free_vpn-2.txt
+https://gitea.com/woolster2020/vc/raw/branch/main/output/daily_free_vpn.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/openproxylist.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/telegram-v2ray-configs-collector.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/v2ray-configs-1.txt
@@ -68,8 +67,6 @@ https://gitea.com/woolster2020/vc/raw/branch/main/output/v2ray-configs-10.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/vify-1.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/vify-2.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/vpn-configs-for-russia_black_all.txt
-https://gitea.com/woolster2020/vc/raw/branch/main/output/vpn-configs-for-russia_black_vless-1.txt
-https://gitea.com/woolster2020/vc/raw/branch/main/output/vpn-configs-for-russia_black_vless-2.txt
+https://gitea.com/woolster2020/vc/raw/branch/main/output/vpn-configs-for-russia_black_vless.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/vpn-configs-for-russia_black_vless_mobile.txt
-https://gitea.com/woolster2020/vc/raw/branch/main/output/xray-config-toolkit-1.txt
-https://gitea.com/woolster2020/vc/raw/branch/main/output/xray-config-toolkit-2.txt
+https://gitea.com/woolster2020/vc/raw/branch/main/output/xray-config-toolkit.txt
