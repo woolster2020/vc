@@ -20,6 +20,7 @@ https://gitlab.com/woolster2020/vc/-/raw/main/output/.proxy-19.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/.proxy-20.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/.proxy-21.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/.proxy-22.txt
+https://gitlab.com/woolster2020/vc/-/raw/main/output/.proxy-23.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/AutoVPN.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/Config-Collector.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/Mineral-1.txt
