@@ -48,6 +48,7 @@ https://codeberg.org/woolster2020/vc/raw/branch/main/output/OpenRay_all-15.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/OpenRay_all-16.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/OpenRay_all-17.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/OpenRay_all-18.txt
+https://codeberg.org/woolster2020/vc/raw/branch/main/output/OpenRay_all-19.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/Proxy-List_hysteria2.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/Proxy-List_trojan-1.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/Proxy-List_trojan-2.txt
