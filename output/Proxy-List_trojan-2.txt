@@ -1,3 +1,12 @@
+trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19232?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-120.226.39.25-1569
+trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19233?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-120.226.39.25-1570
+trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19239?security=tls#
+trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19239?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-120.226.39.25-1571
+trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19240?security=tls#
+trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19240?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-120.226.39.25-1535
+trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19241?security=tls#
+trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19241?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-120.226.39.25-1568
+trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19243?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-120.226.39.25-1490
 trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19245?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-120.226.39.25-1573
 trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19248?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-120.226.39.25-1572
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@104.21.12.87:443?security=tls&sni=series-v1.samanehha.co&type=ws&path=/43xf5zgeApzDAfhOHq&Host=series-v1.samanehha.co#
@@ -489,12 +498,3 @@ trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@155.248.172.87:28443?security=tls#
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@168.138.189.17:28443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-168.138.189.17-2621
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@210.0.158.220:28443?security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-210.0.158.220-2987
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@212.90.123.130:28443?security=tls#
-trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@212.90.123.130:28443?security=tls#%F0%9F%87%BF%F0%9F%87%A6ZA-212.90.123.130-2878
-trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443?security=tls#%F0%9F%87%A8%F0%9F%87%BECY-45.82.253.234-3104
-trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.88.148.234:28443?security=tls#%F0%9F%87%B7%F0%9F%87%BARU-45.88.148.234-3142
-trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@62.210.254.72:28443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-62.210.254.72-3059
-trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@89.163.220.99:28443?security=tls#
-trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@89.163.220.99:28443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-89.163.220.99-2799
-trojan://78c6cf8f30399bad3f63f15a9600a8ef@23.149.28.8.sslip.io:8443?security=tls#US
-trojan://79770a32-9607-4919-9483-0f1794559390@172.67.177.123:443/?type=tcp&security=tls&sni=nika3hdfy2.foriran.trade&allowInsecure=1#
-trojan://79770a32-9607-4919-9483-0f1794559390@95.179.217.221:443?security=tls&sni=nika2.hdfy2.foriran.trade&type=grpc&serviceName=M9hnxw1wCQSfVHaiznU#%F0%9F%87%AB%F0%9F%87%B7FR-95.179.217.221-7117

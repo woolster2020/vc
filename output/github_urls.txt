@@ -49,6 +49,7 @@ https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_all-17.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_all-18.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_all-19.txt
+https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_all-20.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/Proxy-List_hysteria2-1.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/Proxy-List_hysteria2-2.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/Proxy-List_trojan-1.txt
