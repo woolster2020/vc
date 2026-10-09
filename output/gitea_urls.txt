@@ -76,7 +76,6 @@ https://gitea.com/woolster2020/vc/raw/branch/main/output/vpn-configs-for-russia_
 https://gitea.com/woolster2020/vc/raw/branch/main/output/vpn-configs-for-russia_black_vless-1.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/vpn-configs-for-russia_black_vless-2.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/vpn-configs-for-russia_black_vless-3.txt
-https://gitea.com/woolster2020/vc/raw/branch/main/output/vpn-configs-for-russia_black_vless-4.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/vpn-configs-for-russia_black_vless_mobile.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/xray-config-toolkit-1.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/xray-config-toolkit-2.txt
