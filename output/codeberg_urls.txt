@@ -20,7 +20,6 @@ https://codeberg.org/woolster2020/vc/raw/branch/main/output/.proxy-19.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/.proxy-20.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/.proxy-21.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/.proxy-22.txt
-https://codeberg.org/woolster2020/vc/raw/branch/main/output/.proxy-23.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/AutoVPN.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/Config-Collector.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/Mineral-1.txt
