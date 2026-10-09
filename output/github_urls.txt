@@ -60,7 +60,6 @@ https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/daily_f
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/daily_free_vpn-5.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/daily_free_vpn-6.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/daily_free_vpn-7.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/daily_free_vpn-8.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/openproxylist.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/telegram-v2ray-configs-collector.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/v2ray-configs-1.txt
