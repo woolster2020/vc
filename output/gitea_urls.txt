@@ -50,6 +50,8 @@ https://gitea.com/woolster2020/vc/raw/branch/main/output/OpenRay_all-17.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/OpenRay_all-18.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/OpenRay_all-19.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/OpenRay_all-20.txt
+https://gitea.com/woolster2020/vc/raw/branch/main/output/OpenRay_all-21.txt
+https://gitea.com/woolster2020/vc/raw/branch/main/output/OpenRay_all-22.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/Proxy-List_hysteria2-1.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/Proxy-List_hysteria2-2.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/Proxy-List_trojan-1.txt
