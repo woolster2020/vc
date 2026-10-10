@@ -137,7 +137,6 @@ vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@157.22.128.7:443?sni=free.cndyw.ggf
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@185.153.198.86:443?sni=free.cndyw.ggff.net&type=ws&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.comfp=randomsecurity=tls#4Jadi-49f1002bcf
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@194.55.166.65:2087?sni=free.cndyw.ggff.net&type=ws&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.comfp=randomsecurity=tls#4Jadi-e2844433bb
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@37.221.210.113:8443?sni=free.cndyw.ggff.net&type=ws&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.comfp=random&security=tls#4FreeIran-44d4b8ca41
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@62.182.102.93:443?sni=free.cndyw.ggff.net&type=ws&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.comfp=randomsecurity=tls#4Jadi-17c67f69ee
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@64.176.15.110:2053?sni=free.cndyw.ggff.net&type=ws&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.comfp=randomsecurity=tls#4FreeIran-1f6c886417
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@85.90.197.156:443?sni=free.cndyw.ggff.net&type=ws&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.comfp=randomsecurity=tls#4Kian-96aae40ee1
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@89.125.139.115:443?sni=free.cndyw.ggff.net&type=ws&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.comfp=chromesecurity=tls#4Nika-2d996d63f8
@@ -202,7 +201,6 @@ vless://056d10f1-4ebd-40e1-9f78-c7e11fce5258@speedtest.net:80?path=/download&sec
 vless://0575005f-0ba9-4d6d-85e0-4a6a8cbafc1b@131.196.253.141:443?sni=kclx.eu.org&type=ws&host=kclx.eu.org&path=/154.16.10.34-8080fp=chrome&security=tls#4Jadi-d1a40c77fd
 vless://0575005f-0ba9-4d6d-85e0-4a6a8cbafc1b@85.137.165.97:443?sni=kclx.eu.org&type=ws&host=kclx.eu.org&path=/154.16.10.34-8080fp=chrome&security=tls#4Jadi-08d1aabd67
 vless://05819bb1-2975-473c-a51f-0fbccf8d2cfa@31.58.181.88:8443?security=reality&type=tcp&packetEncoding=xudp&sni=tradingview.com&fp=firefox&flow=xtls-rprx-vision&pbk=AERbWB2uslqIzm1hSlOZZEH3Y9qg_zlWRRyLfh97kXc#4Mohsen-b3983f4f52
-vless://0590ab38-cb22-41d3-8312-6f396a5cec58@129.150.51.127:49289?sni=www.microsoft.com&fp=chrome&security=tls#4FreeIran-dc3b37f243
 vless://0596d8de-cf34-402a-b533-163b15e642eb@198.41.199.255:443?path=/downloader.php&security=tls&encryption=none&insecure=0&host=windy.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=windy.adaspoloandco.com&note=@FreeOnlineVPN#4Jadi-656afc99eb
 vless://05b1737c-c92e-41cd-af4f-b4b8c6150e7b@novantunnel.tech:443?security=tls&type=ws&path=/Novan-AE8&host=novantunnel.tech&packetEncoding=xudp&sni=novantunnel.tech&fp=randomized#4Mohsen-f6d78f31c8
 vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@167.233.219.201:443?mode=auto&path=/api/v3/stream/&security=tls&alpn=h2&encryption=none&host=Telegram-Leviko_v2ray&type=xhttp&sni=fsn1.nordlinkcloud.com#4Jadi-46934679c6
@@ -457,7 +455,7 @@ vless://0ed342c3-eb45-4d63-83a1-697252636ca9@104.27.82.154:8880?security=none&ty
 vless://0ed342c3-eb45-4d63-83a1-697252636ca9@188.114.97.6:443?security=tls&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=yellow-hall-d482.260-d22.workers.dev&ed=2560&packetEncoding=xudp&sni=yellow-hall-d482.260-d22.workers.dev&fp=chrome&encryption=none#4Mohsen-a410406d76
 vless://0eea2d4c-9bde-40a7-bf57-3d5a9a8caeab@89.124.94.83:40443?security=reality&encryption=none&pbk=i63mOV0i35u-2VR7mpaVC0XML1dS7s6XmzAlff50Eic&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=ec70d3b2b6298ba1#4Sarina-a7655a768d
 vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&sid=9e419c0759b54d6f&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104#4Sarina-03e46434ac
-vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?sni=www.apple.com&fp=firefox&security=tls#4FreeIran-6e4064981f
+vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?sni=www.apple.com&fp=chrome&security=tls#4Mohsen-3511129d6a
 vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?type=tcp&security=reality&sni=www.apple.com&fp=chrome&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&sid=9e419c0759b54d6f#4Nika-8538642d60
 vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?type=tcp&security=reality&sni=www.apple.com&fp=firefox&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&sid=9e419c0759b54d6f#4FreeIran-26db6f8ec7
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=xwrivr.pages.dev&path=%2F&security=tls&sni=xwrivr.pages.dev&type=ws#4Sarina-74f5e3b61f
@@ -498,3 +496,5 @@ vless://106d20f6-d70a-40e2-b69b-8e82baf8d117@staging.lastilhame.monster:443?secu
 vless://10a46e2e-c05e-46c8-c0a6-f55b716d1f1d@94.237.43.11:443?security=reality&encryption=none&pbk=y4EAK3C7BjrAhd2eneXeoBHxA2iATHQ7BmkwWFF6v0E&host=ajax.googleapis.com&headerType=http&fp=chrome&spx=/&type=tcp&sni=ajax.googleapis.com#4Mohsen-bd912e5116
 vless://10a6b923-e349-4594-92bb-d81a6245aaec@109.120.176.37:443?encryption=none&security=tls&sni=sertraline.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sertraline.adaspoloandco.com&path=%2Fdownload.php#4Mohsen-678a61ffd2
 vless://10b3cbba-e6ac-485a-8381-976a0415eab9@172.67.188.9:443?encryption=none&security=tls&sni=EsETSEcurityLICensE.siqiLwDQ.WOrKeRS.DEv&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=eSEtsECuritYliCENSE.SIQILWDq.WORKerS.dEV&path=%2F#4Mohsen-bb61ad07d1
+vless://10b78ac4-d4ce-43d2-98c4-c62c96fcbdc2@87.120.107.246:443?mode=gun&security=reality&encryption=none&pbk=20kKpOl77grCupOod4O_X1u74fJT38yc2Nhxy8enywc&fp=chrome&type=grpc&serviceName=grpc-tunnel_nl&sni=dl.google.com&sid=fd4f9db207ff64db#4Sarina-9e993f308d
+vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.104:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=net-5307e1-dff579-production.up.railway.app&fp=chrome&type=ws&sni=net-5307e1-dff579-production.up.railway.app#4Sarina-c57242608f
