@@ -1,4 +1,3 @@
-vless://05102194-fc99-4b80-9ab3-d4f0c6f57c33@tamiiiiz.aryan-sport.ir:2095?security=none&type=httpupgrade&headerType=&path=/&host=dr.aryan-sport.ir#EPODONIOS
 vless://0525f54a-568b-4f0b-89e5-c2666e800d83@188.114.99.160:8443?path=/downloader&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=matoride.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=matoride.adaspoloandco.com#EPODONIOS
 vless://0525f54a-568b-4f0b-89e5-c2666e800d83@188.114.99.160:8443?path=/downloader&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=matoride.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=matoride.adaspoloandco.com&note=@FreeOnlineVPN#EPODONIOS
 vless://052d8d73-4552-545e-5505-7c544f47de7a@69.46.46.35:443?mode=stream-up&path=/xhttp-siz10/stream-up/052d8d73-4552-545e-5505-7c544f47de7a&security=tls&alpn=h2&encryption=none&host=cobalt-beacon-a070-production.up.railway.app&fp=chrome&type=xhttp&sni=cobalt-beacon-a070-production.up.railway.app#EPODONIOS
@@ -498,3 +497,4 @@ vless://2c4c513c-5422-4daf-80ce-62b3dde5da54@172.67.165.8:8880?path=/ws&security
 vless://2c4c513c-5422-4daf-80ce-62b3dde5da54@172.67.91.87:2087?path=/ws&security=tls&encryption=none&insecure=0&host=jolly-voice-eed5.prisonvpn34.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=jolly-voice-eed5.prisonvpn34.workers.dev#EPODONIOS
 vless://2c4c513c-5422-4daf-80ce-62b3dde5da54@172.67.91.87:8080?path=/ws&security=none&encryption=none&host=jolly-voice-eed5.prisonvpn34.workers.dev&type=ws#EPODONIOS
 vless://2c4c513c-5422-4daf-80ce-62b3dde5da54@24janebi.ir:2083?path=/ws&security=tls&encryption=none&insecure=0&host=jolly-voice-eed5.prisonvpn34.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=jolly-voice-eed5.prisonvpn34.workers.dev#EPODONIOS
+vless://2c5f2d6e-d683-49f7-a12b-a95460b90a92@feow.nomush.ir:11497?security=reality&encryption=none&pbk=J3DhtzId04tRrOF9HmIxpv6QOGY1g6j2wJ_UtVKmimk&headerType=none&fp=chrome&type=tcp&sni=dynu.com&sid=b0063cec752e829a#EPODONIOS
