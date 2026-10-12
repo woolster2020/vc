@@ -1,3 +1,12 @@
+trojan://44ddc8a7-27c6-4de8-a232-bcad6d0e66c6@69.46.46.167:443?path=/ws/trojan/44ddc8a7-27c6-4de8-a232-bcad6d0e66c6?ed=2048&security=tls&alpn=http/1.1&insecure=0&host=service-42db13-166272-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=service-42db13-166272-production.up.railway.app#
+trojan://44ddc8a7-27c6-4de8-a232-bcad6d0e66c6@69.46.46.167:443?path=/ws/trojan/44ddc8a7-27c6-4de8-a232-bcad6d0e66c6?ed=2048&security=tls&alpn=http/1.1&insecure=0&host=service-42db13-166272-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=service-42db13-166272-production.up.railway.app#EPODONIOS
+trojan://44ddc8a7-27c6-4de8-a232-bcad6d0e66c6@69.46.46.167:443?path=/ws/trojan/44ddc8a7-27c6-4de8-a232-bcad6d0e66c6?ed=2048&security=tls&alpn=http/1.1&insecure=0&host=service-42db13-166272-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=service-42db13-166272-production.up.railway.app#US-@VPNine1
+trojan://44ddc8a7-27c6-4de8-a232-bcad6d0e66c6@69.46.46.170:443?path=/ws/trojan/44ddc8a7-27c6-4de8-a232-bcad6d0e66c6?ed=2048&security=tls&alpn=http/1.1&insecure=0&host=service-42db13-166272-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=service-42db13-166272-production.up.railway.app#
+trojan://44ddc8a7-27c6-4de8-a232-bcad6d0e66c6@69.46.46.170:443?path=/ws/trojan/44ddc8a7-27c6-4de8-a232-bcad6d0e66c6?ed=2048&security=tls&alpn=http/1.1&insecure=0&host=service-42db13-166272-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=service-42db13-166272-production.up.railway.app#EPODONIOS
+trojan://44ddc8a7-27c6-4de8-a232-bcad6d0e66c6@69.46.46.170:443?path=/ws/trojan/44ddc8a7-27c6-4de8-a232-bcad6d0e66c6?ed=2048&security=tls&alpn=http/1.1&insecure=0&host=service-42db13-166272-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=service-42db13-166272-production.up.railway.app#US-@VPNine1
+trojan://44ddc8a7-27c6-4de8-a232-bcad6d0e66c6@69.46.46.170:443?path=/ws/trojan/44ddc8a7-27c6-4de8-a232-bcad6d0e66c6?ed=2048&security=tls&alpn=http/1.1&insecure=0&host=service-42db13-166272-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=service-42db13-166272-production.up.railway.app#Join+Telegram:@Farah_VPN
+trojan://44ddc8a7-27c6-4de8-a232-bcad6d0e66c6@69.46.46.175:443?path=/ws/trojan/44ddc8a7-27c6-4de8-a232-bcad6d0e66c6?ed=2048&security=tls&alpn=http/1.1&insecure=0&host=service-42db13-166272-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=service-42db13-166272-production.up.railway.app#
+trojan://44ddc8a7-27c6-4de8-a232-bcad6d0e66c6@69.46.46.175:443?path=/ws/trojan/44ddc8a7-27c6-4de8-a232-bcad6d0e66c6?ed=2048&security=tls&alpn=http/1.1&insecure=0&host=service-42db13-166272-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=service-42db13-166272-production.up.railway.app#EPODONIOS
 trojan://44ddc8a7-27c6-4de8-a232-bcad6d0e66c6@69.46.46.175:443?path=/ws/trojan/44ddc8a7-27c6-4de8-a232-bcad6d0e66c6?ed=2048&security=tls&alpn=http/1.1&insecure=0&host=service-42db13-166272-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=service-42db13-166272-production.up.railway.app#US-@VPNine1
 trojan://44ddc8a7-27c6-4de8-a232-bcad6d0e66c6@69.46.46.182:443?path=/ws/trojan/44ddc8a7-27c6-4de8-a232-bcad6d0e66c6?ed=2048&security=tls&alpn=http/1.1&insecure=0&host=service-42db13-166272-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=service-42db13-166272-production.up.railway.app#
 trojan://44ddc8a7-27c6-4de8-a232-bcad6d0e66c6@69.46.46.182:443?path=/ws/trojan/44ddc8a7-27c6-4de8-a232-bcad6d0e66c6?ed=2048&security=tls&alpn=http/1.1&insecure=0&host=service-42db13-166272-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=service-42db13-166272-production.up.railway.app#EPODONIOS
@@ -489,12 +498,3 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@147.45.197.95:8443/?type=tcp&security=tls&sni=
 trojan://8r%3C%5B9%27l6hAO%238ZQi@149.28.56.202:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#
 trojan://8r%3C%5B9%27l6hAO%238ZQi@15.204.173.154:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#
 trojan://8r%3C%5B9%27l6hAO%238ZQi@150.241.108.1:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#
-trojan://8r%3C%5B9%27l6hAO%238ZQi@150.241.122.110:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#
-trojan://8r%3C%5B9%27l6hAO%238ZQi@150.241.76.155:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#
-trojan://8r%3C%5B9%27l6hAO%238ZQi@152.53.153.158:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#
-trojan://8r%3C%5B9%27l6hAO%238ZQi@152.53.200.202:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#
-trojan://8r%3C%5B9%27l6hAO%238ZQi@154.92.9.253:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#
-trojan://8r%3C%5B9%27l6hAO%238ZQi@154.92.9.25:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#
-trojan://8r%3C%5B9%27l6hAO%238ZQi@159.242.242.253:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#
-trojan://8r%3C%5B9%27l6hAO%238ZQi@160.153.138.253:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#
-trojan://8r%3C%5B9%27l6hAO%238ZQi@162.243.143.110:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#
