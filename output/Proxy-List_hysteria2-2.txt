@@ -3,10 +3,14 @@ hysteria2://xf2ak19a4uajprxg@giftcard.gateway-stream.com:52090?insecure=0&sni=gi
 hysteria2://xf2ak19a4uajprxg@giftcard.gateway-stream.com:52090?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#
 hysteria2://xf2ak19a4uajprxg@giftcard.gateway-stream.com:52090?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#EPODONIOS
 hysteria2://xf2ak19a4uajprxg@giftcard.gateway-stream.com:52090?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#Telegram
+hysteria2://xm32boc9y175kedm@4vs112dq.zibayeman.com:48544?insecure=1&sni=4vs112dq.zibayeman.com&obfs=salamander&obfs-password=7tqfhx24g5blwlfu#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%20%7C%20FRA%204
+hysteria2://xm32boc9y175kedm@4vs112dq.zibayeman.com:48544?insecure=1&sni=4vs112dq.zibayeman.com&obfs=salamander&obfs-password=salamander#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%20%7C%20FRA%20%234
 hysteria2://xm32boc9y175kedm@4vs112dq.zibayeman.com:48544?obfs=salamander&obfs-password=7tqfhx24g5blwlfu&sni=4vs112dq.zibayeman.com#
 hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=130.61.50.75#
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#EPODONIOS
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443/?insecure=1&sni=202.146.222.29#EPODONIOS
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.158.96.132:443?insecure=1&sni=vpn-de-002.fastervpn.world#EPODONIOS
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.158.96.132:443?insecure=1&sni=vpn-de-002.fastervpn.world#192088
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&sni=127.0.0.1#EPODONIOS
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&note=@FreeOnlineVPN#EPODONIOS
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&note=@FreeOnlineVPN#
