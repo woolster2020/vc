@@ -21,7 +21,6 @@ https://gitlab.com/woolster2020/vc/-/raw/main/output/.proxy-20.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/.proxy-21.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/.proxy-22.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/.proxy-23.txt
-https://gitlab.com/woolster2020/vc/-/raw/main/output/.proxy-24.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/AutoVPN.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/Config-Collector.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/Mineral-1.txt
@@ -64,6 +63,7 @@ https://gitlab.com/woolster2020/vc/-/raw/main/output/V2RayCFGDumper.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/daily_free_vpn-1.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/daily_free_vpn-2.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/daily_free_vpn-3.txt
+https://gitlab.com/woolster2020/vc/-/raw/main/output/daily_free_vpn-4.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/openproxylist.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/telegram-v2ray-configs-collector.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/v2ray-configs-1.txt
