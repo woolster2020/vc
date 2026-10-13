@@ -21,7 +21,6 @@ https://codeberg.org/woolster2020/vc/raw/branch/main/output/.proxy-20.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/.proxy-21.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/.proxy-22.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/.proxy-23.txt
-https://codeberg.org/woolster2020/vc/raw/branch/main/output/.proxy-24.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/AutoVPN.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/Config-Collector.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/Mineral-1.txt
@@ -81,5 +80,4 @@ https://codeberg.org/woolster2020/vc/raw/branch/main/output/vify-2.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/vpn-configs-for-russia_black_all.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/vpn-configs-for-russia_black_vless.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/vpn-configs-for-russia_black_vless_mobile.txt
-https://codeberg.org/woolster2020/vc/raw/branch/main/output/xray-config-toolkit-1.txt
-https://codeberg.org/woolster2020/vc/raw/branch/main/output/xray-config-toolkit-2.txt
+https://codeberg.org/woolster2020/vc/raw/branch/main/output/xray-config-toolkit.txt
