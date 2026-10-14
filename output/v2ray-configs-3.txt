@@ -1,3 +1,6 @@
+vless://2968eb62-dd97-4c8f-fbca-d69388f1b572@ansooyefilter-telegram.arshia-nova.ir:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?ed=2056&security=tls&alpn=h2&encryption=none&insecure=0&host=mr_anonoijji.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=speedtest.net#EPODONIOS
+vless://29b81e1a-1989-4778-b0cb-a7223730f59d@5.223.74.174:2053?security=reality&encryption=none&pbk=pIkxGlcFFawk7e0T-2VcdFXOc9LsjoBhl47vl8EuRgg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=5.223.74.174&sid=36151c48e28cfb65#EPODONIOS
+vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.195.58:443?path=/fdip=tw.william.us.ci!txt&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#EPODONIOS
 vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#EPODONIOS
 vless://29ca503d-e6b8-4509-b666-48133f450857@soskeynets.levikogjgfdd.ir:443?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#EPODONIOS
 vless://2My-chanel-Telegram-ATOVPN @167.104.219.193:40185?security=&encryption=none&headerType=&type=tcp#EPODONIOS
@@ -495,6 +498,3 @@ vless://4975ba8b-7378-468b-b1be-e2f274c62e97@199.232.78.159:443?path=/?TELEGRAM-
 vless://4975ba8b-7378-468b-b1be-e2f274c62e97@199.232.78.159:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=512&security=tls&encryption=none&host=pannn1.global.ssl.fastly.net&type=ws&sni=safa.fastly.com#EPODONIOS
 vless://4975ba8b-7378-468b-b1be-e2f274c62e97@199.232.78.159:443?path=/?Telegram---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP&security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=safa.fastly.com#EPODONIOS
 vless://4975ba8b-7378-468b-b1be-e2f274c62e97@199.232.78.159:443?path=/@Net2ray&security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=safa.fastly.com#EPODONIOS
-vless://4975ba8b-7378-468b-b1be-e2f274c62e97@199.232.78.159:443?security=tls&encryption=none&host=pannn1.global.ssl.fastly.net&type=ws&sni=safa.fastly.com#EPODONIOS
-vless://4975ba8b-7378-468b-b1be-e2f274c62e97@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=safa.fastly.com#EPODONIOS
-vless://498a8e0a-e40d-418b-8209-e6e437e97d83@104.16.85.118:2083?path=/ws&security=tls&encryption=none&insecure=0&host=prisonvpnc.n8xyd0tsxn-b25.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=prisonvpnc.n8xyd0tsxn-b25.workers.dev#EPODONIOS

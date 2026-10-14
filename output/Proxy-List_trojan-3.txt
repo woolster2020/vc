@@ -1,12 +1,3 @@
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@153.121.74.146:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.74.146-3199
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@160.16.145.107:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.145.107-2886
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@219.94.250.108:2053?security=tls#
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@219.94.250.108:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-219.94.250.108-3148
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@49.212.221.47:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-49.212.221.47-2720
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.152.209:8443/?type=tcp&security=tls&sni=official.taipeicitygovernment.net.ua&allowInsecure=1&fp=chrome#
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.152.230:8443/?type=tcp&security=tls&sni=official.taipeicitygovernment.ivano-frankivsk.ua&allowInsecure=1#
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp01a.roc-taiwan.net.ua:65011?security=tls#
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp01a.roc-taiwan.net.ua:65011?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.242.146.108-2863
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp02a.roc-taiwan.net.ua:65012?security=tls#
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp02a.roc-taiwan.net.ua:65012?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-133.242.205.220-2913
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp03a.roc-taiwan.net.ua:65013?security=tls#
