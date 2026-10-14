@@ -1,3 +1,9 @@
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@104.26.12.140:8443?security=tls&type=ws&path=/&host=c7dabe95.proxy-978.pages.dev&packetEncoding=xudp&sni=c7dabe95.proxy-978.pages.dev&fp=chrome&encryption=none#4Sarina-4560f692e5
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@104.26.13.140:8443?security=tls&type=ws&path=/&host=c7dabe95.proxy-978.pages.dev&packetEncoding=xudp&sni=c7dabe95.proxy-978.pages.dev&fp=chrome&encryption=none#4Jadi-a72191d536
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?security=tls&type=ws&path=/&host=c7dabe95.proxy-978.pages.dev&packetEncoding=xudp&sni=c7dabe95.proxy-978.pages.dev&fp=chrome&encryption=none#4Mohsen-6d756d4590
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@brazil.com:2083?security=tls&type=ws&path=/?ed=2560&host=c7dabe95.proxy-978.pages.dev&packetEncoding=xudp&sni=c7dabe95.proxy-978.pages.dev&fp=random&encryption=none#4FreeIran-3169d0c49f
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@fbi.gov:2087?security=tls&type=ws&path=/?ed=2560&host=c7dabe95.proxy-978.pages.dev&packetEncoding=xudp&sni=c7dabe95.proxy-978.pages.dev&fp=random#4Kian-3ff0624478
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@icook.hk:443?security=tls&type=ws&path=/?ed=2560&host=c7dabe95.proxy-978.pages.dev&packetEncoding=xudp&sni=c7dabe95.proxy-978.pages.dev&fp=random#4Mohsen-6c6593f3f1
 vless://767b6340-96dc-4aa0-8013-a8af7513d920@japan.com:2053?security=tls&type=ws&path=/?ed=2560&host=c7dabe95.proxy-978.pages.dev&packetEncoding=xudp&sni=c7dabe95.proxy-978.pages.dev&fp=random#4FreeIran-be84f03e34
 vless://767b6340-96dc-4aa0-8013-a8af7513d920@russia.com:2087?security=tls&type=ws&path=/?ed=2560&host=c7dabe95.proxy-978.pages.dev&packetEncoding=xudp&sni=c7dabe95.proxy-978.pages.dev&fp=random#4Jadi-fd02e12d71
 vless://767b6340-96dc-4aa0-8013-a8af7513d920@singapore.com:8443?security=tls&type=ws&path=/&host=c7dabe95.proxy-978.pages.dev&packetEncoding=xudp&sni=c7dabe95.proxy-978.pages.dev&fp=chrome#4Mohsen-9ea9e2f7da
@@ -6,8 +12,6 @@ vless://767b6340-96dc-4aa0-8013-a8af7513d920@www.gco.gov.qa:8443?security=tls&ty
 vless://767b6340-96dc-4aa0-8013-a8af7513d920@www.gov.se:443?security=tls&type=ws&path=/?ed=2560&host=c7dabe95.proxy-978.pages.dev&packetEncoding=xudp&sni=c7dabe95.proxy-978.pages.dev&fp=random#4FreeIran-a3803daaec
 vless://767b6340-96dc-4aa0-8013-a8af7513d920@www.wto.org:8443?security=tls&type=ws&path=/?ed=2560&host=c7dabe95.proxy-978.pages.dev&packetEncoding=xudp&sni=c7dabe95.proxy-978.pages.dev&fp=random#4Kian-6236819e5a
 vless://767c5a66-bd28-440a-90c8-7ae1101a0172@www.gov.ua:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=still-voice-1adc.135-275.workers.dev&packetEncoding=xudp#4Sarina-aab72e1a3d
-vless://768712b8-81dc-440f-9b38-4523bf767df4@us.ll0ll.vip:2096?sni=id.vk.com&type=grpc&serviceName=&fp=random&security=tls#4Jadi-2c27e1cd40
-vless://768712b8-81dc-440f-9b38-4523bf767df4@us.ll0ll.vip:2096?sni=id.vk.com&type=grpc&serviceName=vless-grpc-reality&fp=random&security=tls#4Nika-d67c5a7785
 vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@103.126.50.203:443?security=reality&encryption=none&pbk=xp7g5asMyVx4aI7vEwfZZPrpd57izUvnNzAOpBs4mh0&host=/?BIA_TELEGRAM@leviconfigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ro.getvlessvpn.com&sid=b9f8f9772217538f#4FreeIran-f857086800
 vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@103.126.50.203:443?security=reality&encryption=none&pbk=xp7g5asMyVx4aI7vEwfZZPrpd57izUvnNzAOpBs4mh0&host=/?BIA_TELEGRAM@leviconfigs_leviconfigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ro.getvlessvpn.com&sid=b9f8f9772217538f#4FreeIran-ea7b49f205
 vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@103.126.50.203:443?security=reality&encryption=none&pbk=xp7g5asMyVx4aI7vEwfZZPrpd57izUvnNzAOpBs4mh0&host=/?TELEGRAM-Cnetvpn?ed=512&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ro.getvlessvpn.com&sid=b9f8f9772217538f#4FreeIran-4b624372ba
@@ -447,8 +451,8 @@ vless://7e3f04d4-0f1a-4163-9955-5ee7c757b277@31.58.50.200:8443?security=reality&
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#4Sarina-612a7b760f
 vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2087?path=%2F&security=tls&encryption=none&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&type=ws&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO#4Nika-84bd2cb949
 vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2096?path=%2F&security=tls&encryption=none&host=TzS7v35LfD.sMaRtTeChZaAl.InFo&fp=chrome&type=ws&sni=TzS7v35LfD.sMaRtTeChZaAl.InFo#4Kian-34de116aaf
-vless://7e68e32f-8015-4f37-9082-70e8b0b58043@13.213.12.170:443?sni=otlp-o11y.sportskeeda.com&flow=xtls-rprx-vision&fp=chrome&security=tls#4Jadi-688f77edf8
 vless://7e68e32f-8015-4f37-9082-70e8b0b58043@13.228.75.166:443?security=reality&encryption=none&pbk=x8aCD8cJtkDvAjcRrcMG05MNiwh11LaKg70KIRvfN0g&headerType=&type=tcp&flow=xtls-rprx-vision&sni=api.carelanka.online&sid=819a87bf1651bf44#4Nika-9d1ec79bba
+vless://7e68e32f-8015-4f37-9082-70e8b0b58043@43.201.24.167:443?sni=anjen.net&flow=xtls-rprx-vision&fp=chrome&security=tls#4Kian-dad5d9d688
 vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=none&encryption=none&headerType=none&type=tcp#4Jadi-b0b089bd15
 vless://7e81824b-35e0-4eb1-89e9-592f0c92aa6b@yx.zhourf2006.dpdns.org:443?encryption=none&security=tls&sni=yx.zhourf2006.dpdns.org&type=ws#4Sarina-3bf09cd811
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#4Mohsen-ded97b73c6
@@ -494,7 +498,3 @@ vless://7fee5dc4-c486-4f2b-8bcf-6af076ab2f66@146.75.119.82:80?mode=auto&path=%2F
 vless://7q4eiwcseu@7q4eiwcseu-193708596-direct.rahbarii.com:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=7q4eiwcseu-193708596-direct.rahbarii.com#4Nika-78f8d2bfcf
 vless://7q4eiwcseu@7q4eiwcseu-193708596-direct.rahbarii.com:443?sni=7q4eiwcseu-193708596-direct.rahbarii.com&alpn=h2&flow=xtls-rprx-vision-udp443-udp443&fp=chrome&security=tls#4FreeIran-d9275bac65
 vless://8008ceea-be4e-47e1-88c0-6a99cb1b5825@172.105.241.119:1916?encryption=none&security=tls&type=ws&host=3t1yvbyla-rj740g.28m7r63dttya6gazmhoo.workers.dev&path=%2F%40Marisa_kristi&sni=3t1yvbyla-rj740g.28m7r63dttya6gazmhoo.workers.dev&fp=chrome#4Nika-56bd3c89e4
-vless://8033102198@138.124.100.128:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ee4.fast-connect-service.site&fp=firefox&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#4Sarina-e2a26a2a1d
-vless://8036f785-5b3f-4052-9e8d-01ae12d6061c@104.17.171.182:443?security=tls&type=ws&path=/eyJqdW5rIjoiT0V3YWVlV0NnZGlvZ1ciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iLCJbMjYwMjpmYzU5OjExOjY0OjpdIl19?ed=2560&host=telegram1.freepersianland6.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=tElEGraM1.FreEPErsIaNLAND6.WoRKerS.DeV&fp=chrome&encryption=none#4Mohsen-9d558f5b70
-vless://8038f7de-9bba-4ebd-8352-556bc7316c11@91.107.169.16:1001?security=none&encryption=none&host=reata.ir&headerType=http&type=tcp#4Nika-8b31ea1d7f
-vless://8038f7de-9bba-4ebd-8352-556bc7316c11@sky2.hupcloud.com:1001?security=none&encryption=none&host=reata.ir&headerType=http&type=tcp#4Jadi-c9886299f6
