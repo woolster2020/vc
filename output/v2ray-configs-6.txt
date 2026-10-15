@@ -1,3 +1,5 @@
+vless://8ffa41d4-e6b5-4af5-a8a9-69e26bec75f5@renderer-bridge-2-114.mirra.now:443?type=grpc&encryption=none&serviceName=VideoRenderer&path=VideoRenderer&sni=renderer-bridge-2-114.mirra.now&security=tls&fp=chrome&alpn=h2#EPODONIOS
+vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://902c5d96-482c-46c2-a9c9-8726bf536344@188.121.108.224:64845?encryption=mlkem768x25519plus.native.0rtt.RocbSBRKp8YKmlltkC_PL7Vd9mhufeIKeeuYP33jnhY&security=none&type=tcp&headerType=none#EPODONIOS
 vless://902c5d96-482c-46c2-a9c9-8726bf536344@188.121.108.224:64845?security=none&encryption=mlkem768x25519plus.native.0rtt.RocbSBRKp8YKmlltkC_PL7Vd9mhufeIKeeuYP33jnhY&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp#EPODONIOS
 vless://903daa6f-534c-4f4a-bbc8-024993f5cb01@www.speedtest.net:443?path=/CMlsadnCISdss#TELEGRAM-leviconfigs?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=ptr.cyberbear.io&fp=chrome&type=ws&allowInsecure=0&sni=ptr.cyberbear.io#EPODONIOS
@@ -496,5 +498,3 @@ vless://ad263f1c-199e-4aaf-bf22-c3ad0407d377@31.77.148.89:45021?&type=tcp&header
 vless://ad263f1c-199e-4aaf-bf22-c3ad0407d377@31.77.148.89:45021?type=tcp&encryption=none&security=none#EPODONIOS
 vless://ad297a2b-ae17-4d2d-8fce-e2eafb89b145@45.58.126.92:8444?security=reality&encryption=none&pbk=OyUyHy3-04xKvFMvAzUbiVf7tkWX2a_gC2E_sEHGVw8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nbcnews.com&sid=08#EPODONIOS
 vless://ad297a2b-ae17-4d2d-8fce-e2eafb89b145@w7tjfftjdt.vk-maps.net:52006?security=reality&encryption=none&pbk=o_ZQuEx_ealt_YkqgtYRqFhee0pzFkg9ObUhODLTAB8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api5.vk-maps.net&sid=08#EPODONIOS
-vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@ip.feywebsite.ir:2096?path=/ws&security=tls&encryption=none&host=greattehran.hozheen.ir&type=ws&sni=07e357aa7e747ca4.hOzHeEn.Ir#EPODONIOS
-vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@www.speedtest.net:2096?path=/ws?ed&security=tls&encryption=none&host=com.hozheen.ir&type=ws&sni=872ede3847653442.hozheen.ir#EPODONIOS
