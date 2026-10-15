@@ -1,4 +1,3 @@
-vless://484b5843-388f-4a8a-a601-3d833642c10d@soskeynets.rubyshow.ir:443?alpn=h2,http/1.1,h3&encryption=none&fp=chrome&host=cdn.rubyshow.ir&path=/sendx&security=tls&sni=cdn.rubyshow.ir&type=ws#EPODONIOS
 vless://486169a3-ce5f-4d93-8d01-f619d4443e5d@cp.so.rezzip.com:443?path=?ed=2560&security=tls&alpn=h2&encryption=none&insecure=0&host=pandura.lat&fp=chrome&type=ws&allowInsecure=0&sni=pandura.lat#EPODONIOS
 vless://486fe30a-18d8-4913-b0ba-a301d9b7d505@176.120.17.94:16427?type=tcp&encryption=none&security=reality&pbk=cIPzdA0vCMszJwDwNf3WrJvxoegoLHq0-zmoJ7iMHCE&fp=chrome&sni=yahoo.com&sid=c8144f81&spx=/#EPODONIOS
 vless://4879655a-bd1c-44d7-a7d8-0207f19a823f@010uk.nimhub.ir:1024?encryption=mlkem768x25519plus.native.0rtt.EDtyRxeL3JTbtKk2D89oTFHnAhqXVD3Y_GYYDh7C_xo&security=none&type=xhttp&mode=stream-up&host=myket.ir&path=/&extra={"sessionIDKey":"100-1000"}#EPODONIOS
@@ -498,3 +497,4 @@ vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@213.21.232.26:443?type=tcp&security
 vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@213.21.232.26:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&sni=pl-3.ardesnode.ru&encryption=none#EPODONIOS
 vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@31.76.22.166:443?security=reality&encryption=none&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl-2.ardesnode.ru&sid=9ea74b83f4993ca9#EPODONIOS
 vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@45.14.246.6:443?security=reality&encryption=none&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fn-1.ardesnode.ru&sid=9ea74b83f4993ca9#EPODONIOS
+vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@45.82.56.253:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nd-2.ardesnode.ru&fp=chrome&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&type=tcp&headerType=none#EPODONIOS
