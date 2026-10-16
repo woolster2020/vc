@@ -21,6 +21,7 @@ https://gitea.com/woolster2020/vc/raw/branch/main/output/.proxy-20.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/.proxy-21.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/.proxy-22.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/.proxy-23.txt
+https://gitea.com/woolster2020/vc/raw/branch/main/output/.proxy-24.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/AutoVPN.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/Config-Collector.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/Mineral-1.txt
@@ -59,6 +60,7 @@ https://gitea.com/woolster2020/vc/raw/branch/main/output/OpenRay_all-25.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/OpenRay_all-26.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/OpenRay_all-27.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/OpenRay_all-28.txt
+https://gitea.com/woolster2020/vc/raw/branch/main/output/OpenRay_all-29.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/Proxy-List_hysteria2-1.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/Proxy-List_hysteria2-2.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/Proxy-List_trojan-1.txt
