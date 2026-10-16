@@ -30,7 +30,8 @@ https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/Mineral
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_DE.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_NL.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_SG.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_UK.txt
+https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_UK-1.txt
+https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_UK-2.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_all-1.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_all-2.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_all-3.txt
@@ -60,8 +61,7 @@ https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_all-27.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_all-28.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_all-29.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/Proxy-List_hysteria2-1.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/Proxy-List_hysteria2-2.txt
+https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/Proxy-List_hysteria2.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/Proxy-List_trojan-1.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/Proxy-List_trojan-2.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/Proxy-List_trojan-3.txt
@@ -69,7 +69,6 @@ https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/V2RayCF
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/daily_free_vpn-1.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/daily_free_vpn-2.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/daily_free_vpn-3.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/daily_free_vpn-4.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/openproxylist.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/telegram-v2ray-configs-collector.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/v2ray-configs-1.txt
