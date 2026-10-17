@@ -1,4 +1,3 @@
-vless://6bad72da-1a41-4217-b265-9e4abdf5ae76@nl1.gramstar.online:443?mode=gun&security=reality&encryption=none&pbk=njpVaVdQx4IEByPisgjjXSJGLZt5Khb8m8HC1QIBqQs&fp=chrome&type=grpc&serviceName=grpc&sni=nl1.gramstar.online&sid=b04dd3564373ba03#EPODONIOS
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@212.74.39.214:8080?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://6bd94ee9-3c63-43d2-8f19-31570cfbef25@narcod-ping.numallaf.shop:58978?type=tcp&path=/&host=zula.ir&headerType=http&security=none#EPODONIOS
 vless://6bda1096-457f-4c70-9698-65eb5eee163b@167.233.96.254:1280?path=/&security=none&encryption=none&host=is1-ssl.mzstatic.com&type=ws#EPODONIOS
@@ -498,3 +497,4 @@ vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@185.166.154.111:443?security=realit
 vless://91d734be-a3d0-4d50-83ab-74cf7b6966fa@cdn.bulkavpn.top:443?security=reality&encryption=none&pbk=bQZcMViJWXus9rMSTOa-ZAaUJC0mIlPx7XmzrLp8GQU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.bulkavpn.top&sid=94f32cfc#EPODONIOS
 vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?flow=xtls-rprx-vision&spx=/&pbk=-O8QFkqeMAc6TzQp6eY1s38my_8jhBd7HDHxNki6QlY&encryption=none&headerType=none&type=tcp&sni=www.amazon.com&fp=chrome&sid=7f7f&security=reality#EPODONIOS
 vless://92295a0d-b610-4075-85e9-bfab09ec6f3a@138.124.98.219:443?security=reality&encryption=none&pbk=IyUvo6owCe4Zfr8aIVdtweSNHQSpSyiO-OKsRDJ9BBs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ah.nl&sid=a111111111111111#EPODONIOS
+vless://92295a0d-b610-4075-85e9-bfab09ec6f3a@time.salphetka.ru:443?security=reality&encryption=none&pbk=5qe0MF8LdxPLFyPkyPkUdQs58rK9J7B0Q5TUj7tSnn4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.unb.ca&sid=654119f9d6f01dba#EPODONIOS

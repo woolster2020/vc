@@ -1,4 +1,3 @@
-vless://261f011c-e97a-4d72-b596-e6329b50b47b@104.243.33.154:45299?security=none&encryption=none&host=check-host.net&headerType=none&type=tcp#EPODONIOS
 vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@medium.com:2053?path=/&security=tls&encryption=none&insecure=0&host=foucse1.goooooooozoooo.sbs&fp=chrome&type=ws&allowInsecure=0&sni=foucse1.goooooooozoooo.sbs#EPODONIOS
 vless://264c449d-2c7c-4b82-8457-8f6766946307@node-production-ccd3.up.railway.app:443?path=/ws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#EPODONIOS
 vless://2650433b-4ee1-3c57-e3a7-43c678e8068c@x4g-production-ea42.up.railway.app:443?path=/ws/2650433b-4ee1-3c57-e3a7-43c678e8068c&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-ea42.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-ea42.up.railway.app#EPODONIOS
@@ -498,3 +497,4 @@ vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.229.170:80?&sni=8nj2r.2k8t.f
 vless://483e8c71-ae8e-7554-42fe-667eca8d017d@69.46.46.104:443?mode=stream-up&path=/xhttp-siz10/stream-up/483e8c71-ae8e-7554-42fe-667eca8d017d&security=tls&alpn=h2&encryption=none&host=silent-horizon-f5de-production.up.railway.app&fp=chrome&type=xhttp&sni=silent-horizon-f5de-production.up.railway.app#EPODONIOS
 vless://484b5843-388f-4a8a-a601-3d833642c10d@soskeynets.rubyshow.ir:443?alpn=h2,http/1.1,h3&encryption=none&fp=chrome&host=cdn.rubyshow.ir&path=/sendx&security=tls&sni=cdn.rubyshow.ir&type=ws#EPODONIOS
 vless://486169a3-ce5f-4d93-8d01-f619d4443e5d@cp.so.rezzip.com:443?path=?ed=2560&security=tls&alpn=h2&encryption=none&insecure=0&host=pandura.lat&fp=chrome&type=ws&allowInsecure=0&sni=pandura.lat#EPODONIOS
+vless://486fe30a-18d8-4913-b0ba-a301d9b7d505@176.120.17.94:16427?type=tcp&encryption=none&security=reality&pbk=cIPzdA0vCMszJwDwNf3WrJvxoegoLHq0-zmoJ7iMHCE&fp=chrome&sni=yahoo.com&sid=c8144f81&spx=/#EPODONIOS
