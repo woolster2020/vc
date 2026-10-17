@@ -63,6 +63,7 @@ https://gitlab.com/woolster2020/vc/-/raw/main/output/OpenRay_all-27.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/OpenRay_all-28.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/OpenRay_all-29.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/OpenRay_all-30.txt
+https://gitlab.com/woolster2020/vc/-/raw/main/output/OpenRay_all-31.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/Proxy-List_hysteria2.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/Proxy-List_trojan-1.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/Proxy-List_trojan-2.txt
