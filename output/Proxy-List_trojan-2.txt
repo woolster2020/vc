@@ -1,3 +1,4 @@
+trojan://5ffee9b2-4514-4719-97b3-67810ece038d@ali-panel-1.terhav.workers.dev:443?type=ws&host=ali-panel-1.terhav.workers.dev&path=%2Fvertex&security=tls&fp=chrome&sni=ali-panel-1.terhav.workers.dev#
 trojan://5j3xqsajt1474jb3@uwu.blueknightnet.qzz.io:2087?security=tls&sni=uwu.dianaw.cc.cd&fp=chrome&alpn=h2&type=ws&host=uwu.dianaw.cc.cd&path=%2F%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net#
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@103.97.91.17:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=la.freeguard.org#NG
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@104.160.44.203:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=la14.freeguard.org#US
@@ -497,4 +498,3 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.109.126:8443/?type=tcp&security=tls&sni=
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.27.233:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#
 trojan://8r%3C%5B9%27l6hAO%238ZQi@38.107.232.124:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#
 trojan://8r%3C%5B9%27l6hAO%238ZQi@46.8.238.49:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#
-trojan://8r%3C%5B9%27l6hAO%238ZQi@46.8.70.178:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#
