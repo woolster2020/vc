@@ -1,3 +1,4 @@
+trojan://tg-dns68@162.159.153.3:443/?type=ws&host=vip.putata.eu.org&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
 trojan://tg-dns68@162.159.153.66:443/?type=tcp&security=tls&sni=vip.putata.e...
 trojan://tg-dns68@162.159.153.67:443/?type=ws&host=vip.putata.eu.org&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
 trojan://tg-dns68@162.159.153.68:443/?type=ws&host=vip.putata.eu.org&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
@@ -497,4 +498,3 @@ vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@45.195.137.5:8443/?type=tcp&encrypt
 vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@bypass.ch-gt-02.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=40ce08cf20c67003#%40nekopingbot_5763
 vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@ch-gt-02.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=40ce08cf20c67003#%40nekopingbot_6609
 vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:443?host=estproxy4.lockdwn.com&security=none&type=ws#@OutlineReleasedKey
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:443?type=ws&path=/&host=estproxy4.lockdwn.com#@OutlineReleasedKey
