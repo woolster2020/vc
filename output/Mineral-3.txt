@@ -1,3 +1,6 @@
+trojan://NISHIKUITAN111@104.16.204.50:443/?type=tcp&security=tls&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
+trojan://NISHIKUITAN111@104.16.218.64:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
+trojan://NISHIKUITAN111@104.16.23.120:443/?type=tcp&security=tls#%F0%9F%8F%81RELAY-104.16.23.120-1718
 trojan://NISHIKUITAN111@104.16.36.151:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@104.16.37.91:443/?type=tcp&security=tls#%40Hope_Net-join...
 trojan://NISHIKUITAN111@104.16.80.174:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
@@ -495,6 +498,3 @@ trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.11:443/?type=tcp&securit
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443/?type=tcp&security=tls#Tokyo%20%28Japan%29%20%283%29
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443/?type=tcp&security=tls#Tokyo%20%28Japan%29%20%282%29
 trojan://TUFfeTYV56@104.21.112.1:2096/?type=httpupgrade&host=esna.twn24.ir&path=%2F%3Fed%3D2048&security=tls&sni=esna.twn24.ir#%40Hope_Net-join-us-on-Telegram
-trojan://TUFfeTYV56@104.21.48.1:2096/?type=httpupgrade&host=esna.twn24.ir&path=%2F%3Fed%3D2048&security=tls&sni=esna.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome#%40Hope_Net-join-us-on-Telegram
-trojan://TUFfeTYV56@104.21.80.1:2096/?type=httpupgrade&host=esna.twn24.ir&path=%2F%3Fed%3D2048&security=tls&sni=esna.twn24.ir&fp=chrome...
-trojan://Tel-DailyConfigs@104.18.7.21:2053/?type=ws&host=kanale-daily-configs.blackoutconnection.ir&security=tls&sni=kanale-daily-configs.blackoutconnection.ir#%40Hope_Net-join-us-on-Telegram

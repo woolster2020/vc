@@ -1,3 +1,11 @@
+trojan://tg-dns68@162.159.153.86:443/?type=ws&host=vip.putata.eu.org&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
+trojan://tg-dns68@162.159.153.8:443/?type=tcp&security=tls&sni=vip.putata.eu.org#%F0%9F%8F%81RELAY-162.159.153.8-0292
+trojan://tg-dns68@162.159.153.90:443/?type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
+trojan://tg-dns68@162.159.153.96:443/?type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
+trojan://tg-fq521free@194.76.18.129:443/?type=ws&host=torjan.xn--xhq44j.eu.org&path=%2F&security=tls&sni=torjan.xn--xhq44j.eu.org#%F0%9F%90%B85%40oneclickvpnkeys
+trojan://tg-fq521free@198.62.62.67:443/?type=tcp&security=tls&sni=torjan.xn--xhq44j.eu.org#%F0%9F%87%BA%F0%9F%87%B8US-198.62.62.67-0622
+trojan://tg-fq521free@216.24.57.30:443/?type=tcp&security=tls&sni=torjan.xn--xhq44j.eu.org#%F0%9F%87%BA%F0%9F%87%B8US-216.24.57.30-0716
+trojan://tg-fq521free@45.67.215.95:443/?type=ws&host=torjan.xn--xhq44j.eu.org&path=%2F&security=tls&sni=torjan.xn--xhq44j.eu.org#%40Hope_Net-join-us-on-Telegram
 trojan://trojan@104.18.12.229:8443/?type=tcp&security=tls&sni=mav2fly...&allowInsecure=1
 trojan://trojan@104.18.4.250:2053/?type=ws&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&path=%2F%3Fed%3D2560&security=tls&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#%40Hope_Net-join-us-on-Telegram
 trojan://trojan@104.21.3.52:443/?type=tcp&security=tls&sni=test-a23.pages.dev#%40Hope_Net-join-us-on-Telegram
@@ -490,11 +498,3 @@ vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?alpn=h2%2Chttp%
 vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?encryption=none&security=tls&sni=estproxy4.lockdwn.com&fp=chrome&type=tcp&headerType=none#@OutlineReleasedKey
 vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?encryption=none&security=tls&sni=estproxy4.lockdwn.com&fp=edge&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#@V2ray_Collector
 vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?encryption=none&security=tls&sni=estproxy4.lockdwn.com&fp=firefox&type=tcp&headerType=none#@OutlineReleasedKey
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?path=%2F&security=tls&sni=estproxy4.lockdwn.com#@OutlineReleasedKey
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?security=tls&sni=estproxy4.lockdwn.com#@OutlineReleasedKey
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?security=tls&sni=estproxy4.lockdwn.com&fp=chrome&path=%2f#@V2ray_Collector
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?security=tls&type=tcp&packetEncoding=xudp&sni=estproxy4.lockdwn.com&fp=chrome#@V2ray_Collector
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?security=tls&type=tcp&packetEncoding=xudp&sni=estproxy4.lockdwn.com&fp=chrome&encryption=none#@OutlineReleasedKey
-vless://06d4887e-9e2c-45a3-a0ac-309f4e47f047@mobinhost.com:443/?type=ws&encryption=none&flow=&host=cdn-two.mr-cloud.ir&path=%2Fao0s41N5cxHj2bMQx1iv8oR&security=tls&sni=cdn-two.mr-cloud.ir&alpn=h2&fp=chrome#%40v2Meli
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@103.160.204.59:443/?type=ws&encryption=none&flow=&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=in.youlingkais.filegear-sg.me&packetEncoding=xudp#%F0%9F%95%8A%EF%B8%8F32%40oneclickvpnkeys
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.16.152.64:443/?type=ws&encryption=none&flow=&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=in.youlingkais.filegear-sg.me#11%F0%9F%95%8A%EF%B8%8F%40oneclickvpnkeys
