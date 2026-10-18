@@ -110,6 +110,7 @@ https://gitlab.com/woolster2020/vc/-/raw/main/output/v2ray-configs-6.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/v2ray-configs-7.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/v2ray-configs-8.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/v2ray-configs-9.txt
+https://gitlab.com/woolster2020/vc/-/raw/main/output/v2ray-configs-10.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/vify-1.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/vify-2.txt
 https://gitlab.com/woolster2020/vc/-/raw/main/output/vpn-configs-for-russia_black_all.txt
