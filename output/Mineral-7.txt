@@ -1,3 +1,7 @@
+trojan://tg-dns68@162.159.153.66:443/?type=tcp&security=tls&sni=vip.putata.e...
+trojan://tg-dns68@162.159.153.67:443/?type=ws&host=vip.putata.eu.org&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
+trojan://tg-dns68@162.159.153.68:443/?type=ws&host=vip.putata.eu.org&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
+trojan://tg-dns68@162.159.153.84:443/?type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-u...
 trojan://tg-dns68@162.159.153.86:443/?type=ws&host=vip.putata.eu.org&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
 trojan://tg-dns68@162.159.153.8:443/?type=tcp&security=tls&sni=vip.putata.eu.org#%F0%9F%8F%81RELAY-162.159.153.8-0292
 trojan://tg-dns68@162.159.153.90:443/?type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
@@ -177,6 +181,7 @@ trojan://ttfang@94.140.0.216:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3
 trojan://ttfang@94.247.142.216:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ttfang.fange.me#%F0%9F%8F%81RELAY-94.247.142.216-0686
 trojan://tunnel-astrovpn_official028@45.112.192.29:8441?security=tls&alpn=http%2F1.1&host=45.112.192.29&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir#The%20Netherlands%20NK%20Telecom
 trojan://u.0c3S2V328E6hb8DVhZTNaIzFZX1+aY1J@38.60.226.48:443/?type=tcp&security=tls#Cairo%20%28Egypt%29
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=FREETOPLAY-2.TETRIS-GAME.WORLD#@meliproxyy
 trojan://uTkkJ_SmOhV%5D8r5A@188.114.96.3:443/?type=ws&host=eupload65466.pages.dev&path=%2Ftru64a8KrvgRDvY1Ag%3Fed%3D2560&security=tls&sni=EUpLoAd65466.pagEs.dev&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=randomized#%40Hope_Net-join-us-on-Telegram
 trojan://uV8u9Q41e2@104.17.180.185:443/?type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=%2F&security=tls&sni=DieGo.DIEgoMAraDOnA.iR.#%40Hope_Net-join-us-on-Telegram
 trojan://vip@104.16.20.118:443/?type=tcp&security=tls&sni=heihu880.pages.dev#%F0%9F%8F%81RELAY-104.16.20.118-0948
@@ -493,8 +498,3 @@ vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@bypass.ch-gt-02.com:8443/?type=tcp&
 vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@ch-gt-02.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=40ce08cf20c67003#%40nekopingbot_6609
 vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:443?host=estproxy4.lockdwn.com&security=none&type=ws#@OutlineReleasedKey
 vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:443?type=ws&path=/&host=estproxy4.lockdwn.com#@OutlineReleasedKey
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?allowInsecure=1&type=tcp&security=tls&fp=firefox&sni=estproxy4.lockdwn.com&mode=multi#@V2ray_Collector
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?alpn=h2%2Chttp%2F1.1&security=tls&sni=estproxy4.lockdwn.com&type=tcp#@V2ray_Collector
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?encryption=none&security=tls&sni=estproxy4.lockdwn.com&fp=chrome&type=tcp&headerType=none#@OutlineReleasedKey
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?encryption=none&security=tls&sni=estproxy4.lockdwn.com&fp=edge&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#@V2ray_Collector
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?encryption=none&security=tls&sni=estproxy4.lockdwn.com&fp=firefox&type=tcp&headerType=none#@OutlineReleasedKey

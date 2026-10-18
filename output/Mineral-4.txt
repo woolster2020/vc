@@ -1,3 +1,5 @@
+trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443/?type=tcp&security=tls#Tokyo%20%28Japan%29%20%282%29
+trojan://TUFfeTYV56@104.21.112.1:2096/?type=httpupgrade&host=esna.twn24.ir&path=%2F%3Fed%3D2048&security=tls&sni=esna.twn24.ir#%40Hope_Net-join-us-on-Telegram
 trojan://TUFfeTYV56@104.21.48.1:2096/?type=httpupgrade&host=esna.twn24.ir&path=%2F%3Fed%3D2048&security=tls&sni=esna.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome#%40Hope_Net-join-us-on-Telegram
 trojan://TUFfeTYV56@104.21.80.1:2096/?type=httpupgrade&host=esna.twn24.ir&path=%2F%3Fed%3D2048&security=tls&sni=esna.twn24.ir&fp=chrome...
 trojan://Tel-DailyConfigs@104.18.7.21:2053/?type=ws&host=kanale-daily-configs.blackoutconnection.ir&security=tls&sni=kanale-daily-configs.blackoutconnection.ir#%40Hope_Net-join-us-on-Telegram
@@ -496,5 +498,3 @@ trojan://blue2024@104.24.141.116:443/?type=tcp&security=tls&sni=ta.promote.icu&a
 trojan://blue2024@104.24.160.227:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.24.220.147:443/?type=tcp&security=tls&sni=ta.promote.icu&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.24.237.141:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
-trojan://blue2024@104.24.244.143:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://blue2024@104.24.7.196:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg&allowInsecure=1#%40Hope_Net-join-us-on-Telegram

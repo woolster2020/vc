@@ -1,3 +1,5 @@
+trojan://blue2024@104.24.244.143:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
+trojan://blue2024@104.24.7.196:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.25.171.3:443/?type=tcp&security=tls&sni=ta.promote.icu&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.25.187.232:443/?type=ws&host=hb.lii2010.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=hb.lii2010.us.kg&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.25.226.234:443/?type=ws&host=hb.lii2010.us.kg&security=tls&sni=hb.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
@@ -496,5 +498,3 @@ trojan://fnufMt%3AsQ&rC0HUu@172.66.44.172:2083/?type=ws&host=joinmahdiserver-6vv
 trojan://fnufMt%3AsQ&rC0HUu@172.66.47.84:2083/?type=ws&path=%2FtryXCQkx60Z0X0OJmK%3Fed%3D2560&security=tls&sni=joinmAHDIsERVER-6vv.PaGeS.dEv
 trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@93.152.223.201:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ger2.fytpn.com#@meliproxyy
 trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@pol2.fytpn.com:2097#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%B5%F0%9F%87%B1
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@stoniy.fytpn.com:2097#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AA%F0%9F%87%AA
-trojan://hCunaKqdEJDBO+3jCrJUSMevXOw9Q_r4Ey@38.60.136.156:443/?type=tcp&security=tls#Marseille%20%28France%29
