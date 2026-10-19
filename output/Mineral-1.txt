@@ -28,7 +28,7 @@ hysteria2://06e88dd6-e264-4981-8c26-d7ab17348ab2@144.31.232.216:443?sni=fi01.clg
 hysteria2://06e88dd6-e264-4981-8c26-d7ab17348ab2@144.31.232.216:443?sni=fi01.clgate.network&insecure=0#@V2ray_Collector
 hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@50.7.87.150:54183?sni=outh.yandex-cloud.org#@V2ray_Collector
 hysteria2://19f72087-4591-4d72-930b-2697078ec2be@de1.xiaoliyu.cyou:4433?insecure=0&sni=de1.xiaoliyu.cyou#@OutlineReleasedKey
-hysteria2://1e6fed5b-5edc-4ddb-a268-79d7fae4365c@95.133.242.213:30443?sni=filesconvert.org#@OutlineReleasedKey
+hysteria2://1e6fed5b-5edc-4ddb-a268-79d7fae4365c@95.133.242.213:30443?sni=filesconvert.org#@V2ray_Collector
 hysteria2://2561c6b1a3069d3170b4d7e1ecc08c65@paris.nerabotaet.com:443#@V2ray_Collector
 hysteria2://2561c6b1a3069d3170b4d7e1ecc08c65@paris.nerabotaet.com:443/?insecure=1&sni=paris.nerabotaet.com#@OutlineReleasedKey
 hysteria2://2561c6b1a3069d3170b4d7e1ecc08c65@paris.nerabotaet.com:443?sni=paris.nerabotaet.com&insecure=1#@OutlineReleasedKey
@@ -85,7 +85,7 @@ hysteria2://HysTeria2026%21Proxy@mz.hkychina.com:8443?security=tls&insecure=0&sn
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@103.126.51.46:8443?sni=ocober-romania-new.yyuyy.com#@V2ray_Collector
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@103.126.51.50:8443?sni=ocober-romania-new.yyuyy.com#@V2ray_Collector
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.171:8443?security=tls&insecure=1&sni=hopp-romania-new.roxa.org#@V2ray_Collector
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.172:8443?sni=hopp-romania-new.roxa.org#@OutlineReleasedKey
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.172:8443?sni=hopp-romania-new.roxa.org#@V2ray_Collector
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.172:8443?sni=hopp-romania-new.roxa.org&insecure=0#@V2ray_Collector
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.173:8080?sni=hopp-romania-new.roxa.org&insecure=0#@V2ray_Collector
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.174:8080/?insecure=1&sni=hopp-romania-new.roxa.org#@OutlineReleasedKey
@@ -136,9 +136,11 @@ hysteria2://cf83b611-6cba-4535-adcb-8da06c6a9146@144.31.212.253:443?security=tls
 hysteria2://cf83b611-6cba-4535-adcb-8da06c6a9146@144.31.212.253:443?sni=vps155-edge.kermemehori.ru#@V2ray_Collector
 hysteria2://cf83b611-6cba-4535-adcb-8da06c6a9146@144.31.212.253:443?sni=vps155-edge.kermemehori.ru&insecure=0#@V2ray_Collector
 hysteria2://cf83b611-6cba-4535-adcb-8da06c6a9146@144.31.212.253:443?sni=vps155-edge.kermemehori.ru&insecure=1#@V2ray_Collector
+hysteria2://d5530551-5e9a-4ac5-8539-cee87e38d9e2@2.26.3.75:443?sni=fi.67chat.ru#@V2ray_Collector
+hysteria2://dd50a499-7e43-4589-8490-f3b9c2451473@109.235.49.234:443?sni=tcp-reset-club.net#@OutlineReleasedKey
 hysteria2://dd50a499-7e43-4589-8490-f3b9c2451473@nl-hy-test.tcp-reset-club.net:443?sni=tcp-reset-club.net#@V2ray_Collector
 hysteria2://dongtaiwang.com@142.249.37.90:44356/?security=tls&sni=hy2.561891.xyz#@V2ray_Collector
-hysteria2://dongtaiwang.com@142.249.37.90:44356?security=tls&insecure=0&sni=hy2.561891.xyz#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://dongtaiwang.com@142.249.37.90:44356?security=tls&insecure=0&sni=hy2.561891.xyz#@V2ray_Collector
 hysteria2://dongtaiwang.com@142.249.37.90:44356?security=tls&sni=hy2.561891.xyz#@V2ray_Collector
 hysteria2://dongtaiwang.com@hy2.561891.xyz:44356/?security=tls&sni=hy2.561891.xyz#@V2ray_Collector
 hysteria2://dongtaiwang.com@hy2.561891.xyz:44356?security=tls&insecure=0&sni=hy2.561891.xyz#@V2ray_Collector
@@ -384,6 +386,7 @@ trojan://4732adfa16c6450bbef87264e41332db@104.17.61.7:443/?type=ws&host=jobscare
 trojan://4785f3ca-8fa3-4717-8c81-9d19087c73a3@172.66.44.171:443/?type=ws&host=pardazeshvpn-tg104.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&sni=pardazeshvpn-tg104.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://47df6fe1-cc2a-4f26-b748-08d902272bde@172.67.201.123:443/?type=ws&host=PpAl03.arNULFO-KuNZe.worKErS.Dev&path=%2FTelegram%40V2ray_Alpha%3Fed%3D2048&security=tls&sni=PpAL03.arNUlFo-kunZE.WORkerS.dEV#%40Hope_Net-join-us-on-Telegram
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de2.dedushka.top:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=de2.dedushka.top#@meliproxyy
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de8.dedushka.top#@OutlineReleasedKey
 trojan://4a3ee276-f50f-46f6-ba4d-13571732ab70@104.21.83.113:443/?type=tcp&security=tls&sni=SxcDe3.859886.XYz#%F0%9F%8F%81RELAY-104.21.83.113-0230
 trojan://4aec4e7f8cf8454ea4613659822e1a61@104.19.159.144:443/?type=tcp&security=tls&sni=avianrecruit.com#%40Hope_Net-join-us-on-Telegram
 trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@104.21.3.60:443/?type=tcp&security=tls&sni=ssp1.100896.xyz#%40Hope_Net-join-us-on-Telegram
@@ -495,6 +498,3 @@ trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@192.0.54.194:443/?type=tcp&securit
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@194.76.18.122:443/?type=ws&path=%2Fproxyip%3D194.76.18.122%3A443&security=tls&sni=icecream.955850.xyz#%F0%9F%87%B0%F0%9F%87%BFKZ-194.76.18.122-0624
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.156:443/?type=ws&path=%2Fproxyip%3D212.183.88.156%3A443&security=tls&sni=icecream.955850.xyz#%F0%9F%87%A6%F0%9F%87%B9AT-212.183.88.156-0633
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.172:443/?type=tcp&security=tls&sni=icecream.955850.xyz#%F0%9F%87%A6%F0%9F%87%B9AT-212.183.88.172-0872
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.194:443/?type=ws&path=%2Fproxyip%3D212.183.88.194%3A443&security=tls&sni=icecream.955850.xyz#%F0%9F%87%A6%F0%9F%87%B9AT-212.183.88.194-0626
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.227:443/?type=ws&path=%2Fproxyip%3D217.163.76.227%3A443&security=tls&sni=icecream.955850.xyz#%F0%9F%87%AC%F0%9F%87%A7GB-217.163.76.227-0629
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.237:443/?type=ws&host=icecream.955850.xyz&security=tls&sni=icecream.955850.xyz&allowInsecure=1

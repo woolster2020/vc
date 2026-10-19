@@ -1,3 +1,6 @@
+trojan://NISHIKUITAN111@104.16.158.225:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
+trojan://NISHIKUITAN111@104.16.189.150:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
+trojan://NISHIKUITAN111@104.16.190.212:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@104.16.191.33:443/?type=tcp&security=tls&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@104.16.194.126:443/?type=tcp&security=tls&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@104.16.202.117:443/?type=tcp&security=tls&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
@@ -495,6 +498,3 @@ trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.1
 trojan://T%40_WvT8Ho%40LW%25w_,@172.66.44.214:2053/?type=ws&path=%2FtrGPZDfetEwuO25SAs%3Fed%3D2560&security=tls&sni=NOp-55q.pAgEs.dEv#%F0%9F%8F%81RELAY-172.66.44.214-0770
 trojan://T%40_WvT8Ho%40LW%25w_,@172.66.47.42:2053/?type=ws&path=%2FtrGPZDfetEwuO25SAs%3Fed%3D2560&security=tls&sni=NOp-55q.pAgEs.dEv#%F0%9F%8F%81RELAY-172.66.47.42-0663
 trojan://T9BpZIVMNv@sweden.vmaxpanel.com:8443/?type=ws&path=%2Famd&security=tls&allowInsecure=1#%F0%9F%A6%9A64%40oneclickvpnkeys
-trojan://T9BpZIVMNv@v1.dabache.top:8443/?type=ws&host=sweden.vmaxpanel.com&path=%2Famd&security=tls&sni=sweden.vmaxpanel.com&allowInsecure=1#%F0%9F%AA%9D76%40oneclickvpnkeys
-trojan://T9BpZIVMNv@v1.dabache.top:8443/?type=ws&path=%2Famd&security=tls&sni=sweden.vmaxpanel.com#%F0%9F%8F%81RELAY-172.66.44.211-0932
-trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.11:443/?type=tcp&security=tls#Tokyo%20%28Japan%29%20%281%29
