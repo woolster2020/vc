@@ -186,7 +186,7 @@ trojan://humanity@45.130.125.160:443/?type=ws&host=www.calmloud.com&path=%2Fassi
 trojan://humanity@45.130.125.69:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%3E%3E%40configV2rayNG%3A%3AFR%20%286%29
 trojan://humanity@45.130.125.76:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&alpn=http%2F1.1#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2830%29
 trojan://humanity@45.130.125.96:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#%F0%9F%9B%B8%40V2ray_official%20%285%29
-trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#canfingV2rayNG-44
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#canfingV2rayNG-40
 trojan://humanity@45.85.118.176:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1#-%3EFR%2B%28%40DeamNet_Proxy%29%20%284%29
 trojan://humanity@46.62.204.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@meliproxyy
 trojan://humanity@46.62.204.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@meliproxyy
