@@ -1,3 +1,5 @@
+trojan://T%40_WvT8Ho%40LW%25w_,@172.66.47.42:2053/?type=ws&path=%2FtrGPZDfetEwuO25SAs%3Fed%3D2560&security=tls&sni=NOp-55q.pAgEs.dEv#%F0%9F%8F%81RELAY-172.66.47.42-0663
+trojan://T9BpZIVMNv@sweden.vmaxpanel.com:8443/?type=ws&path=%2Famd&security=tls&allowInsecure=1#%F0%9F%A6%9A64%40oneclickvpnkeys
 trojan://T9BpZIVMNv@v1.dabache.top:8443/?type=ws&host=sweden.vmaxpanel.com&path=%2Famd&security=tls&sni=sweden.vmaxpanel.com&allowInsecure=1#%F0%9F%AA%9D76%40oneclickvpnkeys
 trojan://T9BpZIVMNv@v1.dabache.top:8443/?type=ws&path=%2Famd&security=tls&sni=sweden.vmaxpanel.com#%F0%9F%8F%81RELAY-172.66.44.211-0932
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.11:443/?type=tcp&security=tls#Tokyo%20%28Japan%29%20%281%29
@@ -496,5 +498,3 @@ trojan://blue2024@104.21.197.136:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg
 trojan://blue2024@104.21.204.134:443/?type=tcp&security=tls&sni=ta.promote.icu&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.21.70.175:443/?type=ws&path=%2F%3Fed&security=tls&sni=ha.lii2010.us.kg&fp=chrome#%40Hope_Net-join-us-on-Telegram%3Cbr...
 trojan://blue2024@104.21.71.16:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
-trojan://blue2024@104.21.77.64:443/?type=tcp&security=tls&sni=ta.promote.icu&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://blue2024@104.21.97.119:443/?type=tcp&security=tls&sni=td.promote.icu#%40Hope_Net-join-us-on-Telegram
