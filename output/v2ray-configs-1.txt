@@ -2,7 +2,6 @@ vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@185.192.22.159:8444?mode=gun&securi
 vless://6c713691-3ca2-0009-ad25-113d1bed6b03@nl1.fluxorvpn.net:443?security=reality&encryption=none&pbk=JWDpSUaLgiXGXpgZzzxfDnYGvi4MBFcadN6cHZ-He1E&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hatch.senko.ru&sid=b8c6965f3596688a#EPODONIOS
 vless://6c713691-3ca2-0009-ad25-113d1bed6b03@nl1.fluxorvpn.net:443?security=reality&encryption=none&pbk=JWDpSUaLgiXGXpgZzzxfDnYGvi4MBFcadN6cHZ-He1E&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hatch.senko.ru&sid=b8c6965f3596688a#EPODONIOS
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@205.237.110.254:443?security=reality&encryption=none&pbk=IG6lxrx_xkGOoBuo3DC8sgQoIFmqVgznIr0qOuNO0w4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=zsit.eu-cdn294.com&sid=cd2d53510b4df2a8#EPODONIOS
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&fp=firefox&type=grpc&serviceName=app.v1.PushService&sni=md5.univesalsrv.com&sid=aa9884f2982b7d3c#EPODONIOS
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.158.96.132:443?insecure=1&sni=vpn-de-002.fastervpn.world#EPODONIOS
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&note=@FreeOnlineVPN#EPODONIOS
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.213.89.22:443?insecure=1&sni=vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#EPODONIOS
@@ -498,3 +497,4 @@ vless://098104de-f68d-434e-adcd-2ab4d1f0759d@5.160.77.199:49429?security=reality
 vless://099c6e3f-e8d3-41d4-95f2-ef2eafb51cdc@194.26.229.219:4100?encryption=none&security=none&type=ws&path=/v1#EPODONIOS
 vless://09b3f968-a8a4-48ec-a707-e1dac8e9eb6d@185.178.208.140:443?alpn=h2&encryption=none&fp=chrome&host=www.bakarova-top.ru&mode=packet-up&path=/api/v2/events&security=tls&sni=www.bakarova-top.ru&type=xhttp#EPODONIOS
 vless://0a1497e6-0570-40a2-84ce-e522eda1c6a4@46.28.67.118:443?encryption=none&security=reality&sni=www.olx.ro&fp=chrome&pbk=9xwvSAOWL36GC2_oNuy0APzirpqSYzd8vKPmGINnzjA&type=xhttp&mode=auto&path=/assets#EPODONIOS
+vless://0a2dde28-70da-4863-a06f-35d007d94d35@202.155.11.249:443?path=/cdn/v3/live&security=tls&encryption=none&insecure=0&host=cf2.rumedia-cdn.com&fp=chrome&type=ws&allowInsecure=0&sni=cf2.rumedia-cdn.com#EPODONIOS
