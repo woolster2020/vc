@@ -20,6 +20,7 @@ https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/.proxy-
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/.proxy-20.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/.proxy-21.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/.proxy-22.txt
+https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/.proxy-23.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/AutoVPN.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/Config-Collector.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/Mineral-1.txt
