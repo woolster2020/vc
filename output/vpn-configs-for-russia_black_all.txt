@@ -1,9 +1,8 @@
 
 
 
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-hk-004.fastervpn.world:443?insecure=1&sni=vpn-hk-004.fastervpn.world#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%5BBL%5D
 hysteria2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Ashburn%20%7C%20%5BBL%5D
-hysteria2://maintell@46.38.157.165:2053?insecure=1&sni=bing.com#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
+hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=speedtest.tinkoff.ru#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20San%20Jose%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 trojan://humanity@141.193.213.172:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 trojan://humanity@141.193.213.172:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 trojan://humanity@141.193.213.172:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
@@ -19,7 +18,8 @@ trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&typ
 trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=qq#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 trojan://humanity@45.80.111.7:443?security=tls&type=ws&path=%2Fassignment&sni=www.calmlunch.com&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-trojan://Trojan%4082164024@pl.tronsg.com:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Gdansk%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://humanity@45.80.111.7:443?security=tls&type=ws&path=%2Fassignment&sni=www.calmlunch.com&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+trojan://Trojan%4082164024@pl.tronsg.com:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&fp=android#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Gdansk%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.volumerOot.coM.&fp=android&type=ws&sni=wWw.Volumeroot.cOm.#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=ios&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=qq&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
@@ -44,6 +44,7 @@ trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&type=ws&sni
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&type=ws&sni=www.volumeroot.com&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=chrome&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&host=www.volumeroot.com&fp=chrome&type=ws&sni=www.volumeroot.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&host=www.volumerOot.coM.&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
@@ -79,3 +80,4 @@ trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&type=ws&host
 trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=/assignment#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@8.47.69.0:443?type=ws&security=tls&sni=www.pleadcourt.org&fp=unsafe&alpn=http%2F1.1&path=%2Fassignment&host=www.pleadcourt.org#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
+trojan://70756c73-0000-4000-8000-650000000000@199.181.197.99:443?security=tls&sni=parsa-panel-u48we.wotic15356.workers.dev&fp=chrome&type=ws&host=parsa-panel-u48we.wotic15356.workers.dev&path=%2Fpulse#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
