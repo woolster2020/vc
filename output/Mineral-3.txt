@@ -1,3 +1,4 @@
+trojan://NISHIKUITAN111@104.16.121.21:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@104.16.126.216:443/?type=tcp&security=tls&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@104.16.129.193:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@104.16.130.216:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
@@ -497,4 +498,3 @@ trojan://SSorg@46.254.92.142:2087/?type=tcp&security=tls&sni=ssjj.esslh.filegear
 trojan://SSorg@89.248.207.37:443/?type=tcp&security=tls&sni=ssjj.esslh.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://SoftNetConnect@185.204.169.164:2087/?type=grpc&sni=www.yahoo.com&fp=chrome&security=reality&pbk=rR5VQnDatIXiWpvI3BtfUypXGWwXAXVEjyiB0aBgK1I&sid=160b91b3#%40nekopingbot_6019
 trojan://SoftNetConnect@185.204.169.164:443/?type=xhttp&sni=www.yahoo.com&fp=chrome&security=reality&pbk=pzGahS_T6emOUchRxzUgeL-2CEg2cuJs0-AxYtaK-ic&sid=d591#%40SONIC_2524%20%285%29
-trojan://SoftNetConnect@185.204.169.164:8443/?type=tcp&sni=www.yahoo.com&allowInsecure=1&fp=chrome&security=reality&pbk=5FGOl7H4K-VOCZ48lIoizknLgL3Vn5FADs8bsCXKPW4&sid=ca14e14437#%40nekopingbot_5989
