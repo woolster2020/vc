@@ -20,6 +20,7 @@ https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/.proxy-
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/.proxy-20.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/.proxy-21.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/.proxy-22.txt
+https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/.proxy-23.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/AutoVPN.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/Config-Collector.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/Mineral-1.txt
@@ -50,11 +51,9 @@ https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/Mineral
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/Mineral-26.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/Mineral-27.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_DE.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_NL-1.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_NL-2.txt
+https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_NL.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_SG.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_UK-1.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_UK-2.txt
+https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_UK.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_all-1.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_all-2.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_all-3.txt
@@ -81,15 +80,6 @@ https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_all-24.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_all-25.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_all-26.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_all-27.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_all-28.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_all-29.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_all-30.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_all-31.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_all-32.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_all-33.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_all-34.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_all-35.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/Proxy-List_hysteria2-1.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/Proxy-List_hysteria2-2.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/Proxy-List_trojan-1.txt
