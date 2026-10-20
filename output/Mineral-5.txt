@@ -1,3 +1,6 @@
+trojan://blue2024@104.20.18.41:443/?type=tcp&security=tls&sni=ta.promote.icu#%40Hope_Net-join-us-on-Telegram
+trojan://blue2024@104.20.25.249:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
+trojan://blue2024@104.20.31.147:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.20.52.65:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.20.8.70:443/?type=tcp&security=tls
 trojan://blue2024@104.21.104.93:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
@@ -495,6 +498,3 @@ trojan://f36f4495b4b26cc2fe346cfa23e05b1b@153.121.45.139:3169/?type=tcp&security
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.144.208:3901/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.144.208-5056
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.150.76:1281/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.150.76-1763
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.150.76:1933/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.150.76-0423
-trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.68.250:1281/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.68.250-1764
-trojan://f42d1b0d-c398-43cb-be37-d739b1477a5d@107.189.3.96:443/?type=tcp&security=tls&sni=joss.gpj4.web.id#%F0%9F%87%B1%F0%9F%87%BALU-107.189.3.96-1017
-trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443/?type=tcp&security=tls&sni=Speedtest.net#%F0%9F%87%B3%F0%9F%87%B1NL-51.158.146.183-8278

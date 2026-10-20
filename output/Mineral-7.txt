@@ -1,3 +1,8 @@
+trojan://tg-dns68@162.159.152.3:443/?type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us...
+trojan://tg-dns68@162.159.152.42:443/?type=ws&host=vip.putata.eu.org&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
+trojan://tg-dns68@162.159.152.44:443/?type=ws&host=vip.putata.eu.org&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
+trojan://tg-dns68@162.159.152.66:443/?type=tcp&security=tls
+trojan://tg-dns68@162.159.152.85:443/?type=ws&host=vip.putata.eu.org&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
 trojan://tg-dns68@162.159.152.88:443/?type=ws&host=vip.putata.eu.org&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
 trojan://tg-dns68@162.159.152.91:443/?type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
 trojan://tg-dns68@162.159.152.96:443/?type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-u...
@@ -493,8 +498,3 @@ vless://057ba490-11db-44c5-8986-5433f3d5a57b@103.253.43.210:8443?security=realit
 vless://0599ca07-cc1c-4e42-b637-6e286f43beb2@193.149.185.17:41510/?type=ws&encryption=none&path=%2F#%F0%9F%87%AC%F0%9F%87%A768431
 vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.50:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&security=reality&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%AD%C2%AE%EF%B8%8FSwitzerland%C2%A9%EF%B8%8FBern%F0%9F%85%BF%EF%B8%8Fping%3A31.19ms
 vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.51:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&security=reality&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%AD%C2%AE%EF%B8%8FSwitzerland%C2%A9%EF%B8%8FBern%F0%9F%85%BF%EF%B8%8Fping%3A30.33ms
-vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.52:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%AD%C2%AE%EF%B8%8FSwitzerland%C2%A9%EF%B8%8FBern%F0%9F%85%BF%EF%B8%8Fping%3A30.39ms
-vless://05a01432-0302-439f-a88d-8442cd27b7d5@gt-ch-01.live:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&security=reality&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%AD%C2%AE%EF%B8%8FSwitzerland%C2%A9%EF%B8%8FBern%F0%9F%85%BF%EF%B8%8Fping%3A61.61ms
-vless://05ac3cee-cc13-4cde-bfbe-928974baa2e3@212.113.119.31:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=chrome&security=reality&pbk=nWGZxelG2CsJkJlZ2sJXxiLBQODS9xAetwdA4q0BwDI&sid=#%F0%9F%90%8A14%40oneclickvpnkeys
-vless://05ac3cee-cc13-4cde-bfbe-928974baa2e3@85.192.40.51:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=chrome&security=reality&pbk=nWGZxelG2CsJkJlZ2sJXxiLBQODS9xAetwdA4q0BwDI&sid=#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%F0%9F%93%81%20%40FreakConfig
-vless://05b544a4-d479-4ba4-8208-950bd4411453@45.89.105.56:80/?type=ws&encryption=none&path=%2Fvless%2F#%F0%9F%87%AE%F0%9F%87%B3India%2B-%3E%2B%F0%9F%87%AE%F0%9F%87%B3India%2B%E2%9A%A1%40DeamNet_Proxy%20%287%29

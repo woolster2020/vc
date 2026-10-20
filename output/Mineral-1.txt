@@ -103,6 +103,7 @@ hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.184:8443?security=
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.185:8443?insecure=1&security=tls&sni=hopp-romania-new.roxa.org#@V2ray_Collector
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.187:8443?sni=hopp-romania-new.roxa.org#@OutlineReleasedKey
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.187:8443?sni=hopp-romania-new.roxa.org&insecure=0#@OutlineReleasedKey
+hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&obfs=salamander&obfs-password=Telegram%40vpnjey&insecure=0&sni=de2.jey.cc.cd#@meliproxyy
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@144.31.49.47:443?insecure=1&sni=admin.wwwinternetvideo.click#@OutlineReleasedKey
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@144.31.49.47:443?sni=admin.wwwinternetvideo.click#@V2ray_Collector
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@144.31.49.47:443?sni=admin.wwwinternetvideo.click&path=%2f&allow_insecure=1#@V2ray_Collector
@@ -389,11 +390,13 @@ trojan://4732adfa16c6450bbef87264e41332db@104.17.215.18:443/?type=ws&host=jobsca
 trojan://4732adfa16c6450bbef87264e41332db@104.17.61.7:443/?type=ws&host=jobscareerfortoday.com&path=%2F6b777a91&security=tls&sni=jobscareerfortoday.com#%40Hope_Net-join-us-on-Telegram
 trojan://4785f3ca-8fa3-4717-8c81-9d19087c73a3@172.66.44.171:443/?type=ws&host=pardazeshvpn-tg104.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&sni=pardazeshvpn-tg104.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://47df6fe1-cc2a-4f26-b748-08d902272bde@172.67.201.123:443/?type=ws&host=PpAl03.arNULFO-KuNZe.worKErS.Dev&path=%2FTelegram%40V2ray_Alpha%3Fed%3D2048&security=tls&sni=PpAL03.arNUlFo-kunZE.WORkerS.dEV#%40Hope_Net-join-us-on-Telegram
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.122:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de2.dedushka.top#@meliproxyy
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.122:443?security=tls&sni=de2.dedushka.top&alpn=http%2F1.1&type=tcp&headerType=none#@meliproxyy
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de10.dedushka.top:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=de10.dedushka.top#@meliproxyy
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de2.dedushka.top:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=de2.dedushka.top#@meliproxyy
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=de6.dedushka.top#@meliproxyy
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de8.dedushka.top#@OutlineReleasedKey
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de8.dedushka.top#@meliproxyy
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=pl2.dedushka.top#@OutlineReleasedKey
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=pl2.dedushka.top#@meliproxyy
 trojan://4a3ee276-f50f-46f6-ba4d-13571732ab70@104.21.83.113:443/?type=tcp&security=tls&sni=SxcDe3.859886.XYz#%F0%9F%8F%81RELAY-104.21.83.113-0230
@@ -495,6 +498,3 @@ trojan://67828a6e-0144-4e57-8169-2447a3dd2e61@ssrsub.cloudflare.182682.xyz:8443/
 trojan://67db0c34-ae7a-4369-a6b5-554c99d8e5c9@104.21.86.106:443/?type=ws&path=%2FNuDL4mLrBwsbnEcmJLxC&security=tls&sni=M4rrT.999157.XYz#%F0%9F%8F%81RELAY-104.21.86.106-6252
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@103.116.7.20:443/?type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&security=tls&sni=icecream.955850.xyz&alpn=h3&fp=randomized#%40Hope_Net-join-us-on-Telegram
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.16.21.118:443/?type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&security=tls&sni=icecream.955850.xyz&alpn=h3&fp=randomized#%40Hope_Net-join-us-on-Telegram
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.199:443/?type=tcp&security=tls&sni=icecream.955850.xyz#%F0%9F%87%BF%F0%9F%87%A6ZA-160.123.255.199-0903
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.79.105.169:443/?type=ws&host=icecream.955850.xyz&security=tls&sni=icecream.955850.xyz#%40Hope_Net-join-us-on-Telegram
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.79.105.220:443/?type=ws&path=%2Fproxyip%3D160.79.105.220%3A443&security=tls&sni=icecream.955850.xyz#%F0%9F%87%BA%F0%9F%87%B8US-160.79.105.220-0627
