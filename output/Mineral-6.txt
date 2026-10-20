@@ -1,3 +1,5 @@
+trojan://fa050497-fc2a-45ee-89c0-96670c4ecb65@172.67.145.200:443/?type=ws&host=rrr4.8906004.xyz&path=%2FDZxb5QZyWgQPuXTwt&security=tls&sni=Rrr4.8906004.xYZ&alpn=http%2F1.1&fp=chrome#22%F0%9F%92%A7%40oneclickvpnkeys
+trojan://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.178:443/?type=tcp&security=tls
 trojan://ffcf7ec1-3e09-4821-b3d9-b426a107b73b@172.67.220.32:443/?type=ws&path=%2FXmTzATQPJv9RO3xr1D40NK&security=tls&sni=eEEfGty6.999836.XYz#%F0%9F%8F%81RELAY-172.67.220.32-0570
 trojan://fivh9CYhgT@104.21.32.1:443/?type=httpupgrade&host=esna.twn24.ir&path=%2F16338%2Fmehdi&security=tls&sni=esna.twn24.ir#%40Hope_Net-join-us-on-Telegram
 trojan://fnufMt%3AsQ&rC0HUu@172.66.44.172:2083/?type=ws&host=joinmahdiserver-6vv.pages.dev&security=tls&sni=joinmAHDIsERVER-6vv.PaGeS.dEv#%40Hope_Net-join-us-on-Telegram
@@ -496,5 +498,3 @@ trojan://tg-dns68@162.159.153.119:443/?type=ws&host=vip.putata.eu.org&path=%2F%3
 trojan://tg-dns68@162.159.153.125:443/?type=ws&host=vip.putata.eu.org&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
 trojan://tg-dns68@162.159.153.126:443/?type=ws&host=vip.putata.eu.org&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
 trojan://tg-dns68@162.159.153.128:443/?type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
-trojan://tg-dns68@162.159.153.131:443/?type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
-trojan://tg-dns68@162.159.153.13:443/?type=ws&host=vip.putata.eu.org&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
