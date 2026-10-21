@@ -21,8 +21,7 @@ https://codeberg.org/woolster2020/vc/raw/branch/main/output/.proxy-20.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/.proxy-21.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/.proxy-22.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/.proxy-23.txt
-https://codeberg.org/woolster2020/vc/raw/branch/main/output/AutoVPN-1.txt
-https://codeberg.org/woolster2020/vc/raw/branch/main/output/AutoVPN-2.txt
+https://codeberg.org/woolster2020/vc/raw/branch/main/output/AutoVPN.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/Config-Collector.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/Mineral-1.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/Mineral-2.txt
@@ -103,6 +102,7 @@ https://codeberg.org/woolster2020/vc/raw/branch/main/output/v2ray-configs-6.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/v2ray-configs-7.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/v2ray-configs-8.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/v2ray-configs-9.txt
+https://codeberg.org/woolster2020/vc/raw/branch/main/output/v2ray-configs-10.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/vify-1.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/vify-2.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/vpn-configs-for-russia_black_all.txt
