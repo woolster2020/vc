@@ -1,3 +1,8 @@
+trojan://blue2024@104.19.235.40:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
+trojan://blue2024@104.19.238.216:443/?type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560&security=tls&sni=ta.promote.icu#%F0%9F%AB%9121%40oneclickvpnkeys
+trojan://blue2024@104.19.238.246:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
+trojan://blue2024@104.19.240.154:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
+trojan://blue2024@104.19.242.185:443/?type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560&security=tls&sni=td.promote.icu#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.19.88.19:443/?type=tcp&security=tls&sni=ta.promote.icu&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.19.90.210:443/?type=ws&host=hb.lii2010.us.kg&security=tls&sni=hb.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.19.95.126:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
@@ -493,8 +498,3 @@ trojan://f0eb8c92ce8946aaba856569cff1a16b@104.17.61.6:443/?type=ws&host=jobscare
 trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.171.3:443/?type=ws&host=sherasheba.com&path=%2F6b777a91&security=tls&sni=sherasheba.com#%40Hope_Net-join-us-on-Telegram
 trojan://f0eb8c92ce8946aaba856569cff1a16b@142.202.48.220:443/?type=tcp&security=tls&sni=sherasheba.com&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://f0eb8c92ce8946aaba856569cff1a16b@sherasheba.com:443/?type=tcp&security=tls&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://f2191442-1436-3d79-801e-80d8de896c73@104.21.66.223:443/?type=tcp&security=tls&sni=jp2-july.88888802.xyz#%40Hope_Net-join-us-on-Telegram
-trojan://f282b878-8711-45a1-8c69-5564172123c1@104.21.72.109:443/?type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053&security=tls&sni=vpn.stupidworld.web.id#%40V2rayNGVPN
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443/?type=ws&host=aio.zipzap.biz.id&path=%2Faioproxybot%2F129.150.49.58-18650&security=tls&sni=aio.zipzap.biz.id#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40manzariyeh_rasht%20%5B16%5D
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443/?type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053&security=tls&sni=vpn.stupidworld.web.id&fp=chrome#%F0%9F%8E%B513%40oneclickvpnkeys
-trojan://f36f4495b4b26cc2fe346cfa23e05b1b@153.121.38.213:3093/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.38.213-0363

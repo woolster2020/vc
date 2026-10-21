@@ -1,3 +1,8 @@
+trojan://f2191442-1436-3d79-801e-80d8de896c73@104.21.66.223:443/?type=tcp&security=tls&sni=jp2-july.88888802.xyz#%40Hope_Net-join-us-on-Telegram
+trojan://f282b878-8711-45a1-8c69-5564172123c1@104.21.72.109:443/?type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053&security=tls&sni=vpn.stupidworld.web.id#%40V2rayNGVPN
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443/?type=ws&host=aio.zipzap.biz.id&path=%2Faioproxybot%2F129.150.49.58-18650&security=tls&sni=aio.zipzap.biz.id#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40manzariyeh_rasht%20%5B16%5D
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443/?type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053&security=tls&sni=vpn.stupidworld.web.id&fp=chrome#%F0%9F%8E%B513%40oneclickvpnkeys
+trojan://f36f4495b4b26cc2fe346cfa23e05b1b@153.121.38.213:3093/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.38.213-0363
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@153.121.45.139:3169/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.45.139-0375
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.144.208:3901/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.144.208-5056
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.150.76:1281/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.150.76-1763
@@ -80,6 +85,7 @@ trojan://humanity@104.18.152.204:443/?type=ws&host=www.ignitelimit.com&path=%2Fa
 trojan://humanity@104.18.152.207:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2811%29
 trojan://humanity@104.18.152.208:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2883%29
 trojan://humanity@104.18.152.210:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2829%29
+trojan://humanity@104.18.152.219:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#canfingV2rayNG-54
 trojan://humanity@104.18.152.225:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28136%29
 trojan://humanity@104.18.152.229:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2816%29
 trojan://humanity@104.18.152.230:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2822%29
@@ -492,9 +498,3 @@ trojan://tg-dns68@162.159.152.11:443/?type=ws&host=vip.putata.eu.org&security=tl
 trojan://tg-dns68@162.159.152.133:443/?type=ws&security=tls&sni=v...
 trojan://tg-dns68@162.159.152.134:443/?type=ws&security=tls&sni=v...
 trojan://tg-dns68@162.159.152.143:443/?type=ws&host=vip.putata.eu.org&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
-trojan://tg-dns68@162.159.152.149:443/?type=ws&host=vip.putata.eu.org&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
-trojan://tg-dns68@162.159.152.155:443/?type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
-trojan://tg-dns68@162.159.152.158:443/?type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-...
-trojan://tg-dns68@162.159.152.175:443/?type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
-trojan://tg-dns68@162.159.152.191:443/?type=ws&host=vip.putata.eu.org&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
-trojan://tg-dns68@162.159.152.211:443/?type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=vip.putata.eu.org&alpn=h3&fp=randomized#%40Hope_Net-join-us-on-Telegram
