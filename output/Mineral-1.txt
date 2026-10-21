@@ -155,7 +155,7 @@ hysteria2://dsmO0439gj_nX942GJRE_9j39fbcxv52_R@85.209.157.177:8080?security=tls&
 hysteria2://dsmO0439gj_nX942GJRE_9j39fbcxv52_R@85.209.157.177:8080?sni=hopp-transit.1cooldns.com&insecure=0#@OutlineReleasedKey
 hysteria2://e60bc99b-6630-4799-af84-f90ebdc643b6@94.183.170.65:443?sni=hys2.arkonsoft.top&fp=random&alpn=h3#@V2ray_Collector
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010/?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%B0
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010/?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%B0
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010/?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#HK%20%F0%9F%87%AD%F0%9F%87%B0@Freenetvt%20
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?security=tls&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&insecure=0&sni=nas.aizhzo.com#@meliproxyy
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@94.198.54.132:443/?insecure=1&sni=msk.frkn.org#@V2ray_Collector
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@94.198.54.132:443?sni=msk.frkn.org&insecure=1#@OutlineReleasedKey

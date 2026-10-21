@@ -1,3 +1,9 @@
+trojan://AA885B42-133C-3828-FB69-E45105C06092@63182sh8-4d7b.aws-agent.net:10155?security=tls&sni=m.ctrip.com#%F0%9F%87%B3%F0%9F%87%B1NL-147.90.41.95-0486
+trojan://AA885B42-133C-3828-FB69-E45105C06092@63182sh8-4d7b.aws-agent.net:11171?allowInsecure=1&sni=m.ctrip.com#%E9%9F%A9%E5%9B%BD%7C%40ripaojiedian
+trojan://AA885B42-133C-3828-FB69-E45105C06092@63182sh8-4d7b.aws-agent.net:11171?security=tls&sni=m.ctrip.com#%F0%9F%87%B3%F0%9F%87%B1NL-147.90.41.95-0489
+trojan://AA885B42-133C-3828-FB69-E45105C06092@63182sh8-4d7b.aws-agent.net:12122?allowInsecure=1&sni=m.ctrip.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
+trojan://AA885B42-133C-3828-FB69-E45105C06092@63182sh8-4d7b.aws-agent.net:12122?security=tls&sni=m.ctrip.com#%F0%9F%87%B3%F0%9F%87%B1NL-147.90.41.96-0487
+trojan://AA885B42-133C-3828-FB69-E45105C06092@7d0a2gz0-7a0c.aws-agent.net:10115?allowInsecure=1&sni=m.ctrip.com#%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
 trojan://AA885B42-133C-3828-FB69-E45105C06092@7d0a2gz0-7a0c.aws-agent.net:10115?security=tls&sni=m.ctrip.com#%F0%9F%87%B3%F0%9F%87%B1NL-147.90.41.75-0481
 trojan://AA885B42-133C-3828-FB69-E45105C06092@7d0a2gz0-7a0c.aws-agent.net:10135?allowInsecure=1&sni=m.ctrip.com#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://AA885B42-133C-3828-FB69-E45105C06092@7d0a2gz0-7a0c.aws-agent.net:10135?security=tls&sni=m.ctrip.com#%F0%9F%87%B3%F0%9F%87%B1NL-147.90.41.76-0485
