@@ -51,6 +51,7 @@ https://codeberg.org/woolster2020/vc/raw/branch/main/output/Mineral-24.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/Mineral-25.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/Mineral-26.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/Mineral-27.txt
+https://codeberg.org/woolster2020/vc/raw/branch/main/output/Mineral-28.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/OpenRay_DE.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/OpenRay_NL.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/OpenRay_SG.txt
