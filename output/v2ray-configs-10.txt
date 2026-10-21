@@ -1,5 +1,6 @@
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&sni=de6.dedushka.top#EPODONIOS
-trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com#EPODONIOS
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de2.dedushka.top:443?security=tls&sni=de2.dedushka.top#EPODONIOS
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?security=tls&sni=de8.dedushka.top#EPODONIOS
+trojan://XuMweB2PWs@2.27.109.179:45464?security=tls&sni=2.27.109.179.sslip.io#EPODONIOS
 trojan://88939272-790a-441f-b12b-8ce531aca810@polo01.kctr2038.icu:443?security=tls&sni=polo01.kctr2038.icu#EPODONIOS
 trojan://de39d941-eaf6-405d-958a-ebebe1315574@15.152.207.82:2053?security=tls&sni=wel-usgt.qchwnd.moe#EPODONIOS
 trojan://6248895b-4255-4f07-9479-d198bc1eb8db@103.195.236.24:28443?security=tls&sni=glc.hruqoaw.cn#EPODONIOS
