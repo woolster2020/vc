@@ -1,9 +1,3 @@
-trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443/?type=ws&host=edu.ruangguru.com.cyylr.eu.cc&path=%2Fid-tksi&security=tls&sni=edu.ruangguru.com.cyylr.eu.cc#5845
-trojan://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443/?type=ws&host=aksnmaioas.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&sni=aksnmaioas.pages.dev#%40Hope_Net-join-us-on-Telegram
-trojan://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.47.23:443/?type=ws&path=%2FTelegram%40V2ray_Alpha%2F%3Fe...&security=tls&sni=aksnmaioas.pages.dev
-trojan://38f169d6-d202-4b1b-8db8-e6eb1648f5cf@43.160.197.160:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-43.160.197.160-4717
-trojan://39386ab3-db28-468f-b87b-471f4ab7ca1c@170.64.130.150:443?security=tls&sni=$trxn.ballistics.top#%F0%9F%87%A6%F0%9F%87%BAAU-170.64.130.150-1743
-trojan://3BLPOJr3OY@pl.scpnb.top:50191?mode=gun&security=reality&pbk=wJIhXHD_EuOXggJz8ad6Er_SdUUhsPg9rTYwkACmuU0&fp=chrome&spx=%2F&type=grpc&sni=cloudflare.com&sid=2e#Poland%20Cloudflare
 trojan://3QRCm9YzuvrnPG7sb64xZg@superjinx-production-3aac.up.railway.app:443?path=%2Fcdn%2F82b3976f-b7c9-462d-80dd-6ee426d5a410%2Ft%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=superjinx-production-3aac.up.railway.app&fp=edge&type=ws&allowInsecure=0&sni=superjinx-production-3aac.up.railway.app#US
 trojan://3QRCm9YzuvrnPG7sb64xZg@superjinx-production-3aac.up.railway.app:443?path=/cdn/82b3976f-b7c9-462d-80dd-6ee426d5a410/t?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=superjinx-production-3aac.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=superjinx-production-3aac.up.railway.app#@ICV2RAY
 trojan://3QRCm9YzuvrnPG7sb64xZg@superjinx-production-3aac.up.railway.app:443?path=/cdn/82b3976f-b7c9-462d-80dd-6ee426d5a410/t?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=superjinx-production-3aac.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=superjinx-production-3aac.up.railway.app#EPODONIOS
@@ -498,3 +492,9 @@ trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.89.176:4054/?type=tcp&security=
 trojan://76d630f2af6619c4a5de0ef953df3c6a@202.181.103.246:2760/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.246-0980
 trojan://7778e684-f435-4166-bf9e-0256cb28bf10@15.197.162.184:443/?type=tcp&security=tls&sni=download2hkt.windowsupdate.lol#%40Hope_Net-join-us-on-Telegram
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.124.55:4054/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.124.55-1283
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.130.66:3093/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.130.66-0990
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.144.208:3145/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.144.208-1594
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.150.76:1596/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.150.76-0976
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.150.76:1596?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#Singapore%20Digital%20Ocean
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.236.32:4054/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.236.32-1374
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.63.16:4054/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.63.16-1702

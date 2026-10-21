@@ -103,7 +103,6 @@ https://gitea.com/woolster2020/vc/raw/branch/main/output/v2ray-configs-6.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/v2ray-configs-7.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/v2ray-configs-8.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/v2ray-configs-9.txt
-https://gitea.com/woolster2020/vc/raw/branch/main/output/v2ray-configs-10.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/vify-1.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/vify-2.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/vpn-configs-for-russia_black_all.txt
