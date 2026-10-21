@@ -103,7 +103,6 @@ https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/v2ray-c
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/v2ray-configs-7.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/v2ray-configs-8.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/v2ray-configs-9.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/v2ray-configs-10.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/vify-1.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/vify-2.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/vpn-configs-for-russia_black_all.txt
