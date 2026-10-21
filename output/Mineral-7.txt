@@ -1,3 +1,5 @@
+trojan://tg-dns68@162.159.152.134:443/?type=ws&security=tls&sni=v...
+trojan://tg-dns68@162.159.152.143:443/?type=ws&host=vip.putata.eu.org&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
 trojan://tg-dns68@162.159.152.149:443/?type=ws&host=vip.putata.eu.org&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
 trojan://tg-dns68@162.159.152.155:443/?type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
 trojan://tg-dns68@162.159.152.158:443/?type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-...
@@ -496,5 +498,3 @@ vless://04d31f4c-49c3-4b53-ba59-2870d509f49f@154.31.114.125:443/?type=tcp&encryp
 vless://04d31f4c-49c3-4b53-ba59-2870d509f49f@154.31.114.125:443/?type=tcp&encryption=none&sni=navi.bankrate.com&fp=chrome&security=reality&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2002
 vless://04dd5782-5e3b-43b4-b36c-e2331574ef0c@45.87.154.132:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=github.com&fp=chrome&security=reality&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#%40nekopingbot_045
 vless://04dd5782-5e3b-43b4-b36c-e2331574ef0c@72.56.92.27:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=github.com&fp=chrome&security=reality&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#%40nekopingbot_048
-vless://050c0819-d893-44da-b654-e806c0ecbff2@104.16.7.70:2082/?type=httpupgrade&encryption=none&flow=&host=DE-sNaPp.aCaDeMiGrOuP.ir.&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048#%40Hope_Net-join-us-on-Telegram
-vless://0522382d-bdb6-4756-a15d-196805b806b2@mui.firzav.ir:38465?encryption=mlkem768x25519plus.native.0rtt.8HEEcAcCbKAW7sCr74jbVX2PX8y38G_epZiCAs73qms&security=reality&type=tcp&headerType=none&sni=dl.google.com&fp=chrome&pbk=2M856PnJ9FUA3IuyirR9MLOF780c4uz9U5FPR5pLQWc&sid=776226aaf2cce930#filembad-56
