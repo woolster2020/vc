@@ -1,3 +1,7 @@
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.106.153-2360
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.229-2497
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.209-2817
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-220.128.128.151-2954
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.dp.ua:8443/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.106.153-2554
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.dp.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-220.128.128.151-2691
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.if.ua:8443/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.221.189.241-2474
