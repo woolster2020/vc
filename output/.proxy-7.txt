@@ -1,6 +1,3 @@
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@ww13.levikogjgfdd.ir:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#4FreeIran-e79c20d633
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@ww13.levikogjgfdd.ir:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#4Mohsen-39cea37749
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@ww13.levikogjgfdd.ir:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s#4Kian-e05f85626e
 vless://4908acbe-485f-4e1c-bb11-5dd04b9f7e88@104.21.90.36:443?security=tls&type=ws&path=/eyJqdW5rIjoiRjhycEV5WUpJTGZpQSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&host=restless-base-fe24.alirezahabibi20009.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=restless-base-fe24.alirezahabibi20009.workers.dev&fp=chrome&encryption=none#4Jadi-d56dd4dbbd
 vless://4908acbe-485f-4e1c-bb11-5dd04b9f7e88@restless-base-fe24.alirezahabibi20009.workers.dev:443?encryption=none&host=restless-base-fe24.alirezahabibi20009.workers.dev&path=%2FeyJqdW5rIjoiRjhycEV5WUpJTGZpQSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&type=ws#4Kian-048734208e
 vless://4908acbe-485f-4e1c-bb11-5dd04b9f7e88@restless-base-fe24.alirezahabibi20009.workers.dev:443?security=tls&type=ws&path=/eyJqdW5rIjoiRjhycEV5WUpJTGZpQSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&host=restless-base-fe24.alirezahabibi20009.workers.dev&packetEncoding=xudp&sni=restless-base-fe24.alirezahabibi20009.workers.dev&fp=chrome&encryption=none#4Kian-0b2c4c7485
@@ -21,7 +18,7 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.143.81.178:443?encryption=none&
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.143.81.178:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fp=chrome&security=tls#4Sarina-db7d00542b
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.160.59.198:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#4Mohsen-be9e5c1b43
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.160.59.198:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fp=chrome&security=tls#4Mohsen-2343b85536
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.178.205:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443#4Sarina-1da4fb0800
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.178.205:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome#4Sarina-e76cede6e7
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.178.205:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&sni=snip.edgeoneai.cc.cd&fp=chrome#4Nika-5d0b43f116
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.178.205:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443fp%3Dchrome&sni=snip.edgeoneai.cc.cd#4Mohsen-2d5062f7fd
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.178.205:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&sni=snip.edgeoneai.cc.cd#4Kian-ee5391a8da
@@ -34,18 +31,17 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.178.72:443?encryption=none&
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.178.72:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&sni=snip.edgeoneai.cc.cd&fp=chrome#4Kian-c1988e484c
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.179.171:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443#4Mohsen-69133e353e
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.179.171:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&sni=snip.edgeoneai.cc.cd&fp=chrome#4Nika-f98c051bdf
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.179.36:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome#4Kian-352731460c
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.179.36:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&sni=snip.edgeoneai.cc.cd#4Jadi-8aacb291d2
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.179.36:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&sni=snip.edgeoneai.cc.cd&fp=chrome#4Mohsen-6c593e1ffa
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.199.19.132:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#4Sarina-7f38afa097
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.199.19.132:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&sni=snip.edgeoneai.cc.cd&fp=chrome#4Nika-4d5768453d
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.199.19.132:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443fp%3Dchrome&sni=snip.edgeoneai.cc.cd#4Jadi-ac6eb70986
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.199.19.132:8443?security=tls&type=ws&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#4Kian-a340504864
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.204.174.165:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40vpn748359672.opengw.net%3A1458%3Fed%3D2560fp%3Dchrome#4Mohsen-e3676bed9f
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.204.174.165:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fdip=sstp://vpn:vpn@vpn748359672.opengw.net:1458?ed=2560fp=chromefp=chrome&security=tls#4Kian-4339589e0f
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.242.15.87:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fp=chrome&security=tls#4Sarina-a805ceac90
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.253.43.172:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#4FreeIran-13a7bfee46
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.38.236.248:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443#4Nika-1ce43f5df3
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.38.236.248:443?security=tls&type=ws&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome#4Mohsen-367d5f79ff
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.39.78.118:8443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443#4FreeIran-348df75295
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.39.78.118:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd#4FreeIran-79017582bc
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.39.78.118:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#4Kian-e0ae19767d
@@ -102,7 +98,6 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.19.53.46:443?&security=tls&fp=c
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.19.53.46:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd#4Nika-2f7a5361c9
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.19.53.46:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&sni=snip.edgeoneai.cc.cd#4Jadi-8337437d25
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.19.53.46:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fp=chrome&security=tls#4Mohsen-edc21cb94a
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.194.140.26:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome#4Sarina-63f40250f1
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.194.140.26:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd#4Sarina-9fac8a9472
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.194.140.26:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#4Kian-8a0c57ac74
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.194.140.26:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&sni=snip.edgeoneai.cc.cd#4Kian-f34731c42d
@@ -114,6 +109,7 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.24.95.193:443?&security=tls&fp=
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.24.95.193:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#4Mohsen-6983e025cb
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.24.95.193:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fp=chrome&security=tls#4Sarina-8a48639815
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.245.245.16:8443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#4Jadi-94c04ffdef
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.245.245.16:8443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome#4FreeIran-0932d3a234
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.245.245.16:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd#4Sarina-e16c73f49c
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.245.245.16:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#4Mohsen-e63353b516
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.245.245.16:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&sni=snip.edgeoneai.cc.cd#4Nika-e97e9d732d
@@ -132,11 +128,11 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@117.55.232.3:443?&security=tls&fp=c
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@117.55.232.3:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd#4Mohsen-9ee34a59fd
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@117.55.232.3:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#4Nika-63e1ddef25
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@117.55.232.3:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&sni=snip.edgeoneai.cc.cd#4Nika-00e14657bd
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@117.55.232.3:443?security=tls&type=ws&path=%2Ffp%3Dchrome&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome#4Mohsen-b18f840f8c
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@117.55.232.3:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fp=chrome&security=tls#4Sarina-f62cd73ad2
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@123.111.169.70:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#4Kian-921c20c21b
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@123.111.169.70:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&sni=snip.edgeoneai.cc.cd#4Nika-9e641ca5af
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@123.111.169.70:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchromefp%3Dchrome&sni=snip.edgeoneai.cc.cd#4Jadi-d9935555ea
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@128.1.186.61:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fp=chrome&security=tls#4Jadi-59807e771a
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@13.125.9.223:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#4Nika-b36b1593a7
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@13.140.29.253:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#4Nika-ba54c5bfca
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@13.140.29.253:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&sni=snip.edgeoneai.cc.cd#4Jadi-dfc7ae5522
@@ -154,6 +150,7 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@13.230.247.88:443?sni=snip.edgeonea
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@130.78.185.4:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#4Jadi-3966615f61
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@130.78.185.4:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&sni=snip.edgeoneai.cc.cd#4Jadi-319061f7f2
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@130.78.185.4:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fp=chrome&security=tls#4Nika-ce2ca9c51f
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@130.78.190.134:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome#4Jadi-c009c2a3dc
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@130.78.190.134:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd#4Jadi-28422f215c
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@130.78.190.134:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#4FreeIran-90ae1542a5
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@130.78.190.134:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&sni=snip.edgeoneai.cc.cd#4Jadi-ebe5ee3fd5
@@ -167,7 +164,6 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@138.124.54.223:443?encryption=none&
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@138.124.54.223:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#4Kian-fa2438945d
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@138.124.54.223:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&sni=snip.edgeoneai.cc.cd#4Kian-92811d42b1
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@138.186.140.8:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#4FreeIran-2a609780e7
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@139.100.226.187:8443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#4Sarina-d58ccc1890
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@139.100.226.187:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#4Mohsen-087ac319d2
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@139.100.226.187:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&sni=snip.edgeoneai.cc.cd&fp=chrome#4Kian-4106b7a43e
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@139.100.226.187:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443fp%3Dchrome&sni=snip.edgeoneai.cc.cd#4FreeIran-edafaef243
@@ -177,7 +173,6 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@14.137.230.82:443?sni=snip.edgeonea
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@141.98.233.6:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd#4FreeIran-c35f836e17
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@141.98.233.6:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#4FreeIran-3bb66faa70
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@141.98.233.6:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&sni=snip.edgeoneai.cc.cd#4Mohsen-022529d50e
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@141.98.41.20:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=fp%3Dunsafe#4Kian-61f5565c8e
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@141.98.41.20:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd#4Jadi-3832d91f53
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@141.98.41.20:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dunsafe&sni=snip.edgeoneai.cc.cd&fp=chrome#4FreeIran-38469a80be
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@141.98.41.20:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=fp%3Dunsafe&sni=snip.edgeoneai.cc.cd#4Jadi-74feaea139
@@ -231,6 +226,7 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@162.159.140.116:443?encryption=none
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@162.35.127.65:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd#4Kian-edaf513682
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@162.35.127.65:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#4Mohsen-68ed94dd7c
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@162.35.127.65:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&sni=snip.edgeoneai.cc.cd#4Jadi-dc0f4997a5
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@162.35.127.65:443?security=tls&type=ws&path=%2Ffp%3Dchrome&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome#4Mohsen-f93e1617f1
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@162.35.127.65:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fp=chrome&security=tls#4Jadi-c727e105bb
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@162.35.169.69:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome#4Kian-c0a7382466
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@162.35.169.69:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&sni=snip.edgeoneai.cc.cd#4FreeIran-0e57bc802d
@@ -239,6 +235,7 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@162.35.169.69:443?encryption=none&s
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@165.232.165.200:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443%3Fed%3D2560fp%3Dchromefp%3Dchrome&sni=snip.edgeoneai.cc.cd&fp=chrome#4Mohsen-2517c077dd
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@165.245.182.116:443?path=/fdip#4Mohsen-4c63c505a3
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@166.88.194.74:2087?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#4Sarina-2221bfc23d
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@166.88.194.74:2087?security=tls&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#4Sarina-6a0e1d123c
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@167.148.156.160:8443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#4Kian-852408faf8
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@167.148.156.160:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#4FreeIran-4d4eece6e5
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@167.148.156.160:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&sni=snip.edgeoneai.cc.cd#4FreeIran-fd9b936cc7
@@ -250,7 +247,6 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@167.172.97.15:443?encryption=none&s
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@172.104.81.253:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#4Jadi-35da87e939
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@172.64.144.100:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#4Nika-8da095a96b
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@172.64.150.43:443?&security=tls&fp=unsafe&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#4Mohsen-ad4d9595d9
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@172.64.150.43:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#4Nika-1be7b08f0f
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@172.64.150.43:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=unsafe&type=ws&host=snip.edgeoneai.cc.cd&path=/&headers={#4Kian-8c5cedeac6
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@172.64.150.43:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dunsafe#4Jadi-7c13e3b366
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@172.64.150.43:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd#4FreeIran-2b3b44f465
@@ -279,6 +275,7 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@172.67.75.172:443?&security=tls&fp=
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@172.67.75.172:443?sni=snip.edgeoneai.cc.cd&alpn=h3%2Ch2&type=ws&host=snip.edgeoneai.cc.cd&path=/fp=chrome&security=tls#4Sarina-04f4688808
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@172.93.188.25:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443%3Fed%3D2560fp%3Dchromefp%3Dchrome#4Mohsen-c8ec1baf43
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@173.242.51.189:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443#4Jadi-dc8f6c75e9
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@173.242.51.189:443?security=tls&type=ws&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443fp%3Dchrome&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome#4Nika-1a3781bbb5
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@173.242.51.189:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fdip=sstp://vpn:vpn@public-vpn-200.opengw.net:443fp=chrome&security=tls#4Jadi-5c2833ffef
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@177.1.187.183:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#4Kian-8eaa9dea13
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@177.1.187.183:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fp=chrome&security=tls#4Jadi-f59a200188
@@ -308,7 +305,6 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@185.230.44.200:443?encryption=none&
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@185.230.44.200:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fp=chrome&security=tls#4Sarina-e2e05bacd8
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@185.239.48.154:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#4FreeIran-0574286af4
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@185.239.48.154:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&sni=snip.edgeoneai.cc.cd&fp=chrome#4Mohsen-8aa33349a3
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@185.71.230.237:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&alpn=h3%2Ch2&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#4Nika-4be5356136
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@185.71.230.237:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&alpn=h3%2Ch2#4Nika-132b3401f4
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@185.71.230.237:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&alpn=h3%2Ch2&fp=chrome#4Kian-db57850632
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.96.6:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#4Nika-792dbb1d2a
@@ -369,6 +365,7 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.166.231.184:443?&security=tls&f
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.166.234.177:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#4Kian-074ba9744f
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.240.213.98:2053?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fp=chrome&security=tls#4FreeIran-09704f8261
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.240.213.98:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#4Sarina-63ccee5e62
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.240.213.98:8443?security=tls&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#4Nika-83a305bf54
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.255.156.218:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fp=chrome&security=tls#4FreeIran-536fc5e0f3
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.255.157.177:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#4FreeIran-a814c874a0
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.255.157.188:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#4Sarina-4266c26ce2
@@ -386,6 +383,7 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@194.127.192.138:443?encryption=none
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@194.127.192.138:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#4Kian-1353b5a848
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@194.127.192.138:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&sni=snip.edgeoneai.cc.cd#4FreeIran-445b244ee7
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@194.127.192.138:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&sni=snip.edgeoneai.cc.cd&fp=chrome#4Jadi-173e82d9cb
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@194.127.192.138:443?security=tls&type=ws&path=%2Ffp%3Dchrome&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#4Jadi-9a770d1708
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@194.127.192.138:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fp=chromefp=chrome&security=tls#4Sarina-a45a940efd
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@194.135.119.82:2053?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#4Jadi-309f5313d4
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@194.135.119.82:2053?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&sni=snip.edgeoneai.cc.cd#4Sarina-63086cba43
@@ -423,7 +421,6 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@203.88.117.190:443?encryption=none&
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@203.88.117.190:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&sni=snip.edgeoneai.cc.cd#4Mohsen-8e3e94b5ce
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@203.88.117.190:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&sni=snip.edgeoneai.cc.cd&fp=chrome#4Kian-d8e40d90e8
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@203.88.117.190:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fp=chrome&security=tls#4Kian-00164d2ecc
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@203.88.117.227:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#4Kian-8ec228cca0
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@203.88.117.227:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd#4Mohsen-b4a4c6f963
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@203.88.117.227:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#4Mohsen-c888d301d5
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@203.88.117.227:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fp=chrome&security=tls#4Sarina-ee9e194c2d
@@ -455,7 +452,6 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@31.70.89.136:8443?encryption=none&s
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@31.70.89.136:8443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fdip=sstp://vpn:vpn@vpn748359672.opengw.net:1458?ed=2560fp=chromefp=chrome&security=tls#4Mohsen-eaf397fddd
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@31.77.126.2:443?path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40vpn748359672.opengw.net%3A1458%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=snip.edgeoneai.cc.cd&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#4Nika-fc031a2f2c
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@31.77.126.2:443?path=/fdip=sstp://vpn:vpn@vpn748359672.opengw.net:1458?ed=2560&security=tls&alpn=http/1.1&encryption=none&fm={"tcp":#4Jadi-5d6c7671be
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@31.77.126.2:443?security=tls&type=ws&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40vpn748359672.opengw.net%3A1458%3Fed%3D2560&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&alpn=http%2F1.1&sni=snip.edgeoneai.cc.cd&fp=unsafe&encryption=none#4FreeIran-074c2ed8b6
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@38.147.163.239:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&sni=snip.edgeoneai.cc.cd#4Kian-f70385e01e
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@38.207.179.77:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#4Nika-044fbb31f7
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@38.55.192.169:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#4Jadi-461c645183
@@ -484,6 +480,7 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@45.61.149.205:8443?encryption=none&
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@45.61.149.205:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&sni=snip.edgeoneai.cc.cd&fp=chrome#4Nika-fedd7a0dd2
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@45.61.149.205:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443fp%3Dchrome&sni=snip.edgeoneai.cc.cd#4FreeIran-fb2d1decae
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@45.61.149.205:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443fp%3Dchrome&sni=snip.edgeoneai.cc.cd&fp=chrome#4Kian-45e3b51007
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@45.61.149.205:8443?security=tls&type=ws&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome#4Nika-c3cdb6134d
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@45.61.149.205:8443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fdip=sstp://vpn:vpn@public-vpn-200.opengw.net:443fp=chrome&security=tls#4Kian-917c6800a2
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@45.76.70.251:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#4Mohsen-0309f4a315
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@45.77.131.33:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#4Nika-8d8f6617d9
@@ -498,3 +495,6 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@5.188.33.40:443?encryption=none&sec
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@5.223.70.20:8443?path=/&security=tls&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#4Sarina-afee4cd4bf
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@52.197.219.243:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&sni=snip.edgeoneai.cc.cd&fp=chrome#4Mohsen-c495a77b67
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@57.131.153.153:2053?path=/&security=tls&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#4Mohsen-361f2d1993
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@60.130.209.253:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd#4Kian-982cda765c
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@60.130.209.253:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#4FreeIran-d33b9f42a1
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@60.130.209.253:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&sni=snip.edgeoneai.cc.cd#4Kian-3d1367f435

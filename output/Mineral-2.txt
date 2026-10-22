@@ -1,3 +1,4 @@
+trojan://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2096/?type=ws&host=1223-9ux.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&sni=1223-9ux.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro000.instconn.com:443/?type=tcp&security=tls&sni=hkip5.686911.xyz#%F0%9F%87%AD%F0%9F%87%B0HK-103.102.6.96-0381
 trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro006.instconn.com:443/?type=tcp&security=tls&sni=torontorm1.686911.xyz#%F0%9F%87%A8%F0%9F%87%A6CA-132.145.97.52-1793
 trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro010.instconn.com:443/?type=tcp&security=tls&sni=frankfurtrm2.686911.xyz#%F0%9F%87%A9%F0%9F%87%AADE-130.61.231.169-0427
@@ -497,4 +498,3 @@ trojan://MITIVPN@openai.com:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40Mi
 trojan://MITIVPN@www.speedtest.net:443/?type=ws&host=germany.App-Cloud.ir&path=%2FMiTiVPN%3DDe&security=tls&sni=germany.App-Cloud.ir&alpn=http%2F1.1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping%3A77.66ms
 trojan://MITIVpN@199.232.78.101:443?type=ws&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&path=%2F&security=tls&alpn=http%2F1.1&fp=chrome&sni=ssl.fastly.com#@V2ray_Collector
 trojan://MItIVPN@199.232.78.160:443?host=mitivpn---ss--s---mitivpn-55e.global.ssl.fastly.net&security=tls&sni=ssl.fastly.com&type=ws#@OutlineReleasedKey
-trojan://McCPa4vups6yAdDbGokjPA@104.21.22.66:2096/?type=tcp&security=tls

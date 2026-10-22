@@ -1,3 +1,4 @@
+trojan://McCPa4vups6yAdDbGokjPA@104.21.22.66:2096/?type=tcp&security=tls
 trojan://McCPa4vups6yAdDbGokjPA@172.67.203.79:2096/?type=ws&host=ge1.pandaservice.info&security=tls&sni=ge1.pandaservice.info&fp=chrome...
 trojan://MiTIVPN@167.82.76.7:443?host=mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net&path=%2F&security=tls&sni=ssl.fastly.com&type=ws#@V2ray_Collector
 trojan://MiTIVPN@167.82.76.7:443?security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2ray_Collector
@@ -497,4 +498,3 @@ trojan://NuL1nBAAaM@172.67.161.74:2083/?type=ws&host=support.sabapardaziran.ir&p
 trojan://OWB0%3DfZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&host=t.me%2Fv2Line&headerType=none&fp=chrome&type=tcp&sni=temporaltortellini.click#Argentina%20Koupu%20cloud
 trojan://POORIARED@172.67.134.185:443/?type=tcp&security=tls&sni=reDfRee8.REDFree8.ir#%F0%9F%8F%81RELAY-172.67.134.185-3001
 trojan://PQ05174892@moral-dolphin.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
-trojan://PU3f7528NtNXnQqb9X263rGSD@195.133.11.229:443/?type=ws&host=get.fragmentary.info&path=%2Fsocks5tobefree&security=tls&sni=get.fragmentary.info#%40Hope_Net-join-us-on-Telegram

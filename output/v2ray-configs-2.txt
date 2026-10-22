@@ -1,7 +1,3 @@
-vless://07bb42be-e632-4e5f-a3d7-228724486792@iraclud.falnexa.ir:26267?security=none&encryption=mlkem768x25519plus.native.0rtt.TTIMrfaScuBu4nbv7kLxAN8qEWifrY6XS454f5KA3Us&headerType=none&type=tcp#EPODONIOS
-vless://07bb42be-e632-4e5f-a3d7-228724486792@v2ray_configs_pools.vokral.ir:8082?security=none&encryption=mlkem768x25519plus.native.0rtt.XOW07Zip2CFDOtfx32TYqy6VsLT10XB-_xVnXxdwfxA&headerType=none&type=tcp#EPODONIOS
-vless://0803fc94-25f9-42db-9e6b-dd1418ae50ec@47.129.185.35:49805?security=reality&encryption=none&pbk=KhyeJbZtFAik5Mx1K_AQMIEK_MPwQnwUwSe-jTjq8yU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=4a753538b6a9eee9#EPODONIOS
-vless://080fad7c-ff4b-499f-ab5d-52d69ea5745a@185.207.197.12:80?path=/pyip&security=&encryption=none&host=calm-tree-22b0.215-d2a.workers.dev&type=ws#EPODONIOS
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.130.42:1000?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.114:1000?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.252:1000?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
@@ -498,3 +494,7 @@ vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@104.21.51.196:8443?path=/&security=
 vless://2e2e204a-7e61-48fb-8182-5955821e8da0@31.57.185.220:443?path=/&security=&encryption=none&type=ws#EPODONIOS
 vless://2e2e204a-7e61-48fb-8182-5955821e8da0@31.57.185.220:443?security=none&encryption=none&path=/&type=ws#EPODONIOS
 vless://2e305ebe-f6e6-4689-b32f-cd04ab5ff541@188.114.96.9:443?path=/vl/9yvcoLdzdOXLUYfH7r5gwJhu1CHrj&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=idb8onmvbntuyt5t7t6cejfw8vlrb.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=IdB8ONMVbntuYT5t7t6cEJfw8vLrb.paGEs.DeV#EPODONIOS
+vless://2e3471c1-9eb0-4810-aec3-09c1118d2dfc@104.16.241.253:80?encryption=none&security=none&type=ws&host=morning-wildflower-70dd-ppal03.xotocip989.workers.dev&path=/?ed=2560#EPODONIOS
+vless://2e3471c1-9eb0-4810-aec3-09c1118d2dfc@104.24.196.67:80?encryption=none&security=none&type=ws&host=morning-wildflower-70dd-ppal03.xotocip989.workers.dev&path=/?ed=2560#EPODONIOS
+vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?path=/&security=none&encryption=none&type=ws#EPODONIOS
+vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.glitchout.ir:443?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
