@@ -1,3 +1,4 @@
+vless://498a8e0a-e40d-418b-8209-e6e437e97d83@104.20.7.154:2053?path=/ws&security=tls&encryption=none&insecure=0&host=prisonvpnc.n8xyd0tsxn-b25.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=prisonvpnc.n8xyd0tsxn-b25.workers.dev#EPODONIOS
 vless://498a8e0a-e40d-418b-8209-e6e437e97d83@104.21.44.121:2096?path=/ws&security=tls&encryption=none&insecure=0&host=prisonvpnc.n8xyd0tsxn-b25.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=prisonvpnc.n8xyd0tsxn-b25.workers.dev#EPODONIOS
 vless://498a8e0a-e40d-418b-8209-e6e437e97d83@104.21.44.121:443?path=/ws&security=tls&encryption=none&insecure=0&host=prisonvpnc.n8xyd0tsxn-b25.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=prisonvpnc.n8xyd0tsxn-b25.workers.dev#EPODONIOS
 vless://498a8e0a-e40d-418b-8209-e6e437e97d83@172.66.176.233:2087?path=/ws&security=tls&encryption=none&insecure=0&host=prisonvpnc.n8xyd0tsxn-b25.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=prisonvpnc.n8xyd0tsxn-b25.workers.dev#EPODONIOS
@@ -497,4 +498,3 @@ vless://69eb5502-0090-47be-a602-2c61c2074d93@tamiiiiz.aryan-sport.ir:2095?encryp
 vless://69eb5502-0090-47be-a602-2c61c2074d93@wwww.qarvian.ir:443?encryption=none&security=tls&sni=firefox.com&insecure=0&allowInsecure=0&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=albaniaoijji.global.ssl.fastly.net#EPODONIOS
 vless://69eb5502-0090-47be-a602-2c61c2074d93@wwww.qarvian.ir:443?encryption=none&security=tls&sni=firefox.com&insecure=0&allowInsecure=0&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=snaanjaai.global.ssl.fastly.net#EPODONIOS
 vless://6a2aff19-ff1f-4a13-96c8-a4d8986a9699@78.159.246.179:2053/?type=xhttp&encryption=none&flow=&security=tls&sni=randomquaint.net&alpn=http/1.1,h2&fp=chrome#EPODONIOS
-vless://6a2aff19-ff1f-4a13-96c8-a4d8986a9699@78.159.246.85:2053/?type=tcp&encryption=none&flow=&security=tls&sni=fitindoor.net&alpn=http/1.1,h2&fp=chrome#EPODONIOS

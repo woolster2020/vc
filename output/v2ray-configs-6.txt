@@ -1,3 +1,4 @@
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#EPODONIOS
 vless://932b2343-2a3b-45c2-9699-7642a85abdc1@43.249.72.254:443?vcn=default.ssl.fastly.net&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=henzoo.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net&path=/?B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub#EPODONIOS
 vless://933812be-308b-4d73-8628-bc0d1da59417@download.yasinyones.ir:2083?path=/my-panel&security=tls&alpn=http/1.1&encryption=none&host=download.yasinyones.ir&fp=chrome&type=ws&sni=download.yasinyones.ir#EPODONIOS
 vless://933812be-308b-4d73-8628-bc0d1da59417@media.jarorobo.ir:8086?security=reality&encryption=none&pbk=askIXUa5VeTX_Rp2Deaqt_OZRhdW93K3opxcP6ycMB8&headerType=none&fp=chrome&spx=/c86ebd3e23a9cc6&type=tcp&sni=intel.com&sid=bccb3f59#EPODONIOS
@@ -253,7 +254,6 @@ vless://a04c750d-3b71-493b-b2c1-6473ff1209dd@138.124.251.146:23202?mode=auto&sec
 vless://a04c750d-3b71-493b-b2c1-6473ff1209dd@138.124.251.146:8443?security=reality&encryption=none&pbk=7ir7yQsY_ua6Kwita5_03iGZHhi1hWgjhVingIgtSXk&headerType=none&fp=chrome&spx=/0f6ac3bda1db9c4&type=tcp&sni=npdev.uk&sid=9495c26eb75f2d#EPODONIOS
 vless://a04c750d-3b71-493b-b2c1-6473ff1209dd@185.255.178.28:8443?security=reality&encryption=none&pbk=pbsZ_WKQppqB0qF2zgcgwRhy8wnRtPy26sDDp3uqxl4&headerType=&fp=chrome&spx=/0f6ac3bda1db9c4&type=tcp&sni=npdev.uk&sid=b7e3f4bc485bc37b#EPODONIOS
 vless://a04c750d-3b71-493b-b2c1-6473ff1209dd@31.77.8.250:8443?security=reality&encryption=none&pbk=jOTeBTdLqbXCaVGTVRqEQVBYsblw1JIX99epK8-Yqx0&headerType=none&type=tcp&sni=npdev.uk&sid=b98ef0eef6#EPODONIOS
-vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?encryption=none&security=none&type=tcp#EPODONIOS
 vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://a0624d3f-79dd-455e-b06f-1f87957bdea0@46.8.230.143:8443?encryption=none&security=reality&sni=www.sony.ie&fp=chrome&pbk=W346cXA49I0T8FDlWGyH7qTidk1IR1r-0BQrJm6cjD8&sid=85cd&spx=/621de6b73e8bf3c&type=tcp&headerType=none#EPODONIOS
 vless://a0624d3f-79dd-455e-b06f-1f87957bdea0@46.8.230.143:8443?security=reality&encryption=none&pbk=W346cXA49I0T8FDlWGyH7qTidk1IR1r-0BQrJm6cjD8&headerType=none&fp=chrome&spx=/621de6b73e8bf3c&type=tcp&sni=www.sony.com.hn&sid=85cd#EPODONIOS
