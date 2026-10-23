@@ -1,3 +1,4 @@
+trojan://slch2024@199.34.230.87:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-199.34.230.87-0710
 trojan://slch2024@199.68.156.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-199.68.156.195-0600
 trojan://slch2024@199.68.156.87:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-199.68.156.87-0709
 trojan://slch2024@205.233.181.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-205.233.181.195-0597
@@ -497,4 +498,3 @@ vless://0333b495-1f8b-4d75-be2e-11c023bf78e5@upload.ir:80/?type=ws&encryption=no
 vless://033a4982-a8c7-4bfb-9481-5a8a1c62cfd6@104.21.93.95:80/?type=ws&encryption=none&flow=&host=azadnet.b0b723a182.workers.dev&path=%2FiDE2j5JJnqTGPjmS%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.93.95%3A80
 vless://0343e230-5132-4e98-844e-b42ad1a6a273@104.18.26.94:443/?type=ws&encryption=none&flow=&host=nptian.xiaotianvpn.sbs#%40Hope_Net-join-us...
 vless://0357473a-694e-4aaa-af1b-c8e198b1b443@104.16.1.106:8080/?type=tcp&encryption=none&flow=#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayopen%20%5B17%5D
-vless://03695e31-89d2-4cce-9d7e-3e61d9d80f22@159.195.4.83:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=live.com&alpn=h2&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#%40nekopingbot_034
