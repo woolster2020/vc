@@ -1,3 +1,5 @@
+trojan://5c8c8b61-9b24-4c5a-b6ad-f6560df2e9d3@89.28.236.243:443/?type=tcp&security=tls&sni=joss.gpj1.web.id#%F0%9F%87%A9%F0%9F%87%B0DK-89.28.236.243-1201
+trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@bbbnmkl.taiwan2028.indevs.in:443/?type=ws&path=%2FhV829BTVzg35A6ueyyZnWd&security=tls&sni=bBbNmKl.TAIwAn2028.IndEvs.In#%F0%9F%8F%81RELAY-172.67.175.152-0935
 trojan://5fb072e0ddd631cf66cf752b09210480@13.231.234.230:544/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1&fp=chrome#https%3A%2F%2Ft.me%2Fallproconf
 trojan://5fb072e0ddd631cf66cf752b09210480@160.16.214.104:3423/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.214.104-0900
 trojan://5fb072e0ddd631cf66cf752b09210480@202.181.103.246:3076/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.246-0901
@@ -496,5 +498,3 @@ trojan://HdsUZmsHQW@148.113.141.99:443/?type=tcp&security=tls#%F0%9F%87%A8%F0%9F
 trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443/?type=tcp&security=tls&sni=fra34.tracker-ws.click#%F0%9F%87%A9%F0%9F%87%AADE-91.233.8.25-0218
 trojan://IY4gWQIsHV@104.21.64.1:2087/?type=httpupgrade&host=esna.twn24.ir&path=%2Fmehdi&security=tls&sni=esna.twn24.ir&alpn=http%2F1.1&fp=random#%40Hope_Net-join-us-on-Telegram
 trojan://IY4gWQIsHV@172.67.202.155:2087/?type=httpupgrade&host=Freedomisnear.onetwothree12...&security=tls&sni=Freedomisnear.onetwothree123.ir
-trojan://KsMF5kLudbU3@104.21.44.185:2087/?type=ws&host=econews.onetwothree123.ir&path=%2F%F0%9F%86%94%40M3HDIO1&security=tls&sni=econews.onetwothree123.ir#%E2%9B%B3%EF%B8%8F46%40oneclickvpnkeys
-trojan://Lar3HXz16D@104.21.48.1:443/?type=grpc&security=tls&sni=tabnak.twn24.ir#%40Hope_Net-join-us-on-Telegram
