@@ -1,3 +1,4 @@
+vless://dd688bb9-41d9-4eb7-b5eb-6175f612cdb6@n1.fazelino.site:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=api.fazelino.site&type=ws&headerType=none&host=api.fazelino.site&path=%2Fapi%2Fget#🇳🇱[openproxylist.com] vless-NL
 vless://58b06206-cd53-23d6-279a-0f0dd259cb0a@uiuxtestsdcv-development-r6dg9.lucity.app:443?allowInsecure=0&fp=chrome&host=uiuxtestsdcv-development-r6dg9.lucity.app&insecure=0&alpn=http/1.1&security=tls&type=ws&sni=uiuxtestsdcv-development-r6dg9.lucity.app&path=/ws/58b06206-cd53-23d6-279a-0f0dd259cb0a&encryption=none#🇩🇪[openproxylist.com] vless-DE
 vless://f7376394-cd54-11f1-bb6a-bff6d0326f6a@194.36.37.59:10004?type=ws&path=/vpnjantit#🇦🇲[openproxylist.com] vless-AM
 vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@mci.amir12.ir:2112?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=p8pUe3hwND5rhAti-yRQ5qMaIkNdhxOV1K1jpbtJlEQ&sid=125ba3&allowInsecure=1#🇩🇪[openproxylist.com] vless-DE
@@ -39,7 +40,6 @@ vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?sni=ccc.010304.xyz
 vless://c7c27192-60a5-4ce1-b613-95270d82309d@5.253.29.254:14430?sni=5.253.29.254&type=ws&host=5.253.29.254&path=/vless#🇮🇳[openproxylist.com] vless-IN
 vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:14430?security=none&type=ws&path=%2Fvless&host=45.138.100.248&packetEncoding=none&sni=45.138.100.248#🇺🇸[openproxylist.com] vless-US
 trojan://XuMweB2PWs@2.27.109.179:45464?security=tls&sni=2.27.109.179.sslip.io#🇭🇰[openproxylist.com] trojan-HK
-vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#🇨🇦[openproxylist.com] vless-CA
 vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?type=ws&path=/vless#🇮🇳[openproxylist.com] vless-IN
 vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?path=/&security=tls&encryption=none&host=ccc.010304.xyz&type=ws&sni=ccc.010304.xyz#🇪🇸[openproxylist.com] vless-ES
 vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?encryption=none&path=%2Fvless&security=none&type=ws#🇸🇪[openproxylist.com] vless-SE
@@ -50,7 +50,6 @@ vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?encryption=none&ho
 vless://b62e3646-b84d-443c-9c94-718b646502e0@webdisk.jaggyslawa.org:443?security=reality&encryption=none&pbk=zfsjt2A8ur0qHWIuCG7F9W4wZN3VTuL6fkTljC-9R0s&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.foxsports.com&sid=dda5f542d835#🇫🇮[openproxylist.com] vless-FI
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:21033?security=reality&encryption=none&pbk=EG-jzQw1RyOwAM4L9rMKondSx7cyFmPyv1OP7xXkIk4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.kaidee.com&sid=cbd39bea0805e2#🇹🇭[openproxylist.com] vless-TH
 vless://d342d11e-d224-4463-b982-532309285094@77.110.97.245:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chromesecurity=tls#🇫🇮[openproxylist.com] vless-FI
-vless://235e318a-8bcb-4480-b256-7b65cc5d0b0a@forwarded.frnhk.xyz:46001?&type=ws&headerType=none&host=forwarded.frnhk.xyz&path=%2Fuk1023#🇬🇧[openproxylist.com] vless-GB
 trojan://humanity@219.76.13.177:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;fm=tlshello-0-len&amp;insecure=0&amp;host=www.pleadcourt.org&amp;fp=unsafe&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#🇳🇱[openproxylist.com] trojan-NL
 trojan://humanity@46.62.204.134:443?allowInsecure=0&sni=www.pleadcourt.org&alpn=http/1.1&type=ws&host=www.pleadcourt.org&path=/assignment#🇳🇱[openproxylist.com] trojan-NL
 trojan://humanity@31.57.190.34:443?allowInsecure=0&sni=www.pleadcourt.org&alpn=http/1.1&type=ws&host=www.pleadcourt.org&path=/assignment#🇳🇱[openproxylist.com] trojan-NL
@@ -62,7 +61,7 @@ vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?path=/fp=chrome&se
 vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?security=reality&encryption=none&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jp3.nztvpn.com&sid=ea36c03d86f91287#🇯🇵[openproxylist.com] vless-JP
 vless://d342d11e-d224-4463-b982-532309285094@77.110.97.245:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#🏳[openproxylist.com] vless-
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@us3-2.998998.best:443?allowInsecure=1&host=nat3.xxai.dpdns.org&path=%2Fanyway&security=tls&sni=nat3.xxai.dpdns.org&type=ws#🇺🇸[openproxylist.com] trojan-US
-vless://37615d66-5467-44a3-bc23-f2c3bef7f761@tk1.high-speed-test-56424.me:443?security=reality&type=tcp&packetEncoding=xudp&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=21270a66&pbk=p8VhFzvFOBAhWAEAeWmwDxT3xBSRsGYixqi0qnLFnBM&encryption=none#🏳[openproxylist.com] vless-
+vless://37615d66-5467-44a3-bc23-f2c3bef7f761@tk1.high-speed-test-56424.me:443?security=reality&encryption=none&pbk=p8VhFzvFOBAhWAEAeWmwDxT3xBSRsGYixqi0qnLFnBM&headerType=none&fp=chrome&spx=/a6f16ebc763b16c&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=21270a66#🏳[openproxylist.com] vless-
 vless://1c81f6d3-5771-4c5d-9fdd-1655eff50634@95.216.27.15:2053?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=4nfogj5mHqNowtSn_2sXS3xTX8vcH75rFEU2BWvyekM&sid=d368b94e275ab080&type=tcp&headerType=none#🇫🇮[openproxylist.com] vless-FI
 vless://51a1fd52-fd88-4905-a976-35e44be28e4b@2.26.225.89:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pl.flen-vpn.xyz#🇵🇱[openproxylist.com] vless-PL
 trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?sni=139.180.146.200#🇸🇬[openproxylist.com] trojan-SG
