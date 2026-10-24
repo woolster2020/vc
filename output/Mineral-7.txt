@@ -1,3 +1,4 @@
+trojan://slch2024@192.65.217.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-192.65.217.195-0640
 trojan://slch2024@192.65.217.87:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-192.65.217.87-0745
 trojan://slch2024@193.227.99.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-193.227.99.195-0631
 trojan://slch2024@193.227.99.87:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-193.227.99.87-0737
@@ -497,4 +498,3 @@ vless://0132166f-e702-48ed-a9e7-b07af768faf8@92.53.189.251:8880/?type=ws&encrypt
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@94.247.142.251:8880/?type=ws&encryption=none&flow=&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560fp%3Dchrome#28%F0%9F%8D%BF%40oneclickvpnkeys
 vless://014f817e-b200-4e6f-bfda-2c1cbf05aa6a@185.143.232.201:80/?type=ws&encryption=none&flow=&path=%2F#%40Hope_Net-join-us-on-Telegram
 vless://0167ff76-5442-43b0-a39b-4bfdc8c03e1c@ssl-shell-zirsaket.rovfelo.ir:443?mode=auto&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2Fconfigure%2Fservices%2FvzQ6lbMCPkOKGnZN5uJR3e%2Fversions%2F2%2Fdomains&security=tls&encryption=none&insecure=0&host=mmdshshur-name.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=0&sni=google.com#@meliproxyy
-vless://016f56be-21ba-4c39-aa3d-2cc2c3ea9929@104.18.10.57:8880/?type=ws&encryption=none&flow=&host=r-one.lat&path=%2FeyJqdW5rIjoicXNuOHJDRXhEdyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3Fed%3D2560%3FTELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN#%40filembad
