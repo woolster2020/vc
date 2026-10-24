@@ -1,3 +1,5 @@
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@38.207.177.113:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&sni=snip.edgeoneai.cc.cd&fp=chrome#4Jadi-7d3238f30e
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@38.207.179.77:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#4Nika-044fbb31f7
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@38.55.192.169:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#4Jadi-461c645183
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@40.233.99.248:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fp=chrome&security=tls#4Jadi-8470c8c953
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@43.154.165.40:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#4Nika-97b94ac5b8
@@ -496,5 +498,3 @@ vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@104.21.70.21:8080?security=none&typ
 vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@164.92.239.67:443?encryption=none&host=cf3.schzyc.cc.cd&path=%2Fproxyip%3DProxyIP.CMLiussss.netfp%3Dchrome&security=tls&sni=cf3.schzyc.cc.cd&type=ws#4Nika-3529005d1b
 vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@164.92.239.67:443?encryption=none&host=cf3.schzyc.cc.cd&path=/proxyip=ProxyIP.CMLiussss.netfp=chrome&security=tls&sni=cf3.schzyc.cc.cd&type=ws#4Kian-9707a0582c
 vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@188.114.97.6:8080?encryption=none&host=refighehosein.salamdadash123.workers.dev&path=/&sni=refighehosein.salamdadash123.workers.dev&type=ws#4FreeIran-df01d4fe14
-vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@188.114.97.6:8080?security=none&type=ws&path=/&host=refighehosein.salamdadash123.workers.dev&packetEncoding=xudp#4Mohsen-1037515743
-vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@188.114.97.6:8080?security=none&type=ws&path=/&host=refighehosein.salamdadash123.workers.dev&packetEncoding=xudp&sni=refighehosein.salamdadash123.workers.dev&encryption=none#4Mohsen-2d4a852f2f

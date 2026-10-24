@@ -283,6 +283,7 @@ vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=no
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&type=ws&path=/&host=uae.unixzone.us&packetEncoding=xudp&sni=uae.unixzone.us#4Mohsen-9297940775
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?sni=uae.unixzone.us&type=ws&host=uae.unixzone.us&path=/#4Sarina-198be592b8
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?type=ws&host=uae.unixzone.us&path=/#4Mohsen-4243a303c0
+vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=none&security=&type=tcp#4Jadi-e01e00858e
 vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=none&security=none&type=tcp#4Jadi-4b9a183508
 vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=none&type=tcp#4Sarina-6e0013da7e
 vless://39a192ed-7e78-42f4-b956-2f0ea17f677f@172.64.34.99:443?path=%2Frbjisuws&security=tls&encryption=none&insecure=0&host=639018301854287215.camry-amsjk.info&fp=chrome&type=ws&allowInsecure=0&sni=639018301854287215.camry-amsjk.info#4FreeIran-1d5afae460
@@ -497,4 +498,3 @@ vless://401d950d-4f5c-45c7-bf44-8b69acf35f6f@www.speedtest.net:443?security=tls&
 vless://402cf4cd-287c-4774-954e-c84a6a233fa5@70.34.214.175:10995?mode=auto&path=%2F&security=reality&encryption=none&pbk=2ztwuXmy5ttCN-IqWid22abpZFRqcj9aUalL6B8Kxlw&fp=chrome&spx=%2F&type=xhttp&sni=cloudflare.com&sid=43d9#4Nika-443eda07e9
 vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.204.84:2053?security=tls&type=ws&sni=itcenteriran.blog&path=/p=19&encryption=none&headerType=none#4Sarina-6623336671
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#4Mohsen-384b32c191
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.site&sid=00000000#4Mohsen-09ae7caf14

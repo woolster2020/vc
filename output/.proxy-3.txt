@@ -1,4 +1,3 @@
-vless://1d16c6e0-1bbe-435b-b661-90043fee999c@185.193.29.123:443?allowInsecure=0&sni=notls.lukongtou.eu.org&type=ws&host=notls.lukongtou.eu.org&path=Telegram-WangCai2🇨🇳security=tls#4Mohsen-407b65e312
 vless://1d16c6e0-1bbe-435b-b661-90043fee999c@185.193.29.123:443?encryption=none&security=tls&sni=notls.lukongtou.eu.org&insecure=0&allowInsecure=0&type=ws&host=notls.lukongtou.eu.org&path=Telegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3#4Nika-bd8347c9fc
 vless://1d16c6e0-1bbe-435b-b661-90043fee999c@38.47.96.220:11424?encryption=none&security=tls&sni=notls.lukongtou.eu.org&insecure=0&allowInsecure=0&type=ws&host=notls.lukongtou.eu.org&path=Telegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3#4Mohsen-0743bab79f
 vless://1d16c6e0-1bbe-435b-b661-90043fee999c@89.125.244.28:443?encryption=none&security=tls&sni=notls.lukongtou.eu.org&insecure=0&allowInsecure=0&type=ws&host=notls.lukongtou.eu.org&path=Telegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3#4Nika-c742665d25
@@ -498,3 +497,4 @@ vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@45.151.30.127:9873?encryption=none&
 vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@45.151.30.127:9873?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#4Kian-f9b427e28f
 vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512#4Jadi-b3a418d7f9
 vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reality&amp;encryption=none&amp;pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.intel.com&amp;sid=e692a8250d2e2fd0#4Nika-670a62092a
+vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reality&encryption=none&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#4Nika-2cc015ddbe

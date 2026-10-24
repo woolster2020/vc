@@ -1,3 +1,5 @@
+trojan://slch2024@194.152.44.87:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-194.152.44.87-0732
+trojan://slch2024@194.36.55.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-194.36.55.195-0628
 trojan://slch2024@194.36.55.87:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-194.36.55.87-0736
 trojan://slch2024@194.53.53.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-194.53.53.195-0627
 trojan://slch2024@194.53.53.87:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-194.53.53.87-0735
@@ -496,5 +498,3 @@ vless://01896982-f9df-4bd5-8f32-914253db2e61@51.250.0.147:443/?type=tcp&encrypti
 vless://01970283-51b9-4ad4-96ef-9dfc8ee3dd74@162.159.136.234:2053/?type=grpc&encryption=none&flow=&serviceName=2053vless&security=tls&sni=sub1.ailreza.org.tr&fp=chrome#%40Hope_Net-join-us-on-Telegram
 vless://01970283-51b9-4ad4-96ef-9dfc8ee3dd74@194.76.18.253:2087/?type=grpc&encryption=none&flow=&serviceName=%F0%9F%91%A8%E2%80%8D%F0%9F%9A%80Free%F0%9F%91%A8%E2%80%8D%F0%9F%9A%80&security=tls&sni=qauuf2.telzirrr.com.tr&fp=chrome#%40Hope_Net-join-us-on-Telegram
 vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?security=reality&encryption=none&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=co-de.speedtec.ru&sid=226509f017e4c36d#@meliproxyy
-vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@co-a.speedtec.ru:443?security=reality&encryption=none&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=co-pl.speedtec.ru&sid=226509f017e4c36d#@meliproxyy
-vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80/?type=ws&encryption=none&flow=&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=%2F#%40v2ray_configs_pool
