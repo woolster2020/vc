@@ -1,3 +1,5 @@
+vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.77.114.114:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&host=/?TELEGRAMv2ray_configs_pools&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.vk.me&sid=db04ce8bdb8900f1#EPODONIOS
+vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@31.77.114.114:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&host=/@Net2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=api.vk.me&sid=db04ce8bdb8900f1#EPODONIOS
 vless://adcaa148-7c66-4282-a81a-99ec8afa029d@82.118.19.153:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=670ed9f350bd8ee0&pbk=Tiuy8om5Lk0pWL95-8LaFFTwH0vbURVMoOkaW9xGaiE#EPODONIOS
 vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?security=&encryption=none&headerType=&type=tcp#EPODONIOS
 vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@83.143.106.4:443?mode=auto&path=/&security=reality&encryption=none&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&fp=chrome&type=xhttp&sni=res.cdn.office.net#EPODONIOS
@@ -496,5 +498,3 @@ vless://d39664df-5bc0-4f49-9894-8f03b4150082@germany-vip.soft26.ir:8443?mode=aut
 vless://d4886e2c-b62c-4be1-80a3-7f6ede62fdce@dearb.moon-night.ir:443?security=reality&encryption=none&pbk=dMBDL7ry94pavIxYmzimeyaCqor6fUNb0v3dzHif9xY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=e64e9f5eefbffc15#EPODONIOS
 vless://d4886e2c-b62c-4be1-80a3-7f6ede62fdce@ir2.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nobitex.ir&sid=aefc7f3722#EPODONIOS
 vless://d4aad26f-70b6-4411-8517-17f7b4281886@168.222.140.205:2200?path=/v1&security=none&encryption=none&type=ws#EPODONIOS
-vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?security=reality&encryption=none&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=5b8a942318178e7b#EPODONIOS
-vless://d4c7937b83242588878da7ab7eb1e9a8@69.46.46.71:443?path=/ws/d4c7937b83242588878da7ab7eb1e9a8&security=tls&alpn=http/1.1&encryption=none&host=core-166442-d9f37e-production.up.railway.app&fp=chrome&type=ws&sni=core-166442-d9f37e-production.up.railway.app#EPODONIOS

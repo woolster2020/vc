@@ -1,3 +1,5 @@
+vless://2d96d4d6-a276-4ab5-9f20-8dc5cbf6e902@72.35.246.31:1244?security=reality&encryption=none&pbk=gHG_cbbi-OJKY2tBQTqz1QryfmmRZEQ7BQgymimukkQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=axisvpn.ru&sid=6ba85179e30d4fc2#EPODONIOS
+vless://2df56fd0-d1b7-4793-b877-acd356d960f7@172.67.71.217:443?path=/?ed=8080&security=tls&encryption=none&host=download-93w.pages.dev&fp=chrome&type=ws&sni=pages.dev#EPODONIOS
 vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@104.21.51.196:8443?path=/&security=tls&encryption=none&insecure=0&host=ad-005.zen2bswa.info&fp=chrome&type=ws&allowInsecure=0&sni=ad-005.zen2bswa.info#EPODONIOS
 vless://2e2e204a-7e61-48fb-8182-5955821e8da0@31.57.185.220:443?path=/&security=&encryption=none&type=ws#EPODONIOS
 vless://2e2e204a-7e61-48fb-8182-5955821e8da0@31.57.185.220:443?security=none&encryption=none&path=/&type=ws#EPODONIOS
@@ -496,5 +498,3 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@www.speedtest.net:443?path=/?TELEGR
 vless://496dad36-5f9a-4574-9173-a2f80dde6660@51.38.127.93:8880?security=none&encryption=mlkem768x25519plus.native.0rtt.jIps_MB5K6LbgZo2P0kiiYniT7R97y7f6OSCHhkiVh8&headerType=none&type=tcp#EPODONIOS
 vless://4975ba8b-7378-468b-b1be-e2f274c62e97@199.232.78.159:443?path=/?Telegram---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP&security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=safa.fastly.com#EPODONIOS
 vless://4975ba8b-7378-468b-b1be-e2f274c62e97@199.232.78.159:443?path=/@Net2ray&security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=safa.fastly.com#EPODONIOS
-vless://4975ba8b-7378-468b-b1be-e2f274c62e97@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=safa.fastly.com#EPODONIOS
-vless://497f5381-3533-4c6a-939c-66eb3a7de108@188.114.98.0:443?path=/gropcdn&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdn.topingr.ir&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=cdn.topingr.ir#EPODONIOS
