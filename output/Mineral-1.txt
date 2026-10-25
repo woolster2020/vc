@@ -64,8 +64,6 @@ hysteria2://5413edfb-08d6-4fba-b51c-809c04feb127@77.110.104.238:443?sni=ch2-hy2.
 hysteria2://56ff50da-a238-4646-95ab-dd159634bd87@37.9.4.112:17701?security=tls&obfs=salamander&obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce&insecure=0&sni=ru03.arpanet-cdn.com#@meliproxyy
 hysteria2://6656cc0a-5908-4d04-a436-64f5843c0c7a@sweedenqfds777.qcloud.surf:21223?sni=sweedenqfds777.qcloud.surf&security=tls#@V2ray_Collector
 hysteria2://6a3fe9d0-0d68-4f29-ae99-5771d4217a45@202.61.205.86:4433?sni=de1.xiaoliyu.cyou#@OutlineReleasedKey
-hysteria2://77f73bd5-51bf-4143-8ebd-02f56ba376f4@177.1.195.242:24000?security=tls&obfs=salamander&obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5&insecure=0&mport=24000-24999&sni=hy.kirian.su#@meliproxyy
-hysteria2://77f73bd5-51bf-4143-8ebd-02f56ba376f4@79.137.206.157:21000?security=tls&obfs=salamander&obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5&insecure=0&mport=21000-21999&sni=hy.kirian.su#@meliproxyy
 hysteria2://865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01@217.60.33.215:443?insecure=1&security=tls&sni=streambox.wwwinternetvideo.click#@OutlineReleasedKey
 hysteria2://865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01@217.60.33.215:443?sni=streambox.wwwinternetvideo.click#@OutlineReleasedKey
 hysteria2://865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01@217.60.33.215:443?sni=streambox.wwwinternetvideo.click&insecure=1#@V2ray_Collector
@@ -88,7 +86,6 @@ hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.127.137:8443?sni=hop-ge
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.127.146:8443?sni=hop-germany-september.dynuddns.com#@OutlineReleasedKey
 hysteria2://9yOIR2_QAChKs26rYaiX_aoNnOALd0aU@95.140.147.245:443?sni=nl1server.rabstvo.shop#@OutlineReleasedKey
 hysteria2://BWAFlp8g53@hys28.wba-pn.ru:443?insecure=1&security=tls&sni=hys28.wba-pn.ru#@OutlineReleasedKey
-hysteria2://BWAFlp8g53@hys28.wba-pn.ru:443?insecure=1&sni=hys28.wba-pn.ru#@OutlineReleasedKey
 hysteria2://BWAFlp8g53@hys28.wba-pn.ru:443?security=tls&fp=chrome&alpn=h3#@V2ray_Collector
 hysteria2://BWAFlp8g53@hys28.wba-pn.ru:443?sni=hys28.wba-pn.ru#@V2ray_Collector
 hysteria2://CnVfXXvMzh@hys13.wba-pn.ru:443?insecure=1#@OutlineReleasedKey
@@ -96,7 +93,6 @@ hysteria2://Hc9_NX924RE_Mn948rgrwiub_m93V84nll@5.254.51.109:9443?sni=keyhop-voxi
 hysteria2://HysTeria2026%21Proxy@mz.hkychina.com:8443?security=tls&insecure=0&sni=mz.hkychina.com#@V2ray_Collector
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@103.126.51.46:8443?sni=ocober-romania-new.yyuyy.com#@V2ray_Collector
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@103.126.51.50:8443?sni=ocober-romania-new.yyuyy.com#@V2ray_Collector
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.171:8443?security=tls&insecure=1&sni=hopp-romania-new.roxa.org#@V2ray_Collector
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.172:8443?sni=hopp-romania-new.roxa.org#@V2ray_Collector
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.172:8443?sni=hopp-romania-new.roxa.org&insecure=0#@V2ray_Collector
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.173:8080?sni=hopp-romania-new.roxa.org&insecure=0#@V2ray_Collector
@@ -109,9 +105,7 @@ hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.177:8080?sni=hopp-
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.178:8443?sni=hopp-romania-new.roxa.org#@V2ray_Collector
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8080/?insecure=1&sni=hopp-romania-new.roxa.org#@V2ray_Collector
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8080?insecure=1&sni=hopp-romania-new.roxa.org#@V2ray_Collector
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.184:8443?security=tls&sni=hopp-romania-new.roxa.org#@OutlineReleasedKey
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.185:8443?insecure=1&security=tls&sni=hopp-romania-new.roxa.org#@V2ray_Collector
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.187:8443?sni=hopp-romania-new.roxa.org#@OutlineReleasedKey
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.187:8443?sni=hopp-romania-new.roxa.org&insecure=0#@OutlineReleasedKey
 hysteria2://M8LP9DztTr3znqCkmf-r08CQLBLLFK1r@me17.msjia8844.site:7443/?sni=me17.msjia8844.site#@meliproxyy
 hysteria2://Telegram%3Avpnjey@179.61.138.145:36264?security=tls&obfs=salamander&obfs-password=Telegram%40vpnjey&insecure=0&sni=de2.jey.cc.cd#@meliproxyy
@@ -177,8 +171,6 @@ hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010/?obfs=salamande
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?security=tls&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&insecure=0&sni=nas.aizhzo.com#@meliproxyy
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@94.198.54.132:443/?insecure=1&sni=msk.frkn.org#@V2ray_Collector
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@94.198.54.132:443?sni=msk.frkn.org&insecure=1#@OutlineReleasedKey
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?freeinternet=kizyak_vpn1789107243935&freeinternet=kizyak_vpn1789093936140&sni=msk.frkn.org&descriptions=люби_себя94a07b&nonce=oCYvYfhL&insecure=false&descriptions=СвободуИнтернету816&descriptions=СвободуИнтернету178&__rand=ce218191&descriptions=люби_себя1fa896&seq=you_are_beautiful4180&up-mbps=0&nonce=m3vYX3ue&nonce=savJKqrl#@V2ray_Collector
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=1&security=tls#@OutlineReleasedKey
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?sni=msk.frkn.org&seq=you_are_beautiful8912&_t=fd2725b4&insecure=false&freeinternet=kizyak_vpn1789080095563&descriptions=люби_себя8062dd&seq=you_are_beautiful4650&_t=e6b75836&_t=d8a97610&freeinternet=kizyak_vpn1789063501895&burmalda=7a0c51a8&descriptions=люби_себяed6849&burmalda=05072c84&nonce=QNtREwo2&burmalda=66256b15&nonce=wvxW6G5-&freeinternet=kizyak_vpn1789121109970&descriptions=люби_себя27efc3&descriptions=люби_себя4fb5da&__rand=d2eea4b8&up-mbps=0&burmalda=5fd6a979#@V2ray_Collector
 hysteria2://f83ce3c4-07d9-4895-bd14-cb74abbcab37@finkawwwbroy5.qcloud.surf:20326?security=tls&sni=finkawwwbroy5.qcloud.surf&alpn=h3&insecure=0#@OutlineReleasedKey
 hysteria2://ilkbtuxd94xofam1@giftcard.gateway-stream.com:52001?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#dc-udp-%F0%9F%87%A6%F0%9F%87%B7%20Argentina-Buenos%20Aires
@@ -187,14 +179,12 @@ hysteria2://ilkbtuxd94xofam1@giftcard.gateway-stream.com:52009?fm=%257B%250A%252
 hysteria2://ilkbtuxd94xofam1@giftcard.gateway-stream.com:52067?fm=%257B%250A%2520%2520%2522quicParams%2522%2520:%2520%257B%250A%2520%2520%2520%2520%2522congestion%2522%2520:%2520%2522brutal%2522%250A%2520%2520%257D,%250A%2520%2520%2522udp%2522%2520:%2520%255B%250A%2520%2520%2520%2520%257B%250A%2520%2520%2520%2520%2520%2520%2522settings%2522%2520:%2520%257B%250A%2520%2520%2520%2520%2520%2520%2520%2520%2522password%2522%2520:%2520%2522fuw2k1ddrouwxr3u%2522%250A%2520%2520%2520%2520%2520%2520%257D,%250A%2520%2520%2520%2520%2520%2520%2522type%2522%2520:%2520%2522salamander%2522%250A%2520%2520%2520%2520%257D%250A%2520%2520%255D%250A%257D&type=hysteria&security=tls&sni=giftcard.gateway-stream.com&alpn=h3#%F0%9F%87%B9%F0%9F%87%B7dc-udp-%20Turkey-Istanbul
 hysteria2://kewr0929_M9ic23iqe_m9E2R93Js8034c_Rt10@222.167.212.159:8443?sni=new-finland-september.bumbleshrimp.com#@OutlineReleasedKey
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.132:8443?insecure=1&sni=grape-turbo-fr.roxa.org#@meliproxyy
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.143:8443?security=tls&insecure=1&sni=grape-turbo-fr.roxa.org#@V2ray_Collector
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.100:8443?sni=grape-test-italy.dynuddns.net#@V2ray_Collector
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.105:8443?insecure=1&sni=grape-test-italy.dynuddns.net#@V2ray_Collector
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.98:8443?sni=grape-test-italy.dynuddns.net#@V2ray_Collector
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.98:8443?sni=grape-test-italy.dynuddns.net&insecure=1#@OutlineReleasedKey
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.99:8443?sni=grape-test-italy.dynuddns.net&insecure=1#@OutlineReleasedKey
 hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@217.60.182.79:443?security=tls&insecure=1&sni=cabinet.wwwinternetvideo.click#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
-hysteria2://we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH@82.38.64.229:8443?insecure=1&sni=hopp-swizland-new.mysynology.net#@OutlineReleasedKey
 hysteria2://we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH@82.38.64.229:8443?sni=hopp-swizland-new.mysynology.net#@V2ray_Collector
 hysteria2://we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH@82.38.64.235:8443/?insecure=1&sni=hopp-swizland-new.mysynology.net#@V2ray_Collector
 hysteria2://we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH@82.38.64.235:8443?insecure=1&security=tls&sni=hopp-swizland-new.mysynology.net#@V2ray_Collector
@@ -259,7 +249,6 @@ socks5://67.201.59.70:4145/#%F0%9F%90%8A88%40oneclickvpnkeys
 socks5://88.210.13.216:1081/#%F0%9F%A7%A616%40oneclickvpnkeys
 socks5://89.188.76.72:1080/#%F0%9F%8F%A059%40oneclickvpnkeys
 socks5://ufCobhydz4Wd:JdFlrZhqHP@69.16.157.244:1080/#%F0%9F%87%AE%F0%9F%87%B9%40oneclickvpnkeys
-socks://MTExOjExMQ@47.243.173.50:11211#@meliproxyy
 trojan://0000000@18.238.109.28:443/?type=tcp&security=tls&sni=www.lovelive-anime.jp#%40Hope_Net-join-us-on-Telegram
 trojan://0000000@3.168.86.26:443/?type=tcp&security=tls&sni=www.lovelive-anime.jp#%40Hope_Net-join-us-on-Telegram
 trojan://0000000@3.168.86.35:443/?type=tcp&security=tls&sni=www.lovelive-anime.jp#%40Hope_Net-join-us-on-Telegram
@@ -370,6 +359,7 @@ trojan://2f1f7fbf-f37d-4275-c014-298a83f4e5a8@www.speedtest.net:80/?type=tcp&sec
 trojan://2fec7227-9abe-46f2-af18-78302b836c45@104.21.30.167:443/?type=tcp&security=tls&sni=3y.2032.pp.ua#%F0%9F%8F%81RELAY-104.21.30.167-4697
 trojan://3208e968-b862-4e2e-ad90-2b49e7ce7afb@37.252.5.75:443/?type=tcp&security=tls&sni=joss.gpj1.web.id#%F0%9F%87%AA%F0%9F%87%AAEE-37.252.5.75-1203
 trojan://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.44.101:443/?type=ws&host=pardazesh18.pages.dev&security=tls&sni=pardazesh18.pages.dev#%40Hope_Net-join-us-on-Telegram
+trojan://34bfb8d8-e37f-4872-a452-a2b2b4310aed@support.zoom.us:443?pcs=b83a89abf68f3ff79ba8fa0041347d78ad7d97555a2b62bada3bf0b51324d85c&path=%2Fwhatever%2Ftrojan-ws&security=tls&insecure=1&host=support.zoom.us.sg4.zidstore.net&type=ws&allowInsecure=1&sni=support.zoom.us.sg4.zidstore.net#boy
 trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@bestcdn1.868863.xyz:2053/?type=ws&path=%2Fagraeabtegrrh&security=tls&sni=17654164551316.796812.xyz#%F0%9F%8F%81RELAY-162.159.36.5-2867
 trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@bestcdn1.868863.xyz:2087/?type=ws&path=%2Fvideomuaawe&security=tls&sni=17654164559160.206355.xyz#%F0%9F%8F%81RELAY-162.159.36.5-2861
 trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@bestcdn1.868863.xyz:2096/?type=ws&path=%2Fagrbniuh&security=tls&sni=17654164557740.796813.xyz#%F0%9F%8F%81RELAY-162.159.36.5-2869
@@ -498,3 +488,13 @@ trojan://5a2c16f9@57.129.137.239:8443/?type=tcp&security=tls&sni=snippets.kkii.e
 trojan://5a2c16f9@57.129.137.49:8443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%AC%F0%9F%87%A7GB-57.129.137.49-1775
 trojan://5a2c16f9@57.129.137.60:8443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%AC%F0%9F%87%A7GB-57.129.137.60-1767
 trojan://5a2c16f9@59.6.239.208:12203/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%B0%F0%9F%87%B7KR-59.6.239.208-1762
+trojan://5a2c16f9@94.140.0.238:2096/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%8F%81RELAY-94.140.0.238-1773
+trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443/?type=ws&host=snippets.kkii.eu.org&path=%2F&security=tls&sni=snippets.kkii.eu.org&allowInsecure=1#%20%F0%9F%8E%A729%40oneclickvpnkeys
+trojan://5c7bd449-2e23-46f3-af68-0f709e22e84d@172.64.144.21:443/?type=ws&host=trojan.775678.dpdns.org&path=%2Fsocks5%3A%2F%2Fproxy%3Aproxy%40157.230.41.8%3A1080&security=tls&sni=trojan.775678.dpdns.org&alpn=h3&fp=randomized#%E2%9C%A834%40oneclickvpnkeys
+trojan://5c7bd449-2e23-46f3-af68-0f709e22e84d@172.64.144.22:443/?type=ws&host=trojan.775678.dpdns.org&path=%2Fsocks5%3A%2F%2F123%3A123%403.95.230.208%3A1080&security=tls&sni=trojan.775678.dpdns.org&alpn=h3&fp=randomized#%E2%9C%A817%40oneclickvpnkeys
+trojan://5c8c8b61-9b24-4c5a-b6ad-f6560df2e9d3@89.28.236.243:443/?type=tcp&security=tls&sni=joss.gpj1.web.id#%F0%9F%87%A9%F0%9F%87%B0DK-89.28.236.243-1201
+trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@bbbnmkl.taiwan2028.indevs.in:443/?type=ws&path=%2FhV829BTVzg35A6ueyyZnWd&security=tls&sni=bBbNmKl.TAIwAn2028.IndEvs.In#%F0%9F%8F%81RELAY-172.67.175.152-0935
+trojan://5fb072e0ddd631cf66cf752b09210480@13.231.234.230:544/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1&fp=chrome#https%3A%2F%2Ft.me%2Fallproconf
+trojan://5fb072e0ddd631cf66cf752b09210480@160.16.214.104:3423/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.214.104-0900
+trojan://5fb072e0ddd631cf66cf752b09210480@202.181.103.246:3076/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.246-0901
+trojan://5fb072e0ddd631cf66cf752b09210480@202.181.103.246:3423/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.246-0899
