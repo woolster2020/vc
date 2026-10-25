@@ -1,5 +1,3 @@
-vless://6bad72da-1a41-4217-b265-9e4abdf5ae76@nl1.gramstar.online:443?mode=gun&security=reality&encryption=none&pbk=njpVaVdQx4IEByPisgjjXSJGLZt5Khb8m8HC1QIBqQs&fp=chrome&type=grpc&serviceName=grpc&sni=nl1.gramstar.online&sid=b04dd3564373ba03#EPODONIOS
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@212.74.39.214:8080?encryption=none&security=none&type=tcp#EPODONIOS
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@212.74.39.214:8080?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://6bd94ee9-3c63-43d2-8f19-31570cfbef25@narcod-ping.numallaf.shop:58978?type=tcp&path=/&host=zula.ir&headerType=http&security=none#EPODONIOS
@@ -498,3 +496,5 @@ vless://8d1e0577-bfcb-4cbd-91c0-1f8788d4ba44@sg10.levikogjgfdd.ir:443?security=r
 vless://8dae0da8-53e7-466d-bf50-8bb6dcd462be@digia.riziro.ir:8443?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=digia.riziro.ir&mode=auto&path=/&pbk=Ve-mF0aFGxV4deOSEA8jDe3FdjxLddF7n4IchNKvcDc&security=reality&sid=c8&sni=qapartners.sec.samsung.com&spx=/sKmkuWxoF1svNrD&type=xhttp&x_padding_bytes=100-1000#EPODONIOS
 vless://8dae0da8-53e7-466d-bf50-8bb6dcd462be@digin.riziro.ir:8443?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=digin.rizrio.ir&mode=auto&path=/&pbk=zKeOuPoCS_FA1bsfFr-A8MmdYIS-DhcHwxmhDC1WaSA&security=reality&sid=0f439f5a58a977&sni=image.semiconductor.samsung.com&spx=/DVh5EZ8eK7LMDiV&type=xhttp&x_padding_bytes=100-1000#EPODONIOS
 vless://8db764be-f144-4df0-ae5d-21d5f2551290@md.gilangard.ir:11431?security=reality&encryption=none&pbk=-mmOMxUx52Rj14VuE5fhlsvh7qt5WT9WEZy5LQlnSDc&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=d8de8785395c206b#EPODONIOS
+vless://8dc3a9ee-51a6-4737-c40a-472246303713@20.78.4.41:443?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?mode=gun&security=none&encryption=none&type=grpc#EPODONIOS
