@@ -56,6 +56,7 @@ hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:4
 hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?insecure=1#@V2ray_Collector
 hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?insecure=1&security=tls&sni=nl-hy-test.tcp-reset-club.net#@OutlineReleasedKey
 hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?security=tls&sni=tcp-reset-club.net#@OutlineReleasedKey
+hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?sni=nl-hy-test.tcp-reset-club.net#@OutlineReleasedKey
 hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?sni=tcp-reset-club.net#@OutlineReleasedKey
 hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?sni=tcp-reset-club.net&insecure=0#@V2ray_Collector
 hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?sni=tcp-reset-club.net&insecure=1#@OutlineReleasedKey
@@ -359,7 +360,7 @@ trojan://2f1f7fbf-f37d-4275-c014-298a83f4e5a8@www.speedtest.net:80/?type=tcp&sec
 trojan://2fec7227-9abe-46f2-af18-78302b836c45@104.21.30.167:443/?type=tcp&security=tls&sni=3y.2032.pp.ua#%F0%9F%8F%81RELAY-104.21.30.167-4697
 trojan://3208e968-b862-4e2e-ad90-2b49e7ce7afb@37.252.5.75:443/?type=tcp&security=tls&sni=joss.gpj1.web.id#%F0%9F%87%AA%F0%9F%87%AAEE-37.252.5.75-1203
 trojan://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.44.101:443/?type=ws&host=pardazesh18.pages.dev&security=tls&sni=pardazesh18.pages.dev#%40Hope_Net-join-us-on-Telegram
-trojan://34bfb8d8-e37f-4872-a452-a2b2b4310aed@support.zoom.us:443?pcs=b83a89abf68f3ff79ba8fa0041347d78ad7d97555a2b62bada3bf0b51324d85c&path=%2Fwhatever%2Ftrojan-ws&security=tls&insecure=1&host=support.zoom.us.sg4.zidstore.net&type=ws&allowInsecure=1&sni=support.zoom.us.sg4.zidstore.net#boy
+trojan://34bfb8d8-e37f-4872-a452-a2b2b4310aed@support.zoom.us:443?pcs=b83a89abf68f3ff79ba8fa0041347d78ad7d97555a2b62bada3bf0b51324d85c&path=%2Fwhatever%2Ftrojan-ws&security=tls&insecure=1&host=support.zoom.us.sg4.zidstore.net&type=ws&allowInsecure=1&sni=support.zoom.us.sg4.zidstore.net#boy%20trojan
 trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@bestcdn1.868863.xyz:2053/?type=ws&path=%2Fagraeabtegrrh&security=tls&sni=17654164551316.796812.xyz#%F0%9F%8F%81RELAY-162.159.36.5-2867
 trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@bestcdn1.868863.xyz:2087/?type=ws&path=%2Fvideomuaawe&security=tls&sni=17654164559160.206355.xyz#%F0%9F%8F%81RELAY-162.159.36.5-2861
 trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@bestcdn1.868863.xyz:2096/?type=ws&path=%2Fagrbniuh&security=tls&sni=17654164557740.796813.xyz#%F0%9F%8F%81RELAY-162.159.36.5-2869
@@ -497,4 +498,3 @@ trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@bbbnmkl.taiwan2028.indevs.in:443/?
 trojan://5fb072e0ddd631cf66cf752b09210480@13.231.234.230:544/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1&fp=chrome#https%3A%2F%2Ft.me%2Fallproconf
 trojan://5fb072e0ddd631cf66cf752b09210480@160.16.214.104:3423/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.214.104-0900
 trojan://5fb072e0ddd631cf66cf752b09210480@202.181.103.246:3076/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.246-0901
-trojan://5fb072e0ddd631cf66cf752b09210480@202.181.103.246:3423/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.246-0899
