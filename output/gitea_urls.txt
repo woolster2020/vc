@@ -22,7 +22,8 @@ https://gitea.com/woolster2020/vc/raw/branch/main/output/.proxy-21.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/.proxy-22.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/.proxy-23.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/.proxy-24.txt
-https://gitea.com/woolster2020/vc/raw/branch/main/output/AutoVPN.txt
+https://gitea.com/woolster2020/vc/raw/branch/main/output/AutoVPN-1.txt
+https://gitea.com/woolster2020/vc/raw/branch/main/output/AutoVPN-2.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/Config-Collector.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/Mineral-1.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/Mineral-2.txt
@@ -95,7 +96,6 @@ https://gitea.com/woolster2020/vc/raw/branch/main/output/V2RayCFGDumper.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/daily_free_vpn-1.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/daily_free_vpn-2.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/daily_free_vpn-3.txt
-https://gitea.com/woolster2020/vc/raw/branch/main/output/daily_free_vpn-4.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/openproxylist.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/telegram-v2ray-configs-collector.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/v2ray-configs-1.txt
