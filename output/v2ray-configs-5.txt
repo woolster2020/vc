@@ -1,4 +1,3 @@
-vless://6eebb521-1844-4c3c-bf54-fb0e19870f80@78.141.221.126:25585?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://6f1f7a2f-88ac-4dd4-8f21-131c4d075242@64.49.13.77:2053?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=1&host=64.49.13.77&fp=chrome&type=xhttp&allowInsecure=1&sni=64.49.13.77#EPODONIOS
 vless://6f1f7a2f-88ac-4dd4-8f21-131c4d075242@64.49.13.77:2083?mode=auto&path=/archive/gawdfaGA2faG@$!32ga&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=salavati.shompolexy.shop&type=xhttp#EPODONIOS
 vless://6f1f7a2f-88ac-4dd4-8f21-131c4d075242@64.49.13.77:2087?security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=64.49.13.77#EPODONIOS
@@ -498,3 +497,4 @@ vless://9866995e-7225-4919-8de8-19a3f941c4d4@Zmaoz.Faculty.Ucdavis.Edu:443?path=
 vless://9866995e-7225-4919-8de8-19a3f941c4d4@www.speedtest.net:443?path=/@azarakhsh_proxy?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=jobinja.pages.dev&fp=chrome&type=ws&sni=pages.dev#EPODONIOS
 vless://9894cc2c-95d4-4ce3-bceb-25a707f7ef82@gr.typevpn.top:2080?security=none&encryption=none&host=fifa.com&headerType=http&type=tcp#EPODONIOS
 vless://989d58b8-d2ea-4d28-b5ff-0f3cd078f2cf@104.18.26.94:8080?security=none&type=ws&path=/&host=sdf23g-billowing-moon-348e.mzm468gc.workers.dev&packetEncoding=xudp&sni=www.gov.se&encryption=none#EPODONIOS
+vless://98a7c6c3-9a2c-4ebd-a945-0e979abc9232@31.76.252.118:443?security=reality&encryption=none&pbk=rqxv2mDuaBynNjatS49r8sjoxv3u2EjAWHzKFwF-YTE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ir-012.rita-cloud.com&sid=6fa5d699cc6a6b66#EPODONIOS

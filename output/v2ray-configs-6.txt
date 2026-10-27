@@ -1,4 +1,3 @@
-vless://98a7c6c3-9a2c-4ebd-a945-0e979abc9232@31.76.252.118:443?security=reality&encryption=none&pbk=rqxv2mDuaBynNjatS49r8sjoxv3u2EjAWHzKFwF-YTE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ir-012.rita-cloud.com&sid=6fa5d699cc6a6b66#EPODONIOS
 vless://98b7af77-276d-4028-af23-0f4ab1a3cfcb@ang-el.ir:8081?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ang-el.ir&fp=chrome&type=ws&allowInsecure=0&sni=ang-el.ir#EPODONIOS
 vless://98bc431a-2963-4faa-a712-cc83798a2edb@109.169.85.139:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=slashdot.org&sid=fd55b698ee8c3629#EPODONIOS
 vless://98d0fa1b-d778-477e-b897-4e2569c53178@128.254.186.11:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#EPODONIOS
@@ -498,3 +497,4 @@ vless://ba8cff29-a34b-4381-a580-d349c1191e35@de.vfzq.ir:8080?mode=gun&security=r
 vless://ba8cff29-a34b-4381-a580-d349c1191e35@fr.vfzq.ir:2087?security=none&encryption=none&headerType=http&type=tcp#EPODONIOS
 vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@109.120.177.84:443?security=tls&encryption=none&headerType=none&type=tcp&sni=decdn7.suio.me#EPODONIOS
 vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@109.120.177.84:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=decdn7.suio.me#EPODONIOS
+vless://bacbaca-caba-aacb-adbc-cbabccabacab@127.0.0.1:8080?security=tls&type=tcp#EPODONIOS
