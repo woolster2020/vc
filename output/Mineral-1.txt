@@ -31,7 +31,6 @@ hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@bl2.nexfile.net:4444?sni=bl2.ne
 hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@pl3.nexfile.net:4444?sni=pl3.nexfile.net&security=tls#@OutlineReleasedKey
 hysteria2://1953e43b-605c-4262-83eb-41a80646b801@87.76.211.161:443?sni=fastlinkdownload.song69.fun#@V2ray_Collector
 hysteria2://19f72087-4591-4d72-930b-2697078ec2be@de1.xiaoliyu.cyou:4433?insecure=0&sni=de1.xiaoliyu.cyou#@OutlineReleasedKey
-hysteria2://1e6fed5b-5edc-4ddb-a268-79d7fae4365c@95.133.242.213:30443?sni=filesconvert.org#@V2ray_Collector
 hysteria2://2561c6b1a3069d3170b4d7e1ecc08c65@paris.nerabotaet.com:443#@V2ray_Collector
 hysteria2://2561c6b1a3069d3170b4d7e1ecc08c65@paris.nerabotaet.com:443/?insecure=1&sni=paris.nerabotaet.com#@OutlineReleasedKey
 hysteria2://2561c6b1a3069d3170b4d7e1ecc08c65@paris.nerabotaet.com:443?sni=paris.nerabotaet.com&insecure=1#@OutlineReleasedKey
@@ -40,7 +39,6 @@ hysteria2://329e13e4-ee7c-4802-ac72-5fcab79c2402@217.60.72.225:443?sni=forshynew
 hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?sni=152-67-200-82.liao.kdns.fr#@OutlineReleasedKey
 hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?sni=152-67-200-82.liao.kdns.fr&insecure=0#@OutlineReleasedKey
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?insecure=0&sni=hy.quattro-tech.ru&obfs=&obfs-password=#@V2ray_Collector
-hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443?alpn=h3&insecure=1&sni=hy.quattro-tech.ru#@OutlineReleasedKey
 hysteria2://408c51e8-9246-483d-ba73-34ab4e202eb9@sweedenqfds777.qcloud.surf:21223?security=tls&sni=sweedenqfds777.qcloud.surf&alpn=h3&insecure=0#@OutlineReleasedKey
 hysteria2://41edb44c8e@103.88.243.142:11592?security=tls&insecure=0&sni=srv-17e124.21freedom.net#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
 hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?insecure=1&security=tls&sni=srv-17e124.21freedom.net#@V2ray_Collector
@@ -94,7 +92,6 @@ hysteria2://BWAFlp8g53@hys28.wba-pn.ru:443?insecure=1&security=tls&sni=hys28.wba
 hysteria2://BWAFlp8g53@hys28.wba-pn.ru:443?security=tls&fp=chrome&alpn=h3#@V2ray_Collector
 hysteria2://BWAFlp8g53@hys28.wba-pn.ru:443?sni=hys28.wba-pn.ru#@V2ray_Collector
 hysteria2://Hc9_NX924RE_Mn948rgrwiub_m93V84nll@5.254.51.109:9443?sni=keyhop-voxility-at.dynuddns.com#@V2ray_Collector
-hysteria2://HysTeria2026%21Proxy@mz.hkychina.com:8443?security=tls&insecure=0&sni=mz.hkychina.com#@V2ray_Collector
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@103.126.51.46:8443?sni=ocober-romania-new.yyuyy.com#@V2ray_Collector
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@103.126.51.50:8443?sni=ocober-romania-new.yyuyy.com#@V2ray_Collector
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.172:8443?sni=hopp-romania-new.roxa.org#@V2ray_Collector
@@ -103,7 +100,6 @@ hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.174:8080/?insecure
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.176:8443?sni=hopp-romania-new.roxa.org&insecure=0#@V2ray_Collector
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.178:8443?sni=hopp-romania-new.roxa.org#@V2ray_Collector
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8080/?insecure=1&sni=hopp-romania-new.roxa.org#@V2ray_Collector
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8080?insecure=1&sni=hopp-romania-new.roxa.org#@V2ray_Collector
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.185:8443?insecure=1&security=tls&sni=hopp-romania-new.roxa.org#@V2ray_Collector
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.187:8443?sni=hopp-romania-new.roxa.org&insecure=0#@OutlineReleasedKey
 hysteria2://M8LP9DztTr3znqCkmf-r08CQLBLLFK1r@me17.msjia8844.site:7443/?sni=me17.msjia8844.site#@meliproxyy
@@ -498,3 +494,7 @@ trojan://5c7bd449-2e23-46f3-af68-0f709e22e84d@172.64.144.22:443/?type=ws&host=tr
 trojan://5c8c8b61-9b24-4c5a-b6ad-f6560df2e9d3@89.28.236.243:443/?type=tcp&security=tls&sni=joss.gpj1.web.id#%F0%9F%87%A9%F0%9F%87%B0DK-89.28.236.243-1201
 trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@bbbnmkl.taiwan2028.indevs.in:443/?type=ws&path=%2FhV829BTVzg35A6ueyyZnWd&security=tls&sni=bBbNmKl.TAIwAn2028.IndEvs.In#%F0%9F%8F%81RELAY-172.67.175.152-0935
 trojan://5fb072e0ddd631cf66cf752b09210480@13.231.234.230:544/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1&fp=chrome#https%3A%2F%2Ft.me%2Fallproconf
+trojan://5fb072e0ddd631cf66cf752b09210480@160.16.214.104:3423/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.214.104-0900
+trojan://5fb072e0ddd631cf66cf752b09210480@202.181.103.246:3076/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.246-0901
+trojan://5fb072e0ddd631cf66cf752b09210480@202.181.103.246:3423/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.246-0899
+trojan://5fb072e0ddd631cf66cf752b09210480@38.180.107.76:443/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG-38.180.107.76-0905
