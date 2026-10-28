@@ -1,3 +1,5 @@
+trojan://5a2c16f9@94.140.0.238:2096/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%8F%81RELAY-94.140.0.238-1773
+trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443/?type=ws&host=snippets.kkii.eu.org&path=%2F&security=tls&sni=snippets.kkii.eu.org&allowInsecure=1#%20%F0%9F%8E%A729%40oneclickvpnkeys
 trojan://5c7bd449-2e23-46f3-af68-0f709e22e84d@172.64.144.21:443/?type=ws&host=trojan.775678.dpdns.org&path=%2Fsocks5%3A%2F%2Fproxy%3Aproxy%40157.230.41.8%3A1080&security=tls&sni=trojan.775678.dpdns.org&alpn=h3&fp=randomized#%E2%9C%A834%40oneclickvpnkeys
 trojan://5c7bd449-2e23-46f3-af68-0f709e22e84d@172.64.144.22:443/?type=ws&host=trojan.775678.dpdns.org&path=%2Fsocks5%3A%2F%2F123%3A123%403.95.230.208%3A1080&security=tls&sni=trojan.775678.dpdns.org&alpn=h3&fp=randomized#%E2%9C%A817%40oneclickvpnkeys
 trojan://5c8c8b61-9b24-4c5a-b6ad-f6560df2e9d3@89.28.236.243:443/?type=tcp&security=tls&sni=joss.gpj1.web.id#%F0%9F%87%A9%F0%9F%87%B0DK-89.28.236.243-1201
@@ -496,5 +498,3 @@ trojan://FodSUXysuS@180.131.145.161:23274/?type=tcp&security=tls#%F0%9F%87%BA%F0
 trojan://Fv7ogJ6vfz@209.200.246.53:36774/?type=grpc&sni=cloudflare.com&fp=chrome&security=reality&pbk=QX1ITiHw0tTKi5ouMn-6mE2-Hb0-gk25N67gP2sQ-nU&sid=3e#%F0%9F%8E%8456%40oneclickvpnkeys
 trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.178.83.161:26214/?type=tcp&security=tls&sni=vpn1.rnmcnm.com#%F0%9F%87%B0%F0%9F%87%B7KR-121.178.83.161-0760
 trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.180.171.43:11310/?type=tcp&security=tls&sni=vpn1.rnmcnm.com&allowInsecure=1#%F0%9F%93%A1%40DeamNet%2B%282157%29
-trojan://GKHWMe2R4qwNcNxu6l3KMkdd@125.141.32.222:11371/?type=tcp&security=tls&sni=vpn1.rnmcnm.com&allowInsecure=1#%F0%9F%93%A1%40DeamNet%2B%281865%29
-trojan://GKHWMe2R4qwNcNxu6l3KMkdd@221.158.4.230:18853/?type=tcp&security=tls&sni=vpn1.rnmcnm.com&allowInsecure=1#%F0%9F%93%A1%40DeamNet%2B%282882%29
