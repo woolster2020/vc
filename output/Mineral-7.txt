@@ -1,3 +1,4 @@
+trojan://slch2024@192.169.223.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-192.169.223.195-0636
 trojan://slch2024@192.169.223.87:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-192.169.223.87-0741
 trojan://slch2024@192.200.160.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-192.200.160.195-0635
 trojan://slch2024@192.200.160.87:2096/?type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-192.200.160.87-0681
@@ -497,4 +498,3 @@ vless://0132166f-e702-48ed-a9e7-b07af768faf8@89.117.112.251:8880/?type=ws&encryp
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@91.209.253.251:8880/?type=ws&encryption=none&flow=&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%8C%BD54%40oneclickvpnkeys
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@92.243.75.251:8880/?type=ws&encryption=none&flow=&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%2B%2F%3Fed%3D2560#%F0%9F%AB%9193%40oneclickvpnkeys
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@92.53.188.251:8880/?type=ws&encryption=none&flow=&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560fp%3Dchrome#%F0%9F%A6%9152%40oneclickvpnkeys
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@92.53.189.251:8880/?type=ws&encryption=none&flow=&host=cf.d3z.net&path=%2FTelegram%20%40WangCai2%20#%F0%9F%AB%B698%40oneclickvpnkeys

@@ -103,7 +103,6 @@ https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_all-22.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_all-23.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_all-24.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_all-25.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/Proxy-List_hysteria2.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/Proxy-List_trojan-1.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/Proxy-List_trojan-2.txt
@@ -112,8 +111,6 @@ https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/V2RayCF
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/daily_free_vpn-1.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/daily_free_vpn-2.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/daily_free_vpn-3.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/daily_free_vpn-4.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/daily_free_vpn-5.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/openproxylist.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/telegram-v2ray-configs-collector.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/v2ray-configs-1.txt
