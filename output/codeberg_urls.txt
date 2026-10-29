@@ -104,9 +104,7 @@ https://codeberg.org/woolster2020/vc/raw/branch/main/output/OpenRay_all-22.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/OpenRay_all-23.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/OpenRay_all-24.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/OpenRay_all-25.txt
-https://codeberg.org/woolster2020/vc/raw/branch/main/output/OpenRay_all-26.txt
-https://codeberg.org/woolster2020/vc/raw/branch/main/output/Proxy-List_hysteria2-1.txt
-https://codeberg.org/woolster2020/vc/raw/branch/main/output/Proxy-List_hysteria2-2.txt
+https://codeberg.org/woolster2020/vc/raw/branch/main/output/Proxy-List_hysteria2.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/Proxy-List_trojan-1.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/Proxy-List_trojan-2.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/Proxy-List_trojan-3.txt
@@ -114,6 +112,8 @@ https://codeberg.org/woolster2020/vc/raw/branch/main/output/V2RayCFGDumper.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/daily_free_vpn-1.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/daily_free_vpn-2.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/daily_free_vpn-3.txt
+https://codeberg.org/woolster2020/vc/raw/branch/main/output/daily_free_vpn-4.txt
+https://codeberg.org/woolster2020/vc/raw/branch/main/output/daily_free_vpn-5.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/openproxylist.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/telegram-v2ray-configs-collector.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/v2ray-configs-1.txt
