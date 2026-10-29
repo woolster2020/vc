@@ -41,8 +41,6 @@ https://codeberg.org/woolster2020/vc/raw/branch/main/output/.proxy-40.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/.proxy-41.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/.proxy-42.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/.proxy-43.txt
-https://codeberg.org/woolster2020/vc/raw/branch/main/output/.proxy-44.txt
-https://codeberg.org/woolster2020/vc/raw/branch/main/output/.proxy-45.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/AutoVPN.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/Config-Collector.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/Mineral-1.txt
@@ -103,6 +101,7 @@ https://codeberg.org/woolster2020/vc/raw/branch/main/output/OpenRay_all-21.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/OpenRay_all-22.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/OpenRay_all-23.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/OpenRay_all-24.txt
+https://codeberg.org/woolster2020/vc/raw/branch/main/output/OpenRay_all-25.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/Proxy-List_hysteria2.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/Proxy-List_trojan-1.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/Proxy-List_trojan-2.txt
@@ -110,6 +109,7 @@ https://codeberg.org/woolster2020/vc/raw/branch/main/output/Proxy-List_trojan-3.
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/V2RayCFGDumper.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/daily_free_vpn-1.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/daily_free_vpn-2.txt
+https://codeberg.org/woolster2020/vc/raw/branch/main/output/daily_free_vpn-3.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/openproxylist.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/telegram-v2ray-configs-collector.txt
 https://codeberg.org/woolster2020/vc/raw/branch/main/output/v2ray-configs-1.txt
