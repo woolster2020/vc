@@ -1,9 +1,3 @@
-trojan://5a2c16f9@57.128.178.232:8443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%AB%F0%9F%87%B7FR-57.128.178.232-1761
-trojan://5a2c16f9@57.128.181.125:8443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%AB%F0%9F%87%B7FR-57.128.181.125-1765
-trojan://5a2c16f9@57.128.181.151:443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%AB%F0%9F%87%B7FR-57.128.181.151-1774
-trojan://5a2c16f9@57.128.181.26:8443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%AB%F0%9F%87%B7FR-57.128.181.26-1768
-trojan://5a2c16f9@57.128.183.248:8443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%AB%F0%9F%87%B7FR-57.128.183.248-1758
-trojan://5a2c16f9@57.129.137.239:8443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%AC%F0%9F%87%A7GB-57.129.137.239-1760
 trojan://5a2c16f9@57.129.137.49:8443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%AC%F0%9F%87%A7GB-57.129.137.49-1775
 trojan://5a2c16f9@57.129.137.60:8443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%AC%F0%9F%87%A7GB-57.129.137.60-1767
 trojan://5a2c16f9@59.6.239.208:12203/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%B0%F0%9F%87%B7KR-59.6.239.208-1762
@@ -157,7 +151,6 @@ trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.197.231:80/?type=ws&host=a
 trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.95.123:80/?type=ws&host=sara193.ir&security=tls&sni=sara193.ir#%40Hope_Net-join-us-on-Telegram
 trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.38.208:2053/?type=ws&host=Bpb-v.PAges.deV&security=tls&sni=bPB-V.pageS.dEV#%40Hope_Net-j...
 trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@104.21.23.115:443/?type=ws&path=%2FT5yZBrY2Qkg2cThJQeJb&security=tls&sni=sanjose02.852224.ggff.net#%F0%9F%8F%81RELAY-104.21.23.115-1479
-trojan://8JHppSLSIBA0PK,Nx@104.21.41.49:2083?ed=2560&eh=Sec-WebSocket-Protocol&host=8tsmm6nspocz3ha9.khr2dz0ola61ydpze6zvu7jhcd4.workers.dev&path=%2Ftr%2FfsvjN2wOC2fuDFrdawJtWADScC&sni=8tsmm6NspoCZ3HA9.KHr2DZ0OLa61yDPZE6ZVU7Jhcd4.WORKErS.dEV&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@13.76.251.170:443/?type=tcp&security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.255.74.102:443/?type=tcp&security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@jp.iamnotagoodman.com:443/?type=tcp&security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-45.149.92.71-5835
@@ -498,3 +491,10 @@ trojan://DHvwod7oq7@104.21.80.1:2083/?type=ws&host=esna.twn24.ir&path=%2Fmehdi&s
 trojan://DailyConfigs@104.18.12.229:2087/?type=ws&host=kanale-daily-configs.blackoutconnection.ir&security=tls&sni=kanale-daily-configs.blackoutconnection.ir#%40Hope_Net-join-us-on-Telegram
 trojan://DailyConfigs@172.64.155.209:2087/?type=ws&path=%2F%40Daily_Configs%2C%40Daily_...&security=tls&sni=kanale-daily-configs.blackoutconnection.ir
 trojan://DailyConfigs@172.67.161.104:443/?type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2F%40Daily_Configs%2C%40Daily_Configs%3Fed%3D2560&security=tls&sni=kanale-daily-configs.blackoutconnection.ir#%40Hope_Net-join-us-on-Telegram
+trojan://Daily_Configs@104.17.91.181:2053/?type=ws&host=kanale-daily-configs.bl...&security=tls&sni=kanale-daily-configs.blackoutconnection.ir
+trojan://Daily_Configs@104.18.37.146:443/?type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&security=tls&sni=kanale-daily-configs.blackoutconnection.ir#%40Hope_Net-join-us-on-Telegram
+trojan://Daily_Configs@162.159.153.2:2053/?type=ws&host=kanale-daily-configs.blackoutconnection.ir&security=tls&sni=kanale-daily-configs.blackoutconnection.ir#%40Hope_Net-join-us-on-Telegram
+trojan://Daily_Configs@172.66.44.110:2053/?type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&security=tls&sni=kanale-daily-configs.blackoutconnection.ir&fp=randomized#%40Hope_Net-join-us-on-Telegram
+trojan://EAFz5)Je%5EYJ04mCS@172.66.45.13:2053/?type=ws&host=joinmahdiserver-53k.pages.dev&security=tls&sni=joInMAHDIserveR-53K.pAgES.Dev
+trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#Japan%20Klayer%20LLC
+trojan://FodSUXysuS@180.131.145.161:23274/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B8US-180.131.145.161-0660
