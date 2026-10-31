@@ -1,3 +1,7 @@
+trojan://Daily_Configs@104.17.91.181:2053/?type=ws&host=kanale-daily-configs.bl...&security=tls&sni=kanale-daily-configs.blackoutconnection.ir
+trojan://Daily_Configs@104.18.37.146:443/?type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&security=tls&sni=kanale-daily-configs.blackoutconnection.ir#%40Hope_Net-join-us-on-Telegram
+trojan://Daily_Configs@162.159.153.2:2053/?type=ws&host=kanale-daily-configs.blackoutconnection.ir&security=tls&sni=kanale-daily-configs.blackoutconnection.ir#%40Hope_Net-join-us-on-Telegram
+trojan://Daily_Configs@172.66.44.110:2053/?type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&security=tls&sni=kanale-daily-configs.blackoutconnection.ir&fp=randomized#%40Hope_Net-join-us-on-Telegram
 trojan://EAFz5)Je%5EYJ04mCS@172.66.45.13:2053/?type=ws&host=joinmahdiserver-53k.pages.dev&security=tls&sni=joInMAHDIserveR-53K.pAgES.Dev
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#Japan%20Klayer%20LLC
 trojan://FodSUXysuS@180.131.145.161:23274/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B8US-180.131.145.161-0660
@@ -33,11 +37,11 @@ trojan://MiTiVPN@167.82.76.7:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTi
 trojan://MiTiVPN@167.82.76.7:443?path=%40mehrosaboran&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#canfingV2rayNG-77
 trojan://MiTiVPN@185.133.35.22:443/?type=ws&host=Finl.App-Cloud.ir&path=%2FMiTiVPN%3DfL&security=tls&sni=Finl.App-Cloud.ir&alpn=http%2F1.1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A7%F0%9F%87%B7%C2%AE%EF%B8%8FBrazil%C2%A9%EF%B8%8FCasa%20Verde%F0%9F%85%BF%EF%B8%8Fping%3A45.82ms
 trojan://MiTiVPN@199.232.78.101:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#canfingV2rayNG-79
-trojan://MiTiVPN@199.232.78.101:443?path=%2F--TELEGRAM--TOOTFFARANGI&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#canfingV2rayNG-61
+trojan://MiTiVPN@199.232.78.101:443?path=%2F--TELEGRAM--TOOTFFARANGI&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#canfingV2rayNG-92
 trojan://MiTiVPN@199.232.78.160:443?path=%40mehrosaboran&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#canfingV2rayNG-83
 trojan://MiTiVPN@199.232.78.188:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2ray_Collector
 trojan://MiTiVPN@88.216.67.230:443/?type=ws&host=Nel.App-Cloud.ir&path=%2FMiTiVPN%3DNL&security=tls&sni=Nel.App-Cloud.ir&alpn=http%2F1.1&fp=firefox#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%BC%C2%AE%EF%B8%8FCuracao%C2%A9%EF%B8%8FWillemstad%F0%9F%85%BF%EF%B8%8Fping%3A47.18ms
-trojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DfL&security=tls&alpn=http%2F1.1&insecure=0&host=Fl.App-Cloud.ir&fp=firefox&type=ws&allowInsecure=0&sni=fl.App-Cloud.ir#canfingV2rayNG-52
+trojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DfL&security=tls&alpn=http%2F1.1&insecure=0&host=Fl.App-Cloud.ir&fp=firefox&type=ws&allowInsecure=0&sni=fl.App-Cloud.ir#canfingV2rayNG-90
 trojan://Mitivpn@151.101.110.219:443?path=%2Fde&security=tls&alpn=http%2F1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#canfingV2rayNG-83
 trojan://Mitivpn@208.103.161.33:443/?type=tcp&security=tls&sni=www.hitgram.ir#%F0%9F%87%BA%F0%9F%87%B847483
 trojan://NAdtbpuyJXPH%3DCfKmdBqD2YVbzdvwAtuxw@38.60.252.118:443/?type=tcp&security=tls#Hanoi%20%28Vietnam%29
@@ -494,7 +498,3 @@ trojan://NISHIKUITAN222@190.93.244.42:443/?type=tcp&security=tls&allowInsecure=1
 trojan://NISHIKUITAN222@190.93.244.69:443/?type=ws&host=il.ylks.xyz&path=%2F&security=tls&sni=il.ylks.xyz#%40Hope_Net-join-us-on-Telegram%3Cb...
 trojan://NISHIKUITAN222@190.93.245.186:443/?type=tcp&security=tls&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN222@190.93.245.44:443/?type=ws&host=im.ylks.xyz&path=%2F&security=tls&sni=im.ylks.xyz#%40Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN222@190.93.245.96:443/?type=tcp&security=tls&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN222@190.93.246.185:443/?type=tcp&security=tls&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN222@190.93.246.21:443/?type=tcp&security=tls&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN222@190.93.246.234:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram

@@ -1,3 +1,7 @@
+trojan://NISHIKUITAN222@190.93.245.96:443/?type=tcp&security=tls&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
+trojan://NISHIKUITAN222@190.93.246.185:443/?type=tcp&security=tls&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
+trojan://NISHIKUITAN222@190.93.246.21:443/?type=tcp&security=tls&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
+trojan://NISHIKUITAN222@190.93.246.234:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN222@190.93.246.56:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN222@190.93.246.57:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN222@190.93.247.234:443/?type=ws&host=im.ylks.xyz&path=%2F&security=tls&sni=im.ylks.xyz#%40Hope_Net-join-us-on-Telegram
@@ -494,7 +498,3 @@ trojan://blue2024@104.18.153.204:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg
 trojan://blue2024@104.18.153.27:443/?type=tcp&security=tls&sni=td.promote.icu#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.18.158.83:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.18.160.63:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
-trojan://blue2024@104.18.163.43:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
-trojan://blue2024@104.18.171.44:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://blue2024@104.18.183.55:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://blue2024@104.18.187.171:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram

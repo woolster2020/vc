@@ -15,7 +15,8 @@ https://gitea.com/woolster2020/vc/raw/branch/main/output/.proxy-14.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/.proxy-15.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/.proxy-16.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/.proxy-17.txt
-https://gitea.com/woolster2020/vc/raw/branch/main/output/AutoVPN.txt
+https://gitea.com/woolster2020/vc/raw/branch/main/output/AutoVPN-1.txt
+https://gitea.com/woolster2020/vc/raw/branch/main/output/AutoVPN-2.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/Config-Collector.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/Mineral-1.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/Mineral-2.txt
@@ -45,6 +46,7 @@ https://gitea.com/woolster2020/vc/raw/branch/main/output/Mineral-25.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/Mineral-26.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/Mineral-27.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/Mineral-28.txt
+https://gitea.com/woolster2020/vc/raw/branch/main/output/Mineral-29.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/OpenRay_DE.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/OpenRay_NL-1.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/OpenRay_NL-2.txt
@@ -73,8 +75,6 @@ https://gitea.com/woolster2020/vc/raw/branch/main/output/OpenRay_all-20.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/OpenRay_all-21.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/OpenRay_all-22.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/OpenRay_all-23.txt
-https://gitea.com/woolster2020/vc/raw/branch/main/output/OpenRay_all-24.txt
-https://gitea.com/woolster2020/vc/raw/branch/main/output/OpenRay_all-25.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/Proxy-List_hysteria2.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/Proxy-List_trojan-1.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/Proxy-List_trojan-2.txt

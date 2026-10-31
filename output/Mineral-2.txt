@@ -1,3 +1,7 @@
+trojan://5a2c16f9@57.128.178.232:8443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%AB%F0%9F%87%B7FR-57.128.178.232-1761
+trojan://5a2c16f9@57.128.181.125:8443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%AB%F0%9F%87%B7FR-57.128.181.125-1765
+trojan://5a2c16f9@57.128.181.151:443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%AB%F0%9F%87%B7FR-57.128.181.151-1774
+trojan://5a2c16f9@57.128.181.26:8443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%AB%F0%9F%87%B7FR-57.128.181.26-1768
 trojan://5a2c16f9@57.128.183.248:8443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%AB%F0%9F%87%B7FR-57.128.183.248-1758
 trojan://5a2c16f9@57.129.137.239:8443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%AC%F0%9F%87%A7GB-57.129.137.239-1760
 trojan://5a2c16f9@57.129.137.49:8443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%AC%F0%9F%87%A7GB-57.129.137.49-1775
@@ -494,7 +498,3 @@ trojan://DHvwod7oq7@104.21.80.1:2083/?type=ws&host=esna.twn24.ir&path=%2Fmehdi&s
 trojan://DailyConfigs@104.18.12.229:2087/?type=ws&host=kanale-daily-configs.blackoutconnection.ir&security=tls&sni=kanale-daily-configs.blackoutconnection.ir#%40Hope_Net-join-us-on-Telegram
 trojan://DailyConfigs@172.64.155.209:2087/?type=ws&path=%2F%40Daily_Configs%2C%40Daily_...&security=tls&sni=kanale-daily-configs.blackoutconnection.ir
 trojan://DailyConfigs@172.67.161.104:443/?type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2F%40Daily_Configs%2C%40Daily_Configs%3Fed%3D2560&security=tls&sni=kanale-daily-configs.blackoutconnection.ir#%40Hope_Net-join-us-on-Telegram
-trojan://Daily_Configs@104.17.91.181:2053/?type=ws&host=kanale-daily-configs.bl...&security=tls&sni=kanale-daily-configs.blackoutconnection.ir
-trojan://Daily_Configs@104.18.37.146:443/?type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&security=tls&sni=kanale-daily-configs.blackoutconnection.ir#%40Hope_Net-join-us-on-Telegram
-trojan://Daily_Configs@162.159.153.2:2053/?type=ws&host=kanale-daily-configs.blackoutconnection.ir&security=tls&sni=kanale-daily-configs.blackoutconnection.ir#%40Hope_Net-join-us-on-Telegram
-trojan://Daily_Configs@172.66.44.110:2053/?type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&security=tls&sni=kanale-daily-configs.blackoutconnection.ir&fp=randomized#%40Hope_Net-join-us-on-Telegram
