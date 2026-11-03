@@ -1,3 +1,11 @@
+trojan://5Va4g9kI9!WY@104.21.71.8:2087/?type=tcp&security=tls
+trojan://5a2c16f9@103.53.81.139:443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%AF%F0%9F%87%B5JP-103.53.81.139-1730
+trojan://5a2c16f9@104.17.167.134:443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%8F%81RELAY-104.17.167.134-0278
+trojan://5a2c16f9@104.19.220.22:443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%8F%81RELAY-104.19.220.22-0272
+trojan://5a2c16f9@104.19.55.205:443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%8F%81RELAY-104.19.55.205-0271
+trojan://5a2c16f9@104.26.1.110:443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%8F%81RELAY-104.26.1.110-0275
+trojan://5a2c16f9@132.145.88.82:38066/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%B0%F0%9F%87%B7KR-132.145.88.82-1764
+trojan://5a2c16f9@135.84.73.238:2096/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%BA%F0%9F%87%B8US-135.84.73.238-1770
 trojan://5a2c16f9@138.2.59.96:10129/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%AF%F0%9F%87%B5JP-138.2.59.96-1766
 trojan://5a2c16f9@156.230.12.71:443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%B8%F0%9F%87%A8SC-156.230.12.71-1771
 trojan://5a2c16f9@162.159.128.253:443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%8F%81RELAY-162.159.128.253-0274
@@ -490,11 +498,3 @@ trojan://Aimer@damien.ns.cloudflare.com:443/?type=tcp&security=tls&sni=ngepx.amb
 trojan://Aimer@duke.ns.cloudflare.com:443/?type=tcp&security=tls&sni=agepw.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@ignacio.ns.cloudflare.com:443/?type=tcp&security=tls&sni=epmf.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-108.162.195.82-1078
 trojan://Aimer@kip.ns.cloudflare.com:443/?type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=epml.ambercc.filegear-sg.me#%F0%9F%8C%BD66%40oneclickvpnkeys
-trojan://Aimer@lynn.ns.cloudflare.com:443/?type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=epml.ambercc.filegear-sg.me#%F0%9F%8C%BD73%40oneclickvpnkeys
-trojan://Aimer@pranab.ns.cloudflare.com:443/?type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized#%F0%9F%8C%BD87%40oneclickvpnkeys
-trojan://Aimer@sage.ns.cloudflare.com:443/?type=tcp&security=tls&sni=agepn.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-172.64.35.236-1338
-trojan://Aimer@thaddeus.ns.cloudflare.com:443/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-162.159.44.127-1962
-trojan://Aimer@theo.ns.cloudflare.com:443/?type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=epml.ambercc.filegear-sg.me#%F0%9F%8C%BD69%40oneclickvpnkeys
-trojan://BTns3czXfT@104.21.15.33:2096/?type=ws&host=support.sabapardaziran.ir&path=%2F%F0%9F%86%94%40M3HDIO1&security=tls&sni=support.sabapardaziran.ir&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome#%40Hope_Net-join-us-on-Telegram
-trojan://Bw5Mz7QkVp@139.84.172.132:443/?type=tcp&security=tls&sni=z-v2-077924.kailib.com#%40Hope_Net-join-us-on-Telegram
-trojan://BxceQaOe@219.76.135.98:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-219.76.135.98-1771
