@@ -1,3 +1,12 @@
+trojan://5a2c16f9@103.53.81.139:443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%AF%F0%9F%87%B5JP-103.53.81.139-1730
+trojan://5a2c16f9@104.17.167.134:443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%8F%81RELAY-104.17.167.134-0278
+trojan://5a2c16f9@104.19.220.22:443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%8F%81RELAY-104.19.220.22-0272
+trojan://5a2c16f9@104.19.55.205:443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%8F%81RELAY-104.19.55.205-0271
+trojan://5a2c16f9@104.26.1.110:443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%8F%81RELAY-104.26.1.110-0275
+trojan://5a2c16f9@132.145.88.82:38066/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%B0%F0%9F%87%B7KR-132.145.88.82-1764
+trojan://5a2c16f9@135.84.73.238:2096/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%BA%F0%9F%87%B8US-135.84.73.238-1770
+trojan://5a2c16f9@138.2.59.96:10129/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%AF%F0%9F%87%B5JP-138.2.59.96-1766
+trojan://5a2c16f9@156.230.12.71:443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%B8%F0%9F%87%A8SC-156.230.12.71-1771
 trojan://5a2c16f9@162.159.128.253:443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%8F%81RELAY-162.159.128.253-0274
 trojan://5a2c16f9@162.220.13.14:8443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%BA%F0%9F%87%B8US-162.220.13.14-1769
 trojan://5a2c16f9@162.55.187.121:8443/?type=tcp&security=tls&sni=snippets.kkii.eu.org#%F0%9F%87%A9%F0%9F%87%AADE-162.55.187.121-1757
@@ -24,7 +33,7 @@ trojan://5fb072e0ddd631cf66cf752b09210480@202.181.103.246:3076/?type=tcp&securit
 trojan://5fb072e0ddd631cf66cf752b09210480@202.181.103.246:3423/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.246-0899
 trojan://5fb072e0ddd631cf66cf752b09210480@38.180.107.76:443/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG-38.180.107.76-0905
 trojan://5fb072e0ddd631cf66cf752b09210480@38.180.190.13:443/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG-38.180.190.13-0904
-trojan://5ht01jip7wquct11@185.36.145.44:8?security=none&type=tcp#filembad-90
+trojan://5ht01jip7wquct11@185.36.145.44:8?security=none&type=tcp#filembad-93
 trojan://5t6i121em5lkmsmk@de001.zestapp778.com:51520?security=tls&type=tcp&headerType=none#@meliproxyy
 trojan://6040a753-e35b-4384-8713-96f3c639b621@104.21.21.226:443/?type=ws&path=%2FWxWOWO1YA9bs2HOmaeWimvT3&security=tls&sni=uK803.890689.Xyz#%F0%9F%8F%81RELAY-104.21.21.226-1450
 trojan://6040a753-e35b-4384-8713-96f3c639b621@172.67.200.238:443/?type=ws&path=%2FWxWOWO1YA9bs2HOmaeWimvT3&security=tls&sni=uK803.890689.Xyz#%F0%9F%8F%81RELAY-172.67.200.238-1139
@@ -144,6 +153,7 @@ trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.64:8443/?type=ws&host=tj
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.73:8443/?type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=tjjd.yzyx1.v6.army&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_073%20%40WangCai_8
 trojan://85950277-f447-48f0-9ead-aaf6d5ff3cad@104.21.49.59:443/?type=tcp&security=tls&sni=fghklo5.890617.xyz#%40Hope_Net-join-us-on-Telegram
 trojan://8697fe6b-1lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@185.44.76.188:443/?type=tcp&security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-185.44.76.188-4349
+trojan://86iqp87craz2l9zo@angelvpn.angelmh.cv:1633?security=reality&pbk=u3QgazUHzHjIpDdERKjAimr_01RRQdXuK9kMt5MsWzU&headerType=none&fp=chrome&spx=%2F8af81bdb180d0ed&type=tcp&sni=okamii1.ir&sid=9f091b0ff8330d0b#filembad-97
 trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@mfa.gov.ua:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%AC%23ShineNET%20VPN%20%2828%29
 trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@mfa.gov.ua:443/?type=ws&host=_acme-challenge.2go.cloudns.be&path=%2F&security=tls&sni=_acme-challenge.2go.cloudns.be&allowInsecure=1#%F0%9F%8E%A718%40oneclickvpnkeys
 trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@saas.sin.fan:443/?type=tcp&security=tls&sni=_acme-challenge.2go.cloudns.be#%F0%9F%8F%81RELAY-162.159.36.20-1565
@@ -488,13 +498,3 @@ trojan://Aimer@duke.ns.cloudflare.com:443/?type=tcp&security=tls&sni=agepw.amber
 trojan://Aimer@ignacio.ns.cloudflare.com:443/?type=tcp&security=tls&sni=epmf.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-108.162.195.82-1078
 trojan://Aimer@kip.ns.cloudflare.com:443/?type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=epml.ambercc.filegear-sg.me#%F0%9F%8C%BD66%40oneclickvpnkeys
 trojan://Aimer@lynn.ns.cloudflare.com:443/?type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=epml.ambercc.filegear-sg.me#%F0%9F%8C%BD73%40oneclickvpnkeys
-trojan://Aimer@pranab.ns.cloudflare.com:443/?type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized#%F0%9F%8C%BD87%40oneclickvpnkeys
-trojan://Aimer@sage.ns.cloudflare.com:443/?type=tcp&security=tls&sni=agepn.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-172.64.35.236-1338
-trojan://Aimer@thaddeus.ns.cloudflare.com:443/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-162.159.44.127-1962
-trojan://Aimer@theo.ns.cloudflare.com:443/?type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=epml.ambercc.filegear-sg.me#%F0%9F%8C%BD69%40oneclickvpnkeys
-trojan://BTns3czXfT@104.21.15.33:2096/?type=ws&host=support.sabapardaziran.ir&path=%2F%F0%9F%86%94%40M3HDIO1&security=tls&sni=support.sabapardaziran.ir&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome#%40Hope_Net-join-us-on-Telegram
-trojan://Bw5Mz7QkVp@139.84.172.132:443/?type=tcp&security=tls&sni=z-v2-077924.kailib.com#%40Hope_Net-join-us-on-Telegram
-trojan://BxceQaOe@219.76.135.98:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-219.76.135.98-1771
-trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#Hong%20Kong%20Netvigator
-trojan://BxceQaOe@58.152.46.60:443/?type=tcp&security=tls&sni=%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%2B%5BBy%2BDukeMehdi%5D%2Btrojan-HK%2B#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.46.60-1813
-trojan://BxceQaOe@58.152.53.174:443/?type=tcp&security=tls&sni=t.me%252Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.53.174-0627
