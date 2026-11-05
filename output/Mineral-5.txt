@@ -1,5 +1,3 @@
-trojan://blue2024@104.18.171.44:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://blue2024@104.18.183.55:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.18.187.171:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.18.191.251:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.18.199.255:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
@@ -468,6 +466,7 @@ trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096/?type=ws&path=%2F
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@194.53.53.11:2096/?type=tcp&security=tls&sni=vle.amclubssss.dpdns.org#%F0%9F%8C%B576%40oneclickvpnkeys
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@194.53.53.249:2083/?type=tcp&security=tls&sni=vle.amclubdns.dpdns.org#%F0%9F%8F%81RELAY-194.53.53.249-0628
 trojan://d7336719-df8e-4902-a7e1-8ff2c324eda3@edge02.themars.top:31106/?type=tcp&security=tls#%F0%9F%87%A9%F0%9F%87%AADE-91.195.240.12-1540
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@Sclass-C1.catcat321.com:20086?security=tls&sni=hk.catxstar.com&fp=chrome&type=tcp&headerType=none#@meliproxyy
 trojan://dTaXAtuoQF@185.143.232.200:443/?type=ws&host=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir&path=%2Fdownloadgame&security=tls&sni=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir#%40Hope_Net-join-us-on-Telegram
 trojan://dTaXAtuoQF@185.143.233.200:443/?type=ws&host=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir&path=%2Fdownloadgame&security=tls&sni=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir#%40Hope_Net-join-us-on-Telegram
 trojan://dTaXAtuoQF@185.143.235.200:443/?type=ws&host=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir&path=%2Fdownloadgame&security=tls&sni=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir#%40Hope_Net-join-us-on-Telegram
@@ -498,3 +497,4 @@ trojan://dns68@199.68.156.68:443/?type=ws&host=trojan.putata.us.kg&path=%2F%3Fed
 trojan://dns68@199.68.156.69:443/?type=ws&host=trojan.putata.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=trojan.putata.us.kg#%40Hope_Net-join-us-on-Telegram
 trojan://dns68@206.238.237.1:2087/?type=ws&host=trojan.putata.us.kg&path=%2F%3Fed&security=tls&sni=trojan.putata.us.kg#%40Hope_Net-join-u...
 trojan://dns68@63.141.128.254:443/?type=ws&host=trojan.putata.us.kg&path=%2F%3Fed&security=tls&sni=trojan.putata.us.kg#%40Hope_Net-join-us-on-Telegram
+trojan://dns68@66.179.48.88:443/?type=ws&host=trojan.putata.us.kg&security=tls&sni=trojan.putata.us.kg#%40Hope_Net-join-us-on-Telegram
