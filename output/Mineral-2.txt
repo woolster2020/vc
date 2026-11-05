@@ -1,3 +1,7 @@
+trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443/?type=tcp&security=tls&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-51.83.186.142-2627
+trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80/?type=tcp&security=tls&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-51.83.186.142-3656
+trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@104.26.8.202:443/?type=ws&host=de1.trojanvpn.dE&path=%2Fpath%2FAlfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config&security=tls&sni=de1.trojanvpn.de#%40Hope_Net-join-us-on-Telegram
+trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.195.236.24:443/?type=tcp&security=tls#%F0%9F%87%BB%F0%9F%87%B3VN-103.195.236.24-2333
 trojan://572e7789-76af-51c8-928b-e327d862f16c@190.93.247.152:80/?type=ws&host=Uk1.vless.site.&path=%2Fvless&security=tls&sni=Uk1.vless.site.#%40Hope_Net-join-us-on-Telegram
 trojan://578ade22-1e58-4c37-ce01-bfad51a72c62@104.17.147.22:8443/?type=grpc&security=tls&sni=13l1.diginoshops10.ir&alpn=h2%2Chttp%2F1.1&fp=chrome#%40Hope_Net-join-us-on-Telegram
 trojan://578ade22-1e58-4c37-ce01-bfad51a72c62@104.17.148.22:8443/?type=grpc&security=tls&sni=13l1.diginoshops10.ir&alpn=h2%2Chttp%2F1.1&fp=chrome#%40Hope_Net-join-us-on-Telegram
@@ -494,7 +498,3 @@ trojan://Aimer@77.238.236.134:8443/?type=tcp&security=tls&sni=ngepx.ambercc.file
 trojan://Aimer@86.38.214.186:443/?type=tcp&security=tls&sni=agepj.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@91.149.239.198:443/?type=tcp&security=tls&sni=agepq.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@91.199.32.191:2053/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8C%B584%40oneclickvpnkeys
-trojan://Aimer@92.243.74.115:443/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8C%B580%40oneclickvpnkeys
-trojan://Aimer@92.243.74.180:8443/?type=ws&path=%2F&security=tls&sni=tyep.esslh.filegear-sg.me#%F0%9F%8F%81RELAY-92.243.74.180-1973
-trojan://Aimer@92.243.74.23:2096/?type=tcp&security=tls&sni=epcct.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-92.243.74.23-2201
-trojan://Aimer@92.243.74.2:8443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram

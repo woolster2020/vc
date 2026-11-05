@@ -1,3 +1,7 @@
+trojan://Aimer@92.243.74.115:443/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8C%B580%40oneclickvpnkeys
+trojan://Aimer@92.243.74.180:8443/?type=ws&path=%2F&security=tls&sni=tyep.esslh.filegear-sg.me#%F0%9F%8F%81RELAY-92.243.74.180-1973
+trojan://Aimer@92.243.74.23:2096/?type=tcp&security=tls&sni=epcct.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-92.243.74.23-2201
+trojan://Aimer@92.243.74.2:8443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@92.243.74.3:8443/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-92.243.74.3-1427
 trojan://Aimer@92.53.190.161:2087/?type=tcp&security=tls&sni=epccf.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@95.216.143.166:443/?type=tcp&security=tls&sni=ngepy.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
@@ -494,7 +498,3 @@ trojan://NISHIKUITAN222@173.245.49.133:443/?type=tcp&security=tls#%40Hope_Net-jo
 trojan://NISHIKUITAN222@173.245.49.186:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN222@173.245.49.201:443/?type=ws&host=ij.ylks.xyz&path=%2F&security=tls&sni=ij.ylks.xyz#%40Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN222@173.245.49.45:443/?type=tcp&security=tls&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN222@173.245.58.132:443/?type=tcp&security=tls&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN222@173.245.59.185:443/?type=ws&host=im.ylks.xyz&path=%2F&security=tls&sni=im.ylks.xyz#%40Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN222@173.245.59.202:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN222@173.245.59.61:443/?type=ws&host=in.ylks.xyz&path=%2F&security=tls&sni=in.ylks.xyz#%40Hope_Net-join-us-on-Telegram
