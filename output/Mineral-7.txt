@@ -1,3 +1,9 @@
+trojan://slch2024@209.94.90.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-209.94.90.195-0595
+trojan://slch2024@209.94.90.87:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-209.94.90.87-0704
+trojan://slch2024@212.183.88.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%A6%F0%9F%87%B9AT-212.183.88.195-0594
+trojan://slch2024@212.183.88.87:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%A6%F0%9F%87%B9AT-212.183.88.87-0703
+trojan://slch2024@213.182.199.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-213.182.199.195-0593
+trojan://slch2024@213.182.199.87:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-213.182.199.87-0702
 trojan://slch2024@213.241.198.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-213.241.198.195-0591
 trojan://slch2024@213.241.198.87:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-213.241.198.87-0701
 trojan://slch2024@216.205.52.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-216.205.52.195-0589
@@ -492,9 +498,3 @@ vless://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443?path=%2Fesoznjws&
 vless://038416de-dc40-4dc0-8c8e-10de534c7cc0@8.47.69.4:2052/?type=ws&encryption=none&flow=&host=xsvpn-ch.90908585.ir&path=%2F%40XS_VPNROBOT#%F0%9F%9B%B814%40oneclickvpnkeys
 vless://038416de-dc40-4dc0-8c8e-10de534c7cc0@8.47.69.5:2052/?type=ws&encryption=none&flow=&host=xsvpn-ch.90908585.ir&path=%2F%40XS_VPNROBOT#%F0%9F%9B%B820%40oneclickvpnkeys
 vless://038a8726-9d1a-4245-be1f-fbd1f8f1fd44@dgrns1.vertalist.ir:1310/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#%40OnNetX
-vless://038a8726-9d1a-4245-be1f-fbd1f8f1fd44@ens.zdshop.ir:80/?type=tcp&encryption=none&flow=#Config
-vless://038a8726-9d1a-4245-be1f-fbd1f8f1fd44@nls.zdshop.ir:80/?type=xhttp&encryption=none&flow=#%40meowvip1
-vless://038a8726-9d1a-4245-be1f-fbd1f8f1fd44@shield.zdshop.ir:2053/?type=ws&encryption=none&flow=&host=sens.certhost.ir&security=tls&sni=sens.certhost.ir#%40OnNetX
-vless://03993135-ae86-433f-94d4-7bad33d7fc22@172.64.84.146:443/?type=ws&encryption=none&flow=&host=AZaDNEt-sTM-USA.PAgeS.DeV&path=%2FI3RIOvIdAaC64YFT%2FbmkucmFkaWNhbGx5LnBybw%3D%3D%3Fed%3D2560&security=tls&sni=AZaDnEt-sTm-uSa.PagES.dev&alpn=h2%2Chttp%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram
-vless://039a1658-e86e-475f-a3a4-67cc249acada@146.103.121.166:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nl2.panel11.ru&security=reality&pbk=N1HRDSdKHqdbSX_N5SUfFiokXcN-jQzu-Na244bA21I&sid=c64556c616970b14#%E2%9A%95%EF%B8%8F7%40oneclickvpnkeys
-vless://039a1658-e86e-475f-a3a4-67cc249acada@81.177.212.44:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sw1.panel11.ru&fp=chrome&security=reality&pbk=UQLa8BZNvHnwWL7pUnMbO046iRPh0jGhvA2xtjJRgQE&sid=8b263e22ba03b4c1#%40meliproxyy%20%2823%29
