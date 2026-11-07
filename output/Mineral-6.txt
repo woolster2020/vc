@@ -1,3 +1,5 @@
+trojan://e2722c0fb503f8a592436c12bce0509a@160.16.116.227:2760/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.116.227-5068
+trojan://e2722c0fb503f8a592436c12bce0509a@160.16.124.55:2760/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.124.55-4999
 trojan://e2722c0fb503f8a592436c12bce0509a@160.16.87.174:3169/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.87.174-0377
 trojan://e2722c0fb503f8a592436c12bce0509a@160.16.89.176:2890/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.89.176-5069
 trojan://e305e0b8-55ae-4873-bf52-18ac5863e85e@104.26.14.85:443/?type=splithttp&security=tls&sni=meta.maliva.space
@@ -108,7 +110,7 @@ trojan://humanity@104.18.152.230:443/?type=ws&host=www.ignitelimit.com&path=%2Fa
 trojan://humanity@104.18.152.233:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#%40nekopingbot_7831
 trojan://humanity@104.18.152.244:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2812%29
 trojan://humanity@104.18.152.246:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#%40nekopingbot_7804
-trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#canfingV2rayNG-100
+trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#canfingV2rayNG-58
 trojan://humanity@104.18.152.50:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28137%29
 trojan://humanity@104.18.152.73:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2861%29
 trojan://humanity@104.18.152.77:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28143%29
@@ -225,7 +227,7 @@ trojan://humanity@202.37.33.80:443/?type=ws&host=www.creationlong.org&path=%2Fas
 trojan://humanity@208.103.161.110:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&allowInsecure=1#%F0%9F%A5%9060%40oneclickvpnkeys
 trojan://humanity@208.103.161.170:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%40vmesskhodam%20%284%29
 trojan://humanity@212.183.88.136:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28102%29
-trojan://humanity@212.183.88.136:443?path=%2F%252Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@meliproxyy
+trojan://humanity@212.183.88.136:443?path=%2F%252Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@OutlineReleasedKey
 trojan://humanity@212.183.88.136:443?path=%2F%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@meliproxyy
 trojan://humanity@212.183.88.136:443?path=//assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@V2ray_Collector
 trojan://humanity@216.24.57.6:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2862%29
@@ -496,5 +498,3 @@ trojan://t%3D59N%3DMo9Mri3fydoIizU9vBbePqKilHij@192.248.173.25:443/?type=tcp&sec
 trojan://t%3D59N%3DMo9Mri3fydoIizU9vBbePqKilHij@45.32.176.168:443/?type=tcp&security=tls#London%20%28United%20Kingdom%29%20%283%29
 trojan://t%3D59N%3DMo9Mri3fydoIizU9vBbePqKilHij@78.141.232.96:443/?type=tcp&security=tls#London%20%28United%20Kingdom%29%20%281%29
 trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443/?type=tcp&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-38.60.220.65-0160
-trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443/?type=tcp&security=tls#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AE%F0%9F%87%A9%C2%AE%EF%B8%8FIndonesia%C2%A9%EF%B8%8FJakarta%F0%9F%85%BF%EF%B8%8Fping%3A234.73ms
-trojan://tXsBdKfoe9@104.25.145.188:2083/?type=ws&host=cpuhot.boshrachoice.ir.&path=%2FVPNTV20%40_TOP.COM.VPNTV20%40_TOP.COM.VPNTV20%40_TOP.COM%3Fed%3D2048&security=tls&sni=cpuhot.boshrachoice.ir.#33%F0%9F%A7%BF%40oneclickvpnkeys
