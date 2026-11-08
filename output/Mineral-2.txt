@@ -1,9 +1,3 @@
-trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443/?type=tcp&security=tls&sni=hdfyc1.achaemenidempireofpersia.uk#%40Hope_Net-join-us...
-trojan://527a7c04-9a2c-4fdb-aa18-37337e62e917@fastcup.net:8443/?type=ws&host=cdn-node-oss-99.paofu.de&path=%2Fprofile%2Ftelegram%40ssrsub&security=tls&sni=cdn-node-oss-99.paofu.de#%E7%BE%8E%E5%9B%BD05%20%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fdafei.de
-trojan://527a7c04-9a2c-4fdb-aa18-37337e62e917@pubg.ac:8443/?type=ws&host=cdn-node-oss-99.paofu.de&path=%2Fprofile%2Ftelegram%40ssrsub&security=tls&sni=cdn-node-oss-99.paofu.de#%E7%BE%8E%E5%9B%BD06%20%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fdafei.de
-trojan://53027f0f-2581-469a-a802-825d46f37cda@104.18.124.198:443/?type=ws&host=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&path=%2Fcassiusvpn.pages.dev%2F%3Fed%3D2560&security=tls&sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org#%40Hope_Net-join-us-on-Telegram
-trojan://53249200-30ff-436f-a032-0bb00605f8f9@172.67.219.196:443/?type=tcp&security=tls&sni=3derty.852224.dpdns.org#%F0%9F%8F%81RELAY-172.67.219.196-0932
-trojan://5365cb12-83e2-4e12-8098-c9673ed7f540@51.68.34.78:20155?path=%2Fbp-trojan&security=none&type=ws#filembad-73
 trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443/?type=tcp&security=tls#%F0%9F%87%AE%F0%9F%87%B3IN-152.67.160.174-0671
 trojan://5453ae26-250d-4e79-b4ec-016baf806865@172.67.204.22:443/?type=ws&path=%2FOYzPAeaZdXUq2d6J3gc4aj&security=tls&sni=1SdfghJk.890602.xyz#%F0%9F%8F%81RELAY-172.67.204.22-1327
 trojan://5453ae26-250d-4e79-b4ec-016baf806865@172.67.210.210:443/?type=ws&host=1cc.852224.ggff.net&path=%2FOYzPAeaZdXUq2d6J3gc4aj&security=tls&sni=1cc.852224.ggff.net#%F0%9F%9B%9F58%40oneclickvpnkeys
@@ -498,3 +492,9 @@ trojan://Aimer@46.254.93.211:2053/?type=tcp&security=tls&sni=epcch.ambercc.fileg
 trojan://Aimer@46.254.93.243:8443/?type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=epmk.ambercc.filegear-sg.me#%F0%9F%8C%BD59%40oneclickvpnkeys
 trojan://Aimer@46.254.93.251:2087/?type=tcp&security=tls&sni=epmd.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-46.254.93.251-1006
 trojan://Aimer@46.254.93.52:8443/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-46.254.93.52-2045
+trojan://Aimer@52.32.90.142:80/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-52.32.90.142-1427
+trojan://Aimer@63.141.128.66:2087/?type=tcp&security=tls&sni=epmf.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-63.141.128.66-1044
+trojan://Aimer@66.81.247.230:2096/?type=tcp&security=tls&sni=epmf.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-66.81.247.230-1048
+trojan://Aimer@67.226.221.100:80/?type=tcp&security=tls&sni=ngep.ambercc.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
+trojan://Aimer@67.226.221.102:80/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
+trojan://Aimer@67.226.221.104:80/?type=tcp&security=tls&sni=epccs.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-67.226.221.104-2019
