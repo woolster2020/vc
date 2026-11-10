@@ -159,6 +159,7 @@ hysteria2://d62s7ghfehm742us@151.243.169.164:12824?headerType=none&encryption=no
 hysteria2://d62s7ghfehm742us@151.243.169.164:12824?security=tls&sni=derfderf.ru#@V2ray_Collector
 hysteria2://d62s7ghfehm742us@151.243.169.164:12824?sni=derfderf.ru#@OutlineReleasedKey
 hysteria2://d62s7ghfehm742us@151.243.169.164:12824?sni=derfderf.ru&insecure=0#@V2ray_Collector
+hysteria2://d62s7ghfehm742us@derfderf.ru:12824?security=tls&sni=derfderf.ru#@V2ray_Collector
 hysteria2://d62s7ghfehm742us@derfderf.ru:12824?sni=derfderf.ru#@V2ray_Collector
 hysteria2://d62s7ghfehm742us@derfderf.ru:12824?sni=derfderf.ru&insecure=1#@V2ray_Collector
 hysteria2://d62s7ghfehm742us@derfderf.ru:12824?sni=derfderf.ru&path=%2f#@V2ray_Collector
@@ -262,6 +263,7 @@ trojan://0792bb58-36ac-451e-a629-e363e53da93b@172.67.180.67:443/?type=ws&host=ka
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.1:443/?type=ws&host=sherasheba.com&path=%2F6b777a91&security=tls&sni=sherasheba.com#%40Hope_Net-join-us-on-Telegram
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443/?type=ws&host=jobscareerfortoday.com&path=%2F6b777a91&security=tls&sni=jobscareerfortoday.com#%40Hope_Net-join-us-on-Telegram
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#@V2ray_Collector
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&sni=searchcreativejobsandshowcaseyourartistictalents.com#@V2ray_Collector
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.179.108.225:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=discoverparttimepositionsandsupplementyourincomeguide.com#@meliproxyy
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.179.108.225:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=discoverparttimepositionsandsupplementyourincomeguide.com&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#@meliproxyy
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.193:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=browseseniorrolesandenhanceyourcareertoday.com#@meliproxyy
@@ -496,5 +498,3 @@ trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@103.168.56.77:443/?type=tcp&securi
 trojan://4f435a3a-dfb8-4c90-b637-8df8c5d44550@104.21.26.17:443/?type=tcp&security=tls&sni=m9rrrfgh.459.pp.ua#%F0%9F%8F%81RELAY-104.21.26.17-2051
 trojan://4f435a3a-dfb8-4c90-b637-8df8c5d44550@172.67.135.37:443/?type=ws&path=%2Fl6lvY4hFZriQDBimbKYmPIggy&security=tls&sni=m9rrrfgh.459.pp.ua#%F0%9F%8F%81RELAY-172.67.135.37-1352
 trojan://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443/?type=ws&host=Noshteri.hooplnqpb.ir&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&sni=Noshteri.hooplnqpb.ir#%40Hope_Net-join-us-on-Telegram
-trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443/?type=ws&path=%2F5.223.47.32%3D443&security=tls&sni=afrcloud1.mmv.kr#%F0%9F%87%BA%F0%9F%87%B8US-216.24.57.250-0980
-trojan://509ed9b7-8d64-4204-8ec8-6b749020ac3f@104.21.3.189:443/?type=tcp&security=tls&sni=CcCVfGTyU.89060004.Xyz#%F0%9F%8F%81RELAY-104.21.3.189-0729
