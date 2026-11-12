@@ -44,7 +44,6 @@ https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/Mineral
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/Mineral-25.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/Mineral-26.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/Mineral-27.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/Mineral-28.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_DE.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_NL.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/OpenRay_SG.txt
@@ -77,7 +76,6 @@ https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/V2RayCF
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/daily_free_vpn-1.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/daily_free_vpn-2.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/daily_free_vpn-3.txt
-https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/daily_free_vpn-4.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/openproxylist.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/telegram-v2ray-configs-collector.txt
 https://raw.githubusercontent.com/woolster2020/vc/refs/heads/main/output/v2ray-configs-1.txt
