@@ -1,3 +1,8 @@
+trojan://blue2024@104.17.87.167:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
+trojan://blue2024@104.17.90.26:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
+trojan://blue2024@104.18.108.137:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
+trojan://blue2024@104.18.112.2:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
+trojan://blue2024@104.18.117.191:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.18.121.158:443/?type=tcp&security=tls&sni=td.promote.icu#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.18.123.217:443/?type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560&security=tls&sni=ta.promote.icu#%F0%9F%AB%9138%40oneclickvpnkeys
 trojan://blue2024@104.18.127.92:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
@@ -479,6 +484,7 @@ trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@194.53.53.11:2096/?type=tcp&securi
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@194.53.53.249:2083/?type=tcp&security=tls&sni=vle.amclubdns.dpdns.org#%F0%9F%8F%81RELAY-194.53.53.249-0628
 trojan://d7336719-df8e-4902-a7e1-8ff2c324eda3@edge02.themars.top:31106/?type=tcp&security=tls#%F0%9F%87%A9%F0%9F%87%AADE-91.195.240.12-1540
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@Sclass-C1.catcat321.com:20086?security=tls&sni=hk.catxstar.com&fp=chrome&type=tcp&headerType=none#@meliproxyy
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-c1.catcat321.com:20086?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=hk.catxstar.com#@meliproxyy
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-c1.catcat321.com:20086?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#canfingV2rayNG-61
 trojan://dTaXAtuoQF@185.143.232.200:443/?type=ws&host=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir&path=%2Fdownloadgame&security=tls&sni=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir#%40Hope_Net-join-us-on-Telegram
 trojan://dTaXAtuoQF@185.143.233.200:443/?type=ws&host=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir&path=%2Fdownloadgame&security=tls&sni=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir#%40Hope_Net-join-us-on-Telegram
@@ -492,9 +498,3 @@ trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:3169/?type=tcp&security
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.124.55:702/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.124.55-1501
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.138.24:127/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.138.24-0280
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.138.24:2890/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.138.24-0279
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.196.59:2890?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#United%20State%20Hivelocity
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.81.84:2890/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.81.84-1196
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.81.84:702/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.81.84-1197
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.89.176:2760/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.89.176-5665
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.89.176:702/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.89.176-0264
-trojan://dd39bb7d-2bea-41b5-be20-fa228a45f639@iiiiii9.huangshang.us.ci:443/?type=ws&host=iiiiii9.HuANGShANg.uS.ci&path=%2FtSROScnWofV7ia41dH&security=tls&sni=iiiiiI9.hUANgShaNG.uS.Ci&alpn=http%2F1.1#%40nekopingbot_194
