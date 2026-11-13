@@ -44,7 +44,6 @@ https://gitea.com/woolster2020/vc/raw/branch/main/output/Mineral-24.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/Mineral-25.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/Mineral-26.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/Mineral-27.txt
-https://gitea.com/woolster2020/vc/raw/branch/main/output/Mineral-28.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/OpenRay_DE.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/OpenRay_NL.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/OpenRay_SG.txt
@@ -92,6 +91,7 @@ https://gitea.com/woolster2020/vc/raw/branch/main/output/v2ray-configs-10.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/vify-1.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/vify-2.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/vpn-configs-for-russia_black_all.txt
-https://gitea.com/woolster2020/vc/raw/branch/main/output/vpn-configs-for-russia_black_vless.txt
+https://gitea.com/woolster2020/vc/raw/branch/main/output/vpn-configs-for-russia_black_vless-1.txt
+https://gitea.com/woolster2020/vc/raw/branch/main/output/vpn-configs-for-russia_black_vless-2.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/vpn-configs-for-russia_black_vless_mobile.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/xray-config-toolkit.txt
