@@ -15,7 +15,6 @@ https://gitea.com/woolster2020/vc/raw/branch/main/output/.proxy-14.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/.proxy-15.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/.proxy-16.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/.proxy-17.txt
-https://gitea.com/woolster2020/vc/raw/branch/main/output/.proxy-18.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/AutoVPN.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/Config-Collector.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/Mineral-1.txt
@@ -45,6 +44,7 @@ https://gitea.com/woolster2020/vc/raw/branch/main/output/Mineral-24.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/Mineral-25.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/Mineral-26.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/Mineral-27.txt
+https://gitea.com/woolster2020/vc/raw/branch/main/output/Mineral-28.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/OpenRay_DE.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/OpenRay_NL.txt
 https://gitea.com/woolster2020/vc/raw/branch/main/output/OpenRay_SG.txt
