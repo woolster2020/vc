@@ -1,12 +1,3 @@
-trojan://3BLPOJr3OY@pl.scpnb.top:50191?mode=gun&security=reality&pbk=wJIhXHD_EuOXggJz8ad6Er_SdUUhsPg9rTYwkACmuU0&fp=chrome&spx=%2F&type=grpc&sni=cloudflare.com&sid=2e#Poland%20Cloudflare
-trojan://3b38715b-f08a-46dd-9904-7531ca4bb6e8@95.182.120.208:2053/?type=tcp&security=tls&sni=joss.gpj.web.id#%F0%9F%87%B7%F0%9F%87%BARU-95.182.120.208-1175
-trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&security=tls&fp=chrome&type=grpc&serviceName=db&sni=n2.gladns.com#United%20State%20Nato
-trojan://3df56fd0-d1b7-4793-b877-acd356d960f3@172.66.44.56:443/?type=ws&host=aestingdownloadupload.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&sni=pages.dev#%40Hope_Net-join-us-on-Telegram
-trojan://3febb05ea76a940f@60.249.3.125:3389/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.3.125-2329
-trojan://4045e84e-5e3c-4f70-8ff5-c1097882a55a@172.66.47.100:443/?type=ws&path=%2FTelegram%40Li...&security=tls&sni=BPb-WOrKeR-paneL1-e4P.PAGES.DEV
-trojan://4069c35c-54ea-48ee-9ffa-05d9a0302043@104.21.71.131:443/?type=ws&path=%2FGawgMugyRDAQXp6e0CScyGqcQZW&security=tls&sni=m5rt.999854.xyz#%F0%9F%8F%81RELAY-104.21.71.131-1846
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#Japan%20NTT%20Pc
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.57.238:2760/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%9F%A994%40oneclickvpnkeys
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.81.84:2760/?type=tcp&security=tls&sni=t.me%2Foneclickvpnkeys#%F0%9F%9F%A992%40oneclickvpnkeys
 trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@jp.mjt001.com:443/?type=tcp&security=tls&sni=jp.mjt001.com#%F0%9F%87%AD%F0%9F%87%B0HK-45.149.92.71-3631
 trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443/?type=ws&host=bangladeshipatri.com&path=6b777a91%23%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&security=tls&sni=bangladeshipatri.com&alpn=http%2F1.1&fp=safari#%40Hope_Net-join-us-on-Telegram
@@ -498,3 +489,12 @@ trojan://Aimer@206.238.236.31:8443/?type=tcp&security=tls&sni=ngep.ambercc.fileg
 trojan://Aimer@206.238.236.8:2096/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@206.238.236.90:2087/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@206.238.237.118:8443/?type=tcp&security=tls&sni=acepo.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
+trojan://Aimer@206.238.237.86:2087/?type=tcp&security=tls&sni=agepy.ambercc.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
+trojan://Aimer@206.238.237.92:2087/?type=tcp&security=tls&sni=acepo.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
+trojan://Aimer@209.208.227.79:443/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=epccj.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-209.208.227.79-1974
+trojan://Aimer@209.94.90.64:443/?type=tcp&security=tls&sni=epccu.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
+trojan://Aimer@212.41.15.119:443/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
+trojan://Aimer@213.241.198.189:2053/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-213.241.198.189-1501
+trojan://Aimer@213.241.198.56:2083/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-213.241.198.56-2023
+trojan://Aimer@213.241.198.59:2083/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-213.241.198.59-1470
+trojan://Aimer@216.198.53.212:8443/?type=tcp&security=tls&sni=epcct.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-216.198.53.212-2141
