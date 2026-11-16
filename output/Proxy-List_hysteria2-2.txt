@@ -1,3 +1,4 @@
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.143:4444?sni=pl3.nexfile.net#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-1654
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.144:4444?sni=pl2.nexfile.net#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-1060
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.146:4444?sni=pl3.nexfile.net#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-1854
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.147:4444?sni=pl2.nexfile.net#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-540
