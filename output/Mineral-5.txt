@@ -1,3 +1,6 @@
+trojan://blue2024@104.17.60.1:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg&allowInsecure=1#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B19%5D
+trojan://blue2024@104.17.68.85:443/?type=ws&host=hb.lii2010.us.kg&security=tls&sni=hb.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
+trojan://blue2024@104.17.71.31:443/?type=tcp&security=tls
 trojan://blue2024@104.17.71.89:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.17.87.167:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.17.90.26:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
@@ -448,6 +451,7 @@ trojan://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.47.200:443/?type=ws&host=mI
 trojan://c76f0a11e6ba410084c745ad5e92db5f@187.52.45.183:54032?fp=&host=flawers.shop&mode=auto&path=/assets/static/main.js&pbk=SmpFJJ640phT1swTmtifquX9PSuaq2eA0hdUkD2mfyo&security=reality&sid=75aaaa50d52b0121&sni=flawers.shop&type=xhttp#@V2ray_Collector
 trojan://c76f0a11e6ba410084c745ad5e92db5f@187.52.45.183:54032?mode=auto&path=%2Fassets%2Fstatic%2Fmain.js&security=reality&pbk=SmpFJJ640phT1swTmtifquX9PSuaq2eA0hdUkD2mfyo&host=flawers.shop&type=xhttp&sni=flawers.shop&sid=75aaaa50d52b0121#@meliproxyy
 trojan://c76f0a11e6ba410084c745ad5e92db5f@217.60.34.72:59321?fp=&host=flawers.shop&mode=auto&path=%2Fassets%2Fstatic%2Fmain.js&pbk=spV8o98ODd4zrGgQYQtu3h2xYBxoSzf6KZ3pj-flhGg&security=reality&sid=6979c4&sni=flawers.shop&type=xhttp#@OutlineReleasedKey
+trojan://c76f0a11e6ba410084c745ad5e92db5f@flawers.shop:54032?fp=&host=flawers.shop&mode=auto&path=/assets/static/main.js&pbk=SmpFJJ640phT1swTmtifquX9PSuaq2eA0hdUkD2mfyo&security=reality&sid=a4&sni=flawers.shop&type=xhttp#@OutlineReleasedKey
 trojan://c76f0a11e6ba410084c745ad5e92db5f@flawers.shop:54032?mode=auto&path=/assets/static/main.js&security=reality&pbk=SmpFJJ640phT1swTmtifquX9PSuaq2eA0hdUkD2mfyo&host=flawers.shop&type=xhttp&sni=flawers.shop&sid=a4#@V2ray_Collector
 trojan://c85761bc-5d74-4ae5-b525-0d32443182fa@au.mjt000.com:443/?type=tcp&security=tls&sni=au.mjt000.com#%F0%9F%87%AD%F0%9F%87%B0HK-20.2.156.38-1213
 trojan://c85761bc-5d74-4ae5-b525-0d32443182fa@il.mjt000.com:443/?type=tcp&security=tls&sni=il.mjt000.com#%F0%9F%87%AD%F0%9F%87%B0HK-20.2.156.38-1221
@@ -494,7 +498,3 @@ trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-b1.catcat321.com:20028?secu
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@Sclass-C1.catcat321.com:20086?security=tls&sni=hk.catxstar.com&fp=chrome&type=tcp&headerType=none#@meliproxyy
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-c1.catcat321.com:20086?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=hk.catxstar.com#@meliproxyy
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-c1.catcat321.com:20086?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#canfingV2rayNG-45
-trojan://dTaXAtuoQF@185.143.232.200:443/?type=ws&host=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir&path=%2Fdownloadgame&security=tls&sni=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir#%40Hope_Net-join-us-on-Telegram
-trojan://dTaXAtuoQF@185.143.233.200:443/?type=ws&host=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir&path=%2Fdownloadgame&security=tls&sni=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir#%40Hope_Net-join-us-on-Telegram
-trojan://dTaXAtuoQF@185.143.235.200:443/?type=ws&host=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir&path=%2Fdownloadgame&security=tls&sni=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir#%40Hope_Net-join-us-on-Telegram
-trojan://da128246-33b0-4c88-a44e-d91e9e0a1e05@104.21.17.127:443/?type=ws&host=x4.859885.xyz&path=%2FUmUQq8h08wB9JsgTazwz9&security=tls&sni=x4.859885.XYz&alpn=http%2F1.1&fp=chrome#43%F0%9F%92%A7%40oneclickvpnkeys
