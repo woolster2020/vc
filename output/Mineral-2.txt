@@ -1,3 +1,4 @@
+trojan://3763495982449565696@77.73.70.64:443/?type=tcp&security=tls&sni=relaxed-jaybird.treefrog761.one#%40Hope_Net-join-us-on-Telegram
 trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443/?type=ws&host=edu.ruangguru.com.cyylr.eu.cc&path=%2Fid-tksi&security=tls&sni=edu.ruangguru.com.cyylr.eu.cc#5845
 trojan://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443/?type=ws&host=aksnmaioas.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&sni=aksnmaioas.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.47.23:443/?type=ws&path=%2FTelegram%40V2ray_Alpha%2F%3Fe...&security=tls&sni=aksnmaioas.pages.dev
@@ -497,4 +498,3 @@ trojan://Aimer@206.238.236.8:2096/?type=tcp&security=tls&sni=agept.ambercc.fileg
 trojan://Aimer@206.238.236.90:2087/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@206.238.237.118:8443/?type=tcp&security=tls&sni=acepo.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@206.238.237.86:2087/?type=tcp&security=tls&sni=agepy.ambercc.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://Aimer@206.238.237.92:2087/?type=tcp&security=tls&sni=acepo.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram

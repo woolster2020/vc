@@ -1,3 +1,4 @@
+trojan://blue2024@104.17.236.240:443/?type=ws&host=ha.lii2010.us.kg&path=%2F%3Fed&security=tls&sni=ha.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.17.237.148:443/?type=ws&host=ha.lii2010.us.kg&security=tls&sni=ha.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.17.246.107:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.17.255.92:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
@@ -497,4 +498,3 @@ trojan://d6b6ea41-0950-4611-8246-224583e4ed1e@151.101.2.228:443/?type=ws&path=ws
 trojan://d6b6ea41-0950-4611-8246-224583e4ed1e@151.101.66.228:443/?type=ws&host=uhc6rhiubu.com&path=ws%2F%3Fed%3D2048&security=tls&sni=pscresearch.faculty.ucdavis.edu#%40Hope_Net-join-us-on-Telegram
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@104.17.128.1:2096/?type=tcp&security=tls&sni=vle.amclubdns.dpdns.org#%F0%9F%8F%81RELAY-104.17.128.1-0184
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@104.25.254.4:2087/?type=tcp&security=tls&sni=vle.amclubdns.dpdns.org#%F0%9F%8F%81RELAY-104.25.254.4-0195
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096/?type=ws&path=%2F&security=tls&sni=vle.amclubsvip.dpdns.org#%F0%9F%8F%81RELAY-154.83.2.54-0705
