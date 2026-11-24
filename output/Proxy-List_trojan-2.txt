@@ -1,8 +1,3 @@
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.222:443?security=tls&sni=yourultimateprofessionalcareerhub.com&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#@V2ray_Collector
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=learn.yourultimateprofessionalcareerhub.com#%40ConfigV2RayNG
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.yourultimateprofessionalcareerhub.com#@V2ray_Collector
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.yourultimateprofessionalcareerhub.com#CH
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&sni=learn.yourultimateprofessionalcareerhub.com&fp=chrome&type=tcp&headerType=none#CH
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?sni=learn.yourultimateprofessionalcareerhub.com&allowInsecure=1&type=tcp&fp=chrome#@V2ray_Collector
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?allowInsecure=0&sni=courses.yourultimateprofessionalcareerhub.com#%5Bwww.v2nodes.com%5D%20trojan-CH-...%20%234
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?allowInsecure=0&sni=courses.yourultimateprofessionalcareerhub.com#%5Bwww.v2nodes.com%5D%20trojan-CH-...%20%234%202
@@ -498,3 +493,8 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@leviko-ch0171.shopingggg.ir:443?securi
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@leviko-ch0171.shopingggg.ir:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#Join+Telegram:@Farah_VPN
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@leviko-ch7952.shopingggg.ir:443?security=tls&headerType=none&type=tcp&sni=cdn.yourultimateprofessionalcareerhub.com#@meliproxyy
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@leviko-cl0640.shopingggg.ir:443?security=tls&headerType=none&type=tcp&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#@meliproxyy
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@leviko-cl0640.shopingggg.ir:443?security=tls&headerType=none&type=tcp&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#CL
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@leviko-cl0640.shopingggg.ir:443?security=tls&headerType=none&type=tcp&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#Join+Telegram:@Farah_VPN
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@leviko-cl7123.shopingggg.ir:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#@meliproxyy
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@leviko-cl7123.shopingggg.ir:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#CL
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@leviko-cl7123.shopingggg.ir:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#
