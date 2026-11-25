@@ -123,6 +123,8 @@ hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@31.76.62.148:4444/?sni=lv2.nexf
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@31.76.62.148:4444?sni=lv2.nexfile.net#@V2ray_Collector
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@48.102.214.167:4444?security=tls&alpn=h3&insecure=0&sni=fl5.edgeport.cloud#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%AE
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@48.102.214.171:4444?sni=fl4.edgeport.cloud#@V2ray_Collector
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@48.102.214.171:4444?sni=fl4.edgeport.cloud&insecure=0&allowInsecure=0#@V2ray_Collector
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4444#@V2ray_Collector
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4444?insecure=0&obfs=&obfs-password=&security=tls&sni=bl1.nexfile.net#@OutlineReleasedKey
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4444?insecure=0&sni=bl1.nexfile.net&obfs=&obfs-password=#@V2ray_Collector
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4444?insecure=1&security=tls&sni=bl1.nexfile.net#@V2ray_Collector
@@ -377,6 +379,7 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?security=tls&insecure
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.154:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.indyourperfectremotetechjobfromthecomfortofhome.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.154:443?security=tls&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=www.indyourperfectremotetechjobfromthecomfortofhome.com#@meliproxyy
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.155:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=indyourperfectremotetechjobfromthecomfortofhome.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.155:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=indyourperfectremotetechjobfromthecomfortofhome.com#@meliproxyy
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.215:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.indyourperfectremotetechjobfromthecomfortofhome.com#%40outline_ir
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.225:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.indyourperfectremotetechjobfromthecomfortofhome.com#@meliproxyy
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.225:443?security=tls&sni=cdn.indyourperfectremotetechjobfromthecomfortofhome.com&type=tcp&headerType=none#@meliproxyy
@@ -495,6 +498,3 @@ trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@bestcdn1.868863.xyz:2096/?type=ws&
 trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@bestcdn3.868863.xyz:2053/?type=ws&path=%2Fvideomuaawe&security=tls&sni=17654164557530.206355.xyz#%F0%9F%8F%81RELAY-141.101.120.158-2860
 trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@bestcdn3.868863.xyz:2083/?type=ws&path=%2Fagrbniuh&security=tls&sni=17654164554850.796813.xyz#%F0%9F%8F%81RELAY-141.101.120.158-2872
 trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@bestcdn3.868863.xyz:2087/?type=ws&path=%2Fagraeabtegrrh&security=tls&sni=17654164559610.796812.xyz#%F0%9F%8F%81RELAY-141.101.120.158-2866
-trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@bestcdn4.868863.xyz:2053/?type=ws&path=%2Fagrbniuh&security=tls&sni=17654164558244.796813.xyz#%F0%9F%8F%81RELAY-104.21.224.5-2864
-trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@bestcdn4.868863.xyz:2083/?type=ws&path=%2Fvideomuaawe&security=tls&sni=17654164557421.206355.xyz#%F0%9F%8F%81RELAY-104.21.224.5-2279
-trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@bestcdn4.868863.xyz:2087/?type=ws&path=%2Fagrbniuh&security=tls&sni=17654164559539.796813.xyz#%F0%9F%8F%81RELAY-104.17.25.173-0925
