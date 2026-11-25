@@ -1,3 +1,11 @@
+trojan://Aimer@206.238.236.137:8443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
+trojan://Aimer@206.238.236.16:443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
+trojan://Aimer@206.238.236.192:2087/?type=tcp&security=tls&sni=amepo.ambercc.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
+trojan://Aimer@206.238.236.198:2083/?type=tcp&security=tls&sni=agepw.ambercc.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
+trojan://Aimer@206.238.236.216:2083/?type=tcp&security=tls&sni=agepy.aimercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%ACSG-206.238.236.216-1376
+trojan://Aimer@206.238.236.252:2096/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%ACSG-206.238.236.252-1495
+trojan://Aimer@206.238.236.31:8443/?type=tcp&security=tls&sni=ngep.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
+trojan://Aimer@206.238.236.8:2096/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@206.238.236.90:2087/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@206.238.237.118:8443/?type=tcp&security=tls&sni=acepo.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@206.238.237.86:2087/?type=tcp&security=tls&sni=agepy.ambercc.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
@@ -129,7 +137,7 @@ trojan://MiTiVPN@167.82.76.7:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTi
 trojan://MiTiVPN@167.82.76.7:443?path=%40mehrosaboran&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#canfingV2rayNG-51
 trojan://MiTiVPN@185.133.35.22:443/?type=ws&host=Finl.App-Cloud.ir&path=%2FMiTiVPN%3DfL&security=tls&sni=Finl.App-Cloud.ir&alpn=http%2F1.1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A7%F0%9F%87%B7%C2%AE%EF%B8%8FBrazil%C2%A9%EF%B8%8FCasa%20Verde%F0%9F%85%BF%EF%B8%8Fping%3A45.82ms
 trojan://MiTiVPN@199.232.78.101:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#canfingV2rayNG-66
-trojan://MiTiVPN@199.232.78.101:443?path=%2F--TELEGRAM--TOOTFFARANGI&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#canfingV2rayNG-68
+trojan://MiTiVPN@199.232.78.101:443?path=%2F--TELEGRAM--TOOTFFARANGI&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#canfingV2rayNG-48
 trojan://MiTiVPN@199.232.78.160:443?path=%40mehrosaboran&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#canfingV2rayNG-69
 trojan://MiTiVPN@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%3D26%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn.si&fp=chrome&type=ws&allowInsecure=0&sni=steamstatic.com#@meliproxyy
 trojan://MiTiVPN@88.216.67.230:443/?type=ws&host=Nel.App-Cloud.ir&path=%2FMiTiVPN%3DNL&security=tls&sni=Nel.App-Cloud.ir&alpn=http%2F1.1&fp=firefox#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%BC%C2%AE%EF%B8%8FCuracao%C2%A9%EF%B8%8FWillemstad%F0%9F%85%BF%EF%B8%8Fping%3A47.18ms
@@ -490,11 +498,3 @@ trojan://NISHIKUITAN222@104.25.100.134:443/?type=tcp&security=tls&allowInsecure=
 trojan://NISHIKUITAN222@104.25.144.60:443/?type=tcp&security=tls&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN222@104.25.152.149:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN222@104.25.154.54:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN222@104.25.160.173:443/?type=tcp&security=tls&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN222@104.25.166.217:443/?type=tcp&security=tls&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN222@104.25.171.225:443/?type=tcp&security=tls&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN222@104.25.178.88:443/?type=tcp&security=tls&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN222@104.25.180.55:443/?type=tcp&security=tls&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN222@104.25.194.188:443/?type=tcp&security=tls&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN222@104.25.203.49:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN222@104.25.215.64:443/?type=tcp&security=tls&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
